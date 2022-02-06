@@ -330,5 +330,248 @@
     "alternatives": [
       "përsëri"
     ]
-  }
+  },
+  {
+    "word": "hallall",
+    "origin": "ottoman",
+    "adaptations": [
+      "hallall"
+    ],
+    "alternatives": [
+      "e drejte",
+      "e merituar"
+    ]
+  },
+   {
+    "word": "zarar",
+    "origin": "ottoman",
+    "adaptations": [
+      "zarar"
+    ],
+    "alternatives": [
+      "dëm",
+      "faj"
+    ]
+  },
+   {
+    "word": "javash",
+    "origin": "ottoman",
+    "adaptations": [
+      "avash"
+    ],
+    "alternatives": [
+      "ngadale"
+    ]
+  },
+
+{
+    "word": "avlli",
+    "origin": "ottoman",
+    "adaptations": [
+      "avlli"
+    ],
+    "alternatives": [
+      "mur rrethues i oborrit"
+    ]
+  },
+
+  {
+    "word": "inshallah",
+    "origin": "ottoman",
+    "adaptations": [
+      "inshallah"
+    ],
+    "alternatives": [
+      "vullneti i zotit"
+    ]
+  },
+
+  {
+    "word": "pazar",
+    "origin": "ottoman",
+    "adaptations": [
+      "pazar"
+    ],
+    "alternatives": [
+      "treg",
+      "marrëveshje"
+    ]
+  },
+  {
+    "word": "damar",
+    "origin": "ottoman",
+    "adaptations": [
+      "damar"
+    ],
+    "alternatives": [
+      "venë"
+    ]
+  },
+  
+  {
+    "word": "sehir",
+    "origin": "ottoman",
+    "adaptations": [
+      "sehir"
+    ],
+    "alternatives": [
+      "sodit",
+      "shikon"
+    ]
+  },
+
+  {
+    "word": "sabah",
+    "origin": "ottoman",
+    "adaptations": [
+      "sabah"
+    ],
+    "alternatives": [
+      "mëngjes"
+    ]
+  },
+
+  {
+    "word": "akşam",
+    "origin": "ottoman",
+    "adaptations": [
+      "aksham"
+    ],
+    "alternatives": [
+      "mbrëmje"
+    ]
+  },
+  {
+    "word": "aslan",
+    "origin": "ottoman",
+    "adaptations": [
+      "asllan"
+    ],
+    "alternatives": [
+      "luan"
+    ]
+  },
+  {
+    "word": "boş",
+    "origin": "ottoman",
+    "adaptations": [
+      "bosh"
+    ],
+    "alternatives": [
+      "i zbrazët"
+    ]
+  },
+  {
+    "word": "çorba",
+    "origin": "ottoman",
+    "adaptations": [
+      "çorbë"
+    ],
+    "alternatives": [
+      "supë"
+    ]
+  },
+  {
+    "word": "kanun",
+    "origin": "ottoman",
+    "adaptations": [
+      "kanun"
+    ],
+    "alternatives": [
+      "ligj"
+    ]
+  },
+  {
+    "word": "nişan",
+    "origin": "ottoman",
+    "adaptations": [
+      "nishan"
+    ],
+    "alternatives": [
+      "shenje"
+    ]
+  },
+  {
+    "word": "sebep",
+    "origin": "ottoman",
+    "adaptations": [
+      "sebep"
+    ],
+    "alternatives": [
+      "arsye"
+    ]
+  },
+  {
+    "word": "surat",
+    "origin": "ottoman",
+    "adaptations": [
+      "surrat"
+    ],
+    "alternatives": [
+      "fytyrë"
+    ]
+  },
+
+  {
+    "word": "ters",
+    "origin": "ottoman",
+    "adaptations": [
+      "ters"
+    ],
+    "alternatives": [
+      "mbrapsht"
+    ]
+  },
+
+  {
+    "word": "takat",
+    "origin": "ottoman",
+    "adaptations": [
+      "takat"
+    ],
+    "alternatives": [
+      "fuqi"
+    ]
+  },
+  {
+    "word": "torba",
+    "origin": "ottoman",
+    "adaptations": [
+      "torbë"
+    ],
+    "alternatives": [
+      "thes"
+    ]
+  },
+  {
+    "word": "vatan",
+    "origin": "ottoman",
+    "adaptations": [
+      "vatan"
+    ],
+    "alternatives": [
+      "atdhe"
+    ]
+  },
+  {
+    "word": "yazik",
+    "origin": "ottoman",
+    "adaptations": [
+      "jazëk"
+    ],
+    "alternatives": [
+      "mekat"
+    ]
+  },
+  {
+    "word": "yeşil",
+    "origin": "ottoman",
+    "adaptations": [
+      "jeshil"
+    ],
+    "alternatives": [
+      "i gjelber"
+    ]
+  },
+
 ]

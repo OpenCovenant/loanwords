@@ -17,3 +17,4 @@ like to express our gratitude in the following alphabetical list.
 
 - AndiBraimllari (Andi Braimllari)
 - KostaTB
+- AndersonCeci (Anderson Ceci)

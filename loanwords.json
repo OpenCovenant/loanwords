@@ -338,7 +338,7 @@
       "hallall"
     ],
     "alternatives": [
-      "e drejte",
+      "e drejtë",
       "e merituar"
     ]
   },
@@ -353,17 +353,6 @@
       "faj"
     ]
   },
-   {
-    "word": "javash",
-    "origin": "ottoman",
-    "adaptations": [
-      "avash"
-    ],
-    "alternatives": [
-      "ngadale"
-    ]
-  },
-
 {
     "word": "avlli",
     "origin": "ottoman",
@@ -375,39 +364,6 @@
     ]
   },
 
-  {
-    "word": "inshallah",
-    "origin": "ottoman",
-    "adaptations": [
-      "inshallah"
-    ],
-    "alternatives": [
-      "vullneti i zotit"
-    ]
-  },
-
-  {
-    "word": "pazar",
-    "origin": "ottoman",
-    "adaptations": [
-      "pazar"
-    ],
-    "alternatives": [
-      "treg",
-      "marrëveshje"
-    ]
-  },
-  {
-    "word": "damar",
-    "origin": "ottoman",
-    "adaptations": [
-      "damar"
-    ],
-    "alternatives": [
-      "venë"
-    ]
-  },
-  
   {
     "word": "sehir",
     "origin": "ottoman",
@@ -430,17 +386,6 @@
       "mëngjes"
     ]
   },
-
-  {
-    "word": "akşam",
-    "origin": "ottoman",
-    "adaptations": [
-      "aksham"
-    ],
-    "alternatives": [
-      "mbrëmje"
-    ]
-  },
   {
     "word": "aslan",
     "origin": "ottoman",
@@ -452,16 +397,6 @@
     ]
   },
   {
-    "word": "boş",
-    "origin": "ottoman",
-    "adaptations": [
-      "bosh"
-    ],
-    "alternatives": [
-      "i zbrazët"
-    ]
-  },
-  {
     "word": "çorba",
     "origin": "ottoman",
     "adaptations": [
@@ -469,26 +404,6 @@
     ],
     "alternatives": [
       "supë"
-    ]
-  },
-  {
-    "word": "kanun",
-    "origin": "ottoman",
-    "adaptations": [
-      "kanun"
-    ],
-    "alternatives": [
-      "ligj"
-    ]
-  },
-  {
-    "word": "nişan",
-    "origin": "ottoman",
-    "adaptations": [
-      "nishan"
-    ],
-    "alternatives": [
-      "shenje"
     ]
   },
   {
@@ -519,7 +434,8 @@
       "ters"
     ],
     "alternatives": [
-      "mbrapsht"
+      "mbrapsht",
+      "fat i keq"
     ]
   },
 
@@ -562,16 +478,6 @@
     "alternatives": [
       "mekat"
     ]
-  },
-  {
-    "word": "yeşil",
-    "origin": "ottoman",
-    "adaptations": [
-      "jeshil"
-    ],
-    "alternatives": [
-      "i gjelber"
-    ]
-  },
+  }
 
 ]

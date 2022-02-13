@@ -15,6 +15,7 @@ loanword.
 The entries found in this dataset have been manually curated, even though there is still a very low number of them. We'd
 like to express our gratitude in the following alphabetical list.
 
+- AndersonCeci (Anderson Ceci)
 - AndiBraimllari (Andi Braimllari)
 - KostaTB
-- AndersonCeci (Anderson Ceci)
+

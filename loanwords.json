@@ -331,17 +331,6 @@
       "përsëri"
     ]
   },
-  {
-    "word": "hallall",
-    "origin": "ottoman",
-    "adaptations": [
-      "hallall"
-    ],
-    "alternatives": [
-      "e drejtë",
-      "e merituar"
-    ]
-  },
    {
     "word": "zarar",
     "origin": "ottoman",
@@ -360,7 +349,8 @@
       "avlli"
     ],
     "alternatives": [
-      "mur rrethues i oborrit"
+      "mur rrethues i oborrit",
+      "gardh"
     ]
   },
 
@@ -372,7 +362,8 @@
     ],
     "alternatives": [
       "sodit",
-      "shikon"
+      "shikon",
+      "vëzhgon"
     ]
   },
 
@@ -476,8 +467,9 @@
       "jazëk"
     ],
     "alternatives": [
-      "mekat"
+      "mekat",
+      "turp",
+      "faqja e zezë"
     ]
   }
-
 ]

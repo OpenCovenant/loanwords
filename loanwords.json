@@ -330,5 +330,146 @@
     "alternatives": [
       "përsëri"
     ]
+  },
+   {
+    "word": "zarar",
+    "origin": "ottoman",
+    "adaptations": [
+      "zarar"
+    ],
+    "alternatives": [
+      "dëm",
+      "faj"
+    ]
+  },
+{
+    "word": "avlli",
+    "origin": "ottoman",
+    "adaptations": [
+      "avlli"
+    ],
+    "alternatives": [
+      "mur rrethues i oborrit",
+      "gardh"
+    ]
+  },
+
+  {
+    "word": "sehir",
+    "origin": "ottoman",
+    "adaptations": [
+      "sehir"
+    ],
+    "alternatives": [
+      "sodit",
+      "shikon",
+      "vëzhgon"
+    ]
+  },
+
+  {
+    "word": "sabah",
+    "origin": "ottoman",
+    "adaptations": [
+      "sabah"
+    ],
+    "alternatives": [
+      "mëngjes"
+    ]
+  },
+  {
+    "word": "aslan",
+    "origin": "ottoman",
+    "adaptations": [
+      "asllan"
+    ],
+    "alternatives": [
+      "luan"
+    ]
+  },
+  {
+    "word": "çorba",
+    "origin": "ottoman",
+    "adaptations": [
+      "çorbë"
+    ],
+    "alternatives": [
+      "supë"
+    ]
+  },
+  {
+    "word": "sebep",
+    "origin": "ottoman",
+    "adaptations": [
+      "sebep"
+    ],
+    "alternatives": [
+      "arsye"
+    ]
+  },
+  {
+    "word": "surat",
+    "origin": "ottoman",
+    "adaptations": [
+      "surrat"
+    ],
+    "alternatives": [
+      "fytyrë"
+    ]
+  },
+
+  {
+    "word": "ters",
+    "origin": "ottoman",
+    "adaptations": [
+      "ters"
+    ],
+    "alternatives": [
+      "mbrapsht",
+      "fat i keq"
+    ]
+  },
+
+  {
+    "word": "takat",
+    "origin": "ottoman",
+    "adaptations": [
+      "takat"
+    ],
+    "alternatives": [
+      "fuqi"
+    ]
+  },
+  {
+    "word": "torba",
+    "origin": "ottoman",
+    "adaptations": [
+      "torbë"
+    ],
+    "alternatives": [
+      "thes"
+    ]
+  },
+  {
+    "word": "vatan",
+    "origin": "ottoman",
+    "adaptations": [
+      "vatan"
+    ],
+    "alternatives": [
+      "atdhe"
+    ]
+  },
+  {
+    "word": "yazik",
+    "origin": "ottoman",
+    "adaptations": [
+      "jazëk"
+    ],
+    "alternatives": [
+      "mekat",
+      "turp",
+      "faqja e zezë"
+    ]
   }
 ]

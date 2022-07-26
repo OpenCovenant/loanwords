@@ -1,460 +1,974 @@
-[
-  {
-    "word": "pencere",
-    "origin": "ottoman",
-    "adaptations": [
-      "penxhere"
-    ],
-    "alternatives": [
-      "dritare"
-    ]
-  },
-  {
-    "word": "akşam",
-    "origin": "ottoman",
-    "adaptations": [
-      "akshan",
-      "aksham"
-    ],
-    "alternatives": [
-      "darkë"
-    ]
-  },
-  {
-    "word": "kuç",
-    "origin": "slavic",
-    "adaptations": [
-      "kuç"
-    ],
-    "alternatives": [
-      "qen"
-    ]
-  },
-  {
-    "word": "leader",
-    "origin": "english",
-    "adaptations": [
-      "lider"
-    ],
+{
+  "lider": {
     "alternatives": [
       "prijës",
-      "drejtues",
-      "udhëheqës",
-      "kryetar"
-    ]
-  },
-  {
-    "word": "aman",
-    "origin": "ottoman",
-    "adaptations": [
-      "aman"
+      "drejtues"
     ],
+    "origin": "english",
+    "word": "leader"
+  },
+  "lideri": {
+    "alternatives": [
+      "prijësi",
+      "drejtuesi"
+    ],
+    "origin": "english",
+    "word": "leader"
+  },
+  "liderit": {
+    "alternatives": [
+      "prijësit",
+      "drejtuesit"
+    ],
+    "origin": "english",
+    "word": "leader"
+  },
+  "liderin": {
+    "alternatives": [
+      "prijësin",
+      "drejtuesin"
+    ],
+    "origin": "english",
+    "word": "leader"
+  },
+  "obligim": {
+    "alternatives": [
+      "detyrim"
+    ],
+    "origin": "english",
+    "word": "obligation"
+  },
+  "obligimi": {
+    "alternatives": [
+      "detyrimi"
+    ],
+    "origin": "english",
+    "word": "obligation"
+  },
+  "obligimit": {
+    "alternatives": [
+      "detyrimit"
+    ],
+    "origin": "english",
+    "word": "obligation"
+  },
+  "obligimin": {
+    "alternatives": [
+      "detyrimin"
+    ],
+    "origin": "english",
+    "word": "obligation"
+  },
+  "evaziv": {
+    "alternatives": [
+      "shmangës"
+    ],
+    "origin": "english",
+    "word": "evasive"
+  },
+  "evazive": {
+    "alternatives": [
+      "shmangëse"
+    ],
+    "origin": "english",
+    "word": "evasive"
+  },
+  "lojalitet": {
+    "alternatives": [
+      "besnikëri"
+    ],
+    "origin": "english",
+    "word": "loyalty"
+  },
+  "louajalitet": {
+    "alternatives": [
+      "besnikëri"
+    ],
+    "origin": "english",
+    "word": "loyalty"
+  },
+  "start": {
+    "alternatives": [
+      "fillim"
+    ],
+    "origin": "english",
+    "word": "start"
+  },
+  "starti": {
+    "alternatives": [
+      "fillimi"
+    ],
+    "origin": "english",
+    "word": "start"
+  },
+  "startin": {
+    "alternatives": [
+      "fillimin"
+    ],
+    "origin": "english",
+    "word": "start"
+  },
+  "startit": {
+    "alternatives": [
+      "fillimit"
+    ],
+    "origin": "english",
+    "word": "start"
+  },
+  "poll": {
+    "alternatives": [
+      "sondazh",
+      "anketë"
+    ],
+    "origin": "english",
+    "word": "poll"
+  },
+  "frustrim": {
+    "alternatives": [
+      "acarim"
+    ],
+    "origin": "english",
+    "word": "frustration"
+  },
+  "frustrimi": {
+    "alternatives": [
+      "acarimi"
+    ],
+    "origin": "english",
+    "word": "frustration"
+  },
+  "frustrimit": {
+    "alternatives": [
+      "acarimit"
+    ],
+    "origin": "english",
+    "word": "frustration"
+  },
+  "frustrimin": {
+    "alternatives": [
+      "acarimin"
+    ],
+    "origin": "english",
+    "word": "frustration"
+  },
+  "internacional": {
+    "alternatives": [
+      "ndërkombëtar"
+    ],
+    "origin": "english",
+    "word": "frustration"
+  },
+  "support": {
+    "alternatives": [
+      "mbështetje"
+    ],
+    "origin": "english",
+    "word": "support"
+  },
+  "suport": {
+    "alternatives": [
+      "mbështetje"
+    ],
+    "origin": "english",
+    "word": "support"
+  },
+  "pasuord": {
+    "alternatives": [
+      "fjalëkalim"
+    ],
+    "origin": "english",
+    "word": "password"
+  },
+  "kalkulator": {
+    "alternatives": [
+      "makinë llogaritëse"
+    ],
+    "origin": "english",
+    "word": "calculator"
+  },
+  "xheti": {
+    "alternatives": [
+      "avioni"
+    ],
+    "origin": "english",
+    "word": "jet"
+  },
+  "psonis": {
+    "alternatives": [
+      "blej"
+    ],
+    "origin": "greek",
+    "word": "ψωνίζω"
+  },
+  "psonisim": {
+    "alternatives": [
+      "blejmë"
+    ],
+    "origin": "greek",
+    "word": "ψωνίζω"
+  },
+  "psonisin": {
+    "alternatives": [
+      "blejnë"
+    ],
+    "origin": "greek",
+    "word": "ψωνίζω"
+  },
+  "aksham": {
+    "alternatives": [
+      "darkë"
+    ],
+    "origin": "ottoman",
+    "word": "akşam"
+  },
+  "akshami": {
+    "alternatives": [
+      "darka"
+    ],
+    "origin": "ottoman",
+    "word": "akşam"
+  },
+  "akshamin": {
+    "alternatives": [
+      "darkën"
+    ],
+    "origin": "ottoman",
+    "word": "akşam"
+  },
+  "akshame": {
+    "alternatives": [
+      "darka"
+    ],
+    "origin": "ottoman",
+    "word": "akşam"
+  },
+  "vatan": {
+    "alternatives": [
+      "atdhe"
+    ],
+    "origin": "ottoman",
+    "word": "vatan"
+  },
+  "vatani": {
+    "alternatives": [
+      "atdheu"
+    ],
+    "origin": "ottoman",
+    "word": "vatan"
+  },
+  "vatanit": {
+    "alternatives": [
+      "atdheut"
+    ],
+    "origin": "ottoman",
+    "word": "vatan"
+  },
+  "vatanin": {
+    "alternatives": [
+      "atdheun"
+    ],
+    "origin": "ottoman",
+    "word": "vatan"
+  },
+  "torbë": {
+    "alternatives": [
+      "thes"
+    ],
+    "origin": "ottoman",
+    "word": "torba"
+  },
+  "torbës": {
+    "alternatives": [
+      "thesit"
+    ],
+    "origin": "ottoman",
+    "word": "torba"
+  },
+  "torbën": {
+    "alternatives": [
+      "thesin"
+    ],
+    "origin": "ottoman",
+    "word": "torba"
+  },
+  "penxhere": {
+    "alternatives": [
+      "dritare"
+    ],
+    "origin": "ottoman",
+    "word": "pencere"
+  },
+  "penxheres": {
+    "alternatives": [
+      "dritares"
+    ],
+    "origin": "ottoman",
+    "word": "pencere"
+  },
+  "penxheren": {
+    "alternatives": [
+      "dritaren"
+    ],
+    "origin": "ottoman",
+    "word": "pencere"
+  },
+  "penxhereve": {
+    "alternatives": [
+      "dritareve"
+    ],
+    "origin": "ottoman",
+    "word": "pencere"
+  },
+  "aman": {
     "alternatives": [
       "falmë",
       "mëshiromë",
       "ndihmë"
-    ]
-  },
-  {
-    "word": "amanet",
-    "origin": "ottoman",
-    "adaptations": [
-      "amanet"
     ],
+    "origin": "ottoman",
+    "word": "aman"
+  },
+  "jazëk": {
+    "alternatives": [
+      "mëkat",
+      "turp",
+      "faqja e zezë"
+    ],
+    "origin": "ottoman",
+    "word": "yazik"
+  },
+  "ters": {
+    "alternatives": [
+      "mbrapsht",
+      "fat i keq"
+    ],
+    "origin": "ottoman",
+    "word": "ters"
+  },
+  "surrat": {
+    "alternatives": [
+      "fytyrë"
+    ],
+    "origin": "ottoman",
+    "word": "surat"
+  },
+  "surrati": {
+    "alternatives": [
+      "fytyra"
+    ],
+    "origin": "ottoman",
+    "word": "surat"
+  },
+  "surratit": {
+    "alternatives": [
+      "fytyrës"
+    ],
+    "origin": "ottoman",
+    "word": "surat"
+  },
+  "surratin": {
+    "alternatives": [
+      "fytyrën"
+    ],
+    "origin": "ottoman",
+    "word": "surat"
+  },
+  "amanet": {
     "alternatives": [
       "porosi"
-    ]
-  },
-  {
-    "word": "bedava",
-    "origin": "ottoman",
-    "adaptations": [
-      "badjava"
     ],
+    "origin": "ottoman",
+    "word": "amanet"
+  },
+  "amaneti": {
+    "alternatives": [
+      "porosia"
+    ],
+    "origin": "ottoman",
+    "word": "amanet"
+  },
+  "amanetit": {
+    "alternatives": [
+      "porosisë"
+    ],
+    "origin": "ottoman",
+    "word": "amanet"
+  },
+  "amanetin": {
+    "alternatives": [
+      "porosinë"
+    ],
+    "origin": "ottoman",
+    "word": "amanet"
+  },
+  "amanete": {
+    "alternatives": [
+      "porosi"
+    ],
+    "origin": "ottoman",
+    "word": "amanet"
+  },
+  "amanetet": {
+    "alternatives": [
+      "porositë"
+    ],
+    "origin": "ottoman",
+    "word": "amanet"
+  },
+  "amaneteve": {
+    "alternatives": [
+      "porosive"
+    ],
+    "origin": "ottoman",
+    "word": "amanet"
+  },
+  "amanetesh": {
+    "alternatives": [
+      "porosish"
+    ],
+    "origin": "ottoman",
+    "word": "amanet"
+  },
+  "badjava": {
     "alternatives": [
       "falas"
-    ]
-  },
-  {
-    "word": "hizmet",
-    "origin": "ottoman",
-    "adaptations": [
-      "yzmet",
-      "hyzmet"
     ],
+    "origin": "ottoman",
+    "word": "bedava"
+  },
+  "yzmet": {
     "alternatives": [
       "punë",
       "shërbim",
       "kujdesje"
-    ]
-  },
-  {
-    "word": "bahçe",
-    "origin": "ottoman",
-    "adaptations": [
-      "bahçë",
-      "baçë"
     ],
+    "origin": "ottoman",
+    "word": "hizmet"
+  },
+  "baçë": {
     "alternatives": [
       "kopësht"
-    ]
-  },
-  {
-    "word": "adet",
-    "origin": "ottoman",
-    "adaptations": [
-      "adet"
     ],
+    "origin": "ottoman",
+    "word": "bahçe"
+  },
+  "adet": {
     "alternatives": [
       "zakon",
       "qokë"
-    ]
-  },
-  {
-    "word": "biçim",
-    "origin": "ottoman",
-    "adaptations": [
-      "biçim"
     ],
+    "origin": "ottoman",
+    "word": "adet"
+  },
+  "adeti": {
+    "alternatives": [
+      "zakoni",
+      "qoka"
+    ],
+    "origin": "ottoman",
+    "word": "adet"
+  },
+  "adetit": {
+    "alternatives": [
+      "zakonit",
+      "qokës"
+    ],
+    "origin": "ottoman",
+    "word": "adet"
+  },
+  "adetin": {
+    "alternatives": [
+      "zakonin",
+      "qokën"
+    ],
+    "origin": "ottoman",
+    "word": "adet"
+  },
+  "adete": {
+    "alternatives": [
+      "zakone",
+      "qoka"
+    ],
+    "origin": "ottoman",
+    "word": "adet"
+  },
+  "biçim": {
     "alternatives": [
       "lloj",
       "trajtë",
       "përgjasim"
-    ]
-  },
-  {
-    "word": "çoban",
-    "origin": "ottoman",
-    "adaptations": [
-      "çoban"
     ],
+    "origin": "ottoman",
+    "word": "biçim"
+  },
+  "çoban": {
     "alternatives": [
       "bari"
-    ]
-  },
-  {
-    "word": "fukara",
-    "origin": "ottoman",
-    "adaptations": [
-      "fukara"
     ],
+    "origin": "ottoman",
+    "word": "çoban"
+  },
+  "fukara": {
     "alternatives": [
       "i varfër",
       "i gjorë",
       "skamor",
       "shkretnaç"
-    ]
-  },
-  {
-    "word": "hale",
-    "origin": "ottoman",
-    "adaptations": [
-      "hale"
     ],
+    "origin": "ottoman",
+    "word": "fukara"
+  },
+  "hale": {
     "alternatives": [
       "nevojtore"
-    ]
-  },
-  {
-    "word": "hair",
-    "origin": "ottoman",
-    "adaptations": [
-      "hair",
-      "hajër"
     ],
+    "origin": "ottoman",
+    "word": "hale"
+  },
+  "hajër": {
     "alternatives": [
       "mbarësi"
-    ]
-  },
-  {
-    "word": "bile",
-    "origin": "ottoman",
-    "adaptations": [
-      "bile"
     ],
+    "origin": "ottoman",
+    "word": "hair"
+  },
+  "bile": {
     "alternatives": [
       "madje",
       "për më tepër"
-    ]
-  },
-  {
-    "word": "loyalty",
-    "origin": "english",
-    "adaptations": [
-      "louajalitet",
-      "lojalitet"
     ],
-    "alternatives": [
-      "besnikëri"
-    ]
-  },
-  {
-    "word": "start",
-    "origin": "english",
-    "adaptations": [
-      "start"
-    ],
-    "alternatives": [
-      "fillim"
-    ]
-  },
-  {
-    "word": "obligation",
-    "origin": "english",
-    "adaptations": [
-      "obligim"
-    ],
-    "alternatives": [
-      "detyrim"
-    ]
-  },
-  {
-    "word": "poll",
-    "origin": "english",
-    "adaptations": [
-      "poll"
-    ],
-    "alternatives": [
-      "sondazh",
-      "anketë"
-    ]
-  },
-  {
-    "word": "frustration",
-    "origin": "english",
-    "adaptations": [
-      "frustrim"
-    ],
-    "alternatives": [
-      "acarim"
-    ]
-  },
-  {
-    "word": "international",
-    "origin": "english",
-    "adaptations": [
-      "internacional"
-    ],
-    "alternatives": [
-      "ndërkombëtar"
-    ]
-  },
-  {
-    "word": "mesele",
     "origin": "ottoman",
-    "adaptations": [
-      "mesele"
-    ],
+    "word": "bile"
+  },
+  "mesele": {
     "alternatives": [
       "çështje",
       "problem"
-    ]
-  },
-  {
-    "word": "support",
-    "origin": "english",
-    "adaptations": [
-      "support",
-      "suport"
     ],
-    "alternatives": [
-      "mbështetje"
-    ]
-  },
-  {
-    "word": "evasive",
-    "origin": "english",
-    "adaptations": [
-      "evazive"
-    ],
-    "alternatives": [
-      "shmangëse"
-    ]
-  },
-  {
-    "word": "extern",
-    "origin": "english",
-    "adaptations": [
-      "eksterne"
-    ],
-    "alternatives": [
-      "e jashtme"
-    ]
-  },
-  {
-    "word": "password",
-    "origin": "english",
-    "adaptations": [
-      "pasuord"
-    ],
-    "alternatives": [
-      "fjalëkalim"
-    ]
-  },
-  {
-    "word": "calculator",
-    "origin": "english",
-    "adaptations": [
-      "kalkulator"
-    ],
-    "alternatives": [
-      "makinë llogaritëse"
-    ]
-  },
-  {
-    "word": "ψωνίζω",
-    "origin": "greek",
-    "adaptations": [
-      "psonis"
-    ],
-    "alternatives": [
-      "blej"
-    ]
-  },
-  {
-    "word": "jet",
-    "origin": "english",
-    "adaptations": [
-      "xheti"
-    ],
-    "alternatives": [
-      "avioni"
-    ]
-  },
-  {
-    "word": "опет",
-    "origin": "slavic",
-    "adaptations": [
-      "apet"
-    ],
-    "alternatives": [
-      "përsëri"
-    ]
-  },
-  {
-    "word": "zarar",
     "origin": "ottoman",
-    "adaptations": [
-      "zarar"
-    ],
+    "word": "mesele"
+  },
+  "zarar": {
     "alternatives": [
       "dëm",
       "faj"
-    ]
-  },
-  {
-    "word": "sehir",
-    "origin": "ottoman",
-    "adaptations": [
-      "sehir"
     ],
+    "origin": "ottoman",
+    "word": "zarar"
+  },
+  "sehir": {
     "alternatives": [
       "sodit",
       "shikon",
       "vëzhgon"
-    ]
-  },
-  {
-    "word": "sabah",
-    "origin": "ottoman",
-    "adaptations": [
-      "sabah"
     ],
+    "origin": "ottoman",
+    "word": "sehir"
+  },
+  "sabah": {
     "alternatives": [
       "mëngjes"
-    ]
-  },
-  {
-    "word": "aslan",
-    "origin": "ottoman",
-    "adaptations": [
-      "asllan"
     ],
+    "origin": "ottoman",
+    "word": "sabah"
+  },
+  "asllan": {
     "alternatives": [
       "luan"
-    ]
-  },
-  {
-    "word": "çorba",
-    "origin": "ottoman",
-    "adaptations": [
-      "çorbë"
     ],
+    "origin": "ottoman",
+    "word": "aslan"
+  },
+  "çorbë": {
     "alternatives": [
       "supë"
-    ]
-  },
-  {
-    "word": "sebep",
-    "origin": "ottoman",
-    "adaptations": [
-      "sebep"
     ],
+    "origin": "ottoman",
+    "word": "çorba"
+  },
+  "sebep": {
     "alternatives": [
       "arsye"
-    ]
-  },
-  {
-    "word": "surat",
-    "origin": "ottoman",
-    "adaptations": [
-      "surrat"
     ],
-    "alternatives": [
-      "fytyrë"
-    ]
-  },
-  {
-    "word": "ters",
     "origin": "ottoman",
-    "adaptations": [
-      "ters"
-    ],
-    "alternatives": [
-      "mbrapsht",
-      "fat i keq"
-    ]
+    "word": "sebep"
   },
-  {
-    "word": "takat",
-    "origin": "ottoman",
-    "adaptations": [
-      "takat"
-    ],
+  "takati": {
     "alternatives": [
-      "fuqi"
-    ]
+      "fuqia"
+    ],
+    "origin": "ottoman",
+    "word": "takat"
   },
-  {
-    "word": "torba",
-    "origin": "ottoman",
-    "adaptations": [
-      "torbë"
-    ],
+  "takatin": {
     "alternatives": [
-      "thes"
-    ]
+      "fuqinë"
+    ],
+    "origin": "ottoman",
+    "word": "takat"
   },
-  {
-    "word": "vatan",
-    "origin": "ottoman",
-    "adaptations": [
-      "vatan"
-    ],
+  "takatit": {
     "alternatives": [
-      "atdhe"
-    ]
+      "fuqisë"
+    ],
+    "origin": "ottoman",
+    "word": "takat"
   },
-  {
-    "word": "yazik",
-    "origin": "ottoman",
-    "adaptations": [
-      "jazëk"
-    ],
+  "apet": {
     "alternatives": [
-      "mëkat",
-      "turp",
-      "faqja e zezë"
-    ]
+      "përsëri"
+    ],
+    "word": "опет",
+    "origin": "slavic"
+  },
+  "kuç": {
+    "alternatives": [
+      "qen"
+    ],
+    "word": "kuç",
+    "origin": "slavic"
+  },
+  "kuçi": {
+    "alternatives": [
+      "qeni"
+    ],
+    "word": "kuç",
+    "origin": "slavic"
+  },
+  "kuçit": {
+    "alternatives": [
+      "qenit"
+    ],
+    "word": "kuç",
+    "origin": "slavic"
+  },
+  "kuçin": {
+    "alternatives": [
+      "qenin"
+    ],
+    "word": "kuç",
+    "origin": "slavic"
+  },
+  "lokacion": {
+    "alternatives": [
+      "vendndodhje"
+    ],
+    "word": "location",
+    "origin": "english"
+  },
+  "lokacioni": {
+    "alternatives": [
+      "vendndodhja"
+    ],
+    "word": "location",
+    "origin": "english"
+  },
+  "lokacionin": {
+    "alternatives": [
+      "vendndodhjen"
+    ],
+    "word": "location",
+    "origin": "english"
+  },
+  "adekuat": {
+    "alternatives": [
+      "i përshtatshëm",
+      "i mjaftueshem"
+    ],
+    "word": "adequate",
+    "origin": "english"
+  },
+  "rikonstruksion": {
+    "alternatives": [
+      "rindërtim"
+    ],
+    "word": "reconstruction",
+    "origin": "english"
+  },
+  "rikonstruksioni": {
+    "alternatives": [
+      "rindërtimi"
+    ],
+    "word": "reconstruction",
+    "origin": "english"
+  },
+  "rikonstruksionin": {
+    "alternatives": [
+      "rindërtimin"
+    ],
+    "word": "reconstruction",
+    "origin": "english"
+  },
+  "inaguron": {
+    "alternatives": [
+      "përuron"
+    ],
+    "word": "inaugurate",
+    "origin": "english"
+  },
+  "inagurim": {
+    "alternatives": [
+      "përurim"
+    ],
+    "word": "inaugurate",
+    "origin": "english"
+  },
+  "inagurimi": {
+    "alternatives": [
+      "përurimi"
+    ],
+    "word": "inaugurate",
+    "origin": "english"
+  },
+  "bankrotim": {
+    "alternatives": [
+      "falimentim"
+    ],
+    "word": "bankrupt",
+    "origin": "english"
+  },
+  "akumuloj": {
+    "alternatives": [
+      "grumbulloj",
+      "mbledh"
+    ],
+    "word": "accumulate",
+    "origin": "english"
+  },
+  "definim": {
+    "alternatives": [
+      "përcaktim",
+      "përkufizim"
+    ],
+    "word": "defining",
+    "origin": "english"
+  },
+  "definicion": {
+    "alternatives": [
+      "përcaktim",
+      "përkufizim"
+    ],
+    "word": "definition",
+    "origin": "english"
+  },
+  "religjion": {
+    "alternatives": [
+      "fe",
+      "besim"
+    ],
+    "word": "religion",
+    "origin": "english"
+  },
+  "impresive": {
+    "alternatives": [
+      "mbresëlënëse"
+    ],
+    "word": "impressive",
+    "origin": "english"
+  },
+  "beneficion": {
+    "alternatives": [
+      "perfitim"
+    ],
+    "word": "benefit",
+    "origin": "english"
+  },
+  "termin": {
+    "alternatives": [
+      "takim"
+    ],
+    "word": "termin",
+    "origin": "german"
+  },
+  "evidencat": {
+    "alternatives": [
+      "provat",
+      "dëshmitë"
+    ],
+    "word": "evidence",
+    "origin": "english"
+  },
+  "evidencave": {
+    "alternatives": [
+      "provave",
+      "dëshmive"
+    ],
+    "word": "evidence",
+    "origin": "english"
+  },
+  "fundamental": {
+    "alternatives": [
+      "themelor"
+    ],
+    "word": "fundamental",
+    "origin": "english"
+  },
+  "distributor": {
+    "alternatives": [
+      "shpërndarës"
+    ],
+    "word": "distributor",
+    "origin": "english"
+  },
+  "distributori": {
+    "alternatives": [
+      "shpërndarësi"
+    ],
+    "word": "distributor",
+    "origin": "english"
+  },
+  "distributorit": {
+    "alternatives": [
+      "shpërndarësit"
+    ],
+    "word": "distributor",
+    "origin": "english"
+  },
+  "distributorin": {
+    "alternatives": [
+      "shpërndarësin"
+    ],
+    "word": "distributor",
+    "origin": "english"
+  },
+  "konfidencialitet": {
+    "alternatives": [
+      "fshehtësi"
+    ],
+    "word": "confidentiality",
+    "origin": "english"
+  },
+  "konfidencialiteti": {
+    "alternatives": [
+      "fshehtësia"
+    ],
+    "word": "confidentiality",
+    "origin": "english"
+  },
+  "obligohen": {
+    "alternatives": [
+      "detyrohen"
+    ],
+    "word": "obligate",
+    "origin": "english"
+  },
+  "indicie": {
+    "alternatives": [
+      "tregues",
+      "shenjë"
+    ],
+    "word": "indizio",
+    "origin": "italian"
+  },
+  "kualitet": {
+    "alternatives": [
+      "cilësi"
+    ],
+    "word": "quality",
+    "origin": "english"
+  },
+  "kualiteti": {
+    "alternatives": [
+      "cilësia"
+    ],
+    "word": "quality",
+    "origin": "english"
+  },
+  "kualitetit": {
+    "alternatives": [
+      "cilësisë"
+    ],
+    "word": "quality",
+    "origin": "english"
+  },
+  "kualitetin": {
+    "alternatives": [
+      "cilësinë"
+    ],
+    "word": "quality",
+    "origin": "english"
+  },
+  "skrutinim": {
+    "alternatives": [
+      "shqyrtim",
+      "vështrim hetues",
+      "këqyrje e kujdesshme"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "denigroj": {
+    "alternatives": [
+      "shpif",
+      "nxij"
+    ],
+    "word": "denigrate",
+    "origin": "english"
+  },
+  "bilateral": {
+    "alternatives": [
+      "dypalësh"
+    ],
+    "word": "bilateral",
+    "origin": "english"
+  },
+  "koshience": {
+    "alternatives": [
+      "ndërgjegjje",
+      "vetëdije"
+    ],
+    "word": "conscience",
+    "origin": "english"
+  },
+  "kuantitet": {
+    "alternatives": [
+      "sasi"
+    ],
+    "word": "quantity",
+    "origin": "english"
+  },
+  "mazhorancë": {
+    "alternatives": [
+      "shumice"
+    ],
+    "word": "majority",
+    "origin": "english"
+  },
+  "minorancë": {
+    "alternatives": [
+      "pakicë",
+      "nxirje"
+    ],
+    "word": "minority",
+    "origin": "english"
+  },
+  "okupim": {
+    "alternatives": [
+      "pushtim"
+    ],
+    "word": "occupation",
+    "origin": "english"
+  },
+  "atakim": {
+    "alternatives": [
+      "sulm",
+      "sulmim"
+    ],
+    "word": "attack",
+    "origin": "english"
+  },
+  "survejim": {
+    "alternatives": [
+      "mikqyrje"
+    ],
+    "word": "survey",
+    "origin": "english"
+  },
+  "survejimi": {
+    "alternatives": [
+      "mikqyrja"
+    ],
+    "word": "survey",
+    "origin": "english"
   }
-]
+}

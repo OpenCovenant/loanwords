@@ -49,28 +49,32 @@
   },
   "aksham": {
     "alternatives": [
-      "darkë"
+      "darkë",
+      "mbrëmje"
     ],
     "origin": "ottoman",
     "word": "akşam"
   },
   "akshame": {
     "alternatives": [
-      "darka"
+      "darka",
+      "mbrëmje"
     ],
     "origin": "ottoman",
     "word": "akşam"
   },
   "akshami": {
     "alternatives": [
-      "darka"
+      "darka",
+      "mbrëmja"
     ],
     "origin": "ottoman",
     "word": "akşam"
   },
   "akshamin": {
     "alternatives": [
-      "darkën"
+      "darkën",
+      "mbrëmjen"
     ],
     "origin": "ottoman",
     "word": "akşam"
@@ -87,63 +91,81 @@
     "alternatives": [
       "falmë",
       "mëshiromë",
-      "ndihmë"
+      "ndihmë",
+      "të lutem",
+      "ju lutem"
     ],
     "origin": "ottoman",
     "word": "aman"
   },
   "amanet": {
     "alternatives": [
-      "porosi"
+      "porosi",
+      "dhiatë",
+      "testament"
     ],
     "origin": "ottoman",
     "word": "amanet"
   },
   "amanete": {
     "alternatives": [
-      "porosi"
+      "porosi",
+      "dhiata",
+      "testamente"
     ],
     "origin": "ottoman",
     "word": "amanet"
   },
   "amanetesh": {
     "alternatives": [
-      "porosish"
+      "porosish",
+      "dhiatash",
+      "testamentesh"
     ],
     "origin": "ottoman",
     "word": "amanet"
   },
   "amanetet": {
     "alternatives": [
-      "porositë"
+      "porositë",
+      "dhiatat",
+      "testamentet"
     ],
     "origin": "ottoman",
     "word": "amanet"
   },
   "amaneteve": {
     "alternatives": [
-      "porosive"
+      "porosive",
+      "dhiatave",
+      "testamenteve"
     ],
     "origin": "ottoman",
     "word": "amanet"
   },
   "amaneti": {
     "alternatives": [
-      "porosia"
+      "porosia",
+      "dhiata",
+      "testamenti"
     ],
     "origin": "ottoman",
     "word": "amanet"
   },
   "amanetin": {
     "alternatives": [
-      "porosinë"
+      "porosinë",
+      "dhiatën",
+      "testamentin"
     ],
     "origin": "ottoman",
     "word": "amanet"
   },
   "amanetit": {
     "alternatives": [
-      "porosisë"
+      "porosisë",
+      "dhiatës",
+      "testamentit"
     ],
     "origin": "ottoman",
     "word": "amanet"
@@ -351,14 +373,18 @@
   },
   "hajër": {
     "alternatives": [
-      "mbarësi"
+      "mbarësi",
+      "dobi",
+      "mirësi"
     ],
     "origin": "ottoman",
     "word": "hair"
   },
   "hale": {
     "alternatives": [
-      "nevojtore"
+      "nevojtore",
+      "maskara",
+      "ndyrë"
     ],
     "origin": "ottoman",
     "word": "hale"
@@ -410,7 +436,8 @@
     "alternatives": [
       "mëkat",
       "turp",
-      "faqja e zezë"
+      "faqja e zezë",
+      "marre"
     ],
     "origin": "ottoman",
     "word": "yazik"
@@ -580,7 +607,7 @@
   },
   "mazhorancë": {
     "alternatives": [
-      "shumice"
+      "shumicë"
     ],
     "word": "majority",
     "origin": "english"
@@ -588,7 +615,8 @@
   "mesele": {
     "alternatives": [
       "çështje",
-      "problem"
+      "problem",
+      "ndodhi"
     ],
     "origin": "ottoman",
     "word": "mesele"
@@ -745,7 +773,11 @@
   },
   "sebep": {
     "alternatives": [
-      "arsye"
+      "arsye",
+      "shkak",
+      "shkas",
+      "vjegë",
+      "rast"
     ],
     "origin": "ottoman",
     "word": "sebep"
@@ -812,42 +844,46 @@
   },
   "surrat": {
     "alternatives": [
-      "fytyrë"
+      "fytyrë",
+      "turi"
     ],
     "origin": "ottoman",
     "word": "surat"
   },
   "surrati": {
     "alternatives": [
-      "fytyra"
+      "fytyra",
+      "turiri"
     ],
     "origin": "ottoman",
     "word": "surat"
   },
   "surratin": {
     "alternatives": [
-      "fytyrën"
+      "fytyrën",
+      "turirin"
     ],
     "origin": "ottoman",
     "word": "surat"
   },
   "surratit": {
     "alternatives": [
-      "fytyrës"
+      "fytyrës",
+      "turirit"
     ],
     "origin": "ottoman",
     "word": "surat"
   },
   "survejim": {
     "alternatives": [
-      "mikqyrje"
+      "mbikëqyrje"
     ],
     "word": "survey",
     "origin": "english"
   },
   "survejimi": {
     "alternatives": [
-      "mikqyrja"
+      "mbikëqyrja"
     ],
     "word": "survey",
     "origin": "english"
@@ -883,56 +919,68 @@
   "ters": {
     "alternatives": [
       "mbrapsht",
-      "fat i keq"
+      "fat i keq",
+      "ligsht"
     ],
     "origin": "ottoman",
     "word": "ters"
   },
   "torbë": {
     "alternatives": [
-      "thes"
+      "thes",
+      "trastë"
     ],
     "origin": "ottoman",
     "word": "torba"
   },
   "torbën": {
     "alternatives": [
-      "thesin"
+      "thesin",
+      "trastën"
     ],
     "origin": "ottoman",
     "word": "torba"
   },
   "torbës": {
     "alternatives": [
-      "thesit"
+      "thesit",
+      "trastës"
     ],
     "origin": "ottoman",
     "word": "torba"
   },
   "vatan": {
     "alternatives": [
-      "atdhe"
+      "atdhe",
+      "mëmëdhe",
+      "vendlindje"
     ],
     "origin": "ottoman",
     "word": "vatan"
   },
   "vatani": {
     "alternatives": [
-      "atdheu"
+      "atdheu",
+      "mëmëdheu",
+      "vendlindja"
     ],
     "origin": "ottoman",
     "word": "vatan"
   },
   "vatanin": {
     "alternatives": [
-      "atdheun"
+      "atdheun",
+      "mëmëdheun",
+      "vendlindjen"
     ],
     "origin": "ottoman",
     "word": "vatan"
   },
   "vatanit": {
     "alternatives": [
-      "atdheut"
+      "atdheut",
+      "mëmëdheut",
+      "vendlindjes"
     ],
     "origin": "ottoman",
     "word": "vatan"
@@ -956,7 +1004,9 @@
   "zarar": {
     "alternatives": [
       "dëm",
-      "faj"
+      "faj",
+      "prishje",
+      "humbje"
     ],
     "origin": "ottoman",
     "word": "zarar"
@@ -970,7 +1020,8 @@
   },
   "çorbë": {
     "alternatives": [
-      "supë"
+      "supë",
+      "rrëmujë"
     ],
     "origin": "ottoman",
     "word": "çorba"

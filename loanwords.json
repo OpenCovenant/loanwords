@@ -192,6 +192,13 @@
     "word": "attack",
     "origin": "english"
   },
+  "baçë": {
+    "alternatives": [
+      "kopësht"
+    ],
+    "origin": "ottoman",
+    "word": "bahçe"
+  },
   "badjava": {
     "alternatives": [
       "falas"
@@ -206,19 +213,21 @@
     "word": "bankrupt",
     "origin": "english"
   },
-  "baçë": {
-    "alternatives": [
-      "kopësht"
-    ],
-    "origin": "ottoman",
-    "word": "bahçe"
-  },
   "beneficion": {
     "alternatives": [
       "perfitim"
     ],
     "word": "benefit",
     "origin": "english"
+  },
+  "biçim": {
+    "alternatives": [
+      "lloj",
+      "trajtë",
+      "përgjasim"
+    ],
+    "origin": "ottoman",
+    "word": "biçim"
   },
   "bilateral": {
     "alternatives": [
@@ -235,14 +244,20 @@
     "origin": "ottoman",
     "word": "bile"
   },
-  "biçim": {
+  "çoban": {
     "alternatives": [
-      "lloj",
-      "trajtë",
-      "përgjasim"
+      "bari"
     ],
     "origin": "ottoman",
-    "word": "biçim"
+    "word": "çoban"
+  },
+  "çorbë": {
+    "alternatives": [
+      "supë",
+      "rrëmujë"
+    ],
+    "origin": "ottoman",
+    "word": "çorba"
   },
   "definicion": {
     "alternatives": [
@@ -295,6 +310,13 @@
     ],
     "word": "distributor",
     "origin": "english"
+  },
+  "xheti": {
+    "alternatives": [
+      "avioni"
+    ],
+    "origin": "english",
+    "word": "jet"
   },
   "evaziv": {
     "alternatives": [
@@ -985,13 +1007,6 @@
     "origin": "ottoman",
     "word": "vatan"
   },
-  "xheti": {
-    "alternatives": [
-      "avioni"
-    ],
-    "origin": "english",
-    "word": "jet"
-  },
   "yzmet": {
     "alternatives": [
       "punë",
@@ -1010,20 +1025,5 @@
     ],
     "origin": "ottoman",
     "word": "zarar"
-  },
-  "çoban": {
-    "alternatives": [
-      "bari"
-    ],
-    "origin": "ottoman",
-    "word": "çoban"
-  },
-  "çorbë": {
-    "alternatives": [
-      "supë",
-      "rrëmujë"
-    ],
-    "origin": "ottoman",
-    "word": "çorba"
   }
 }

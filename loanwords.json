@@ -1024,5 +1024,622 @@
     ],
     "origin": "ottoman",
     "word": "zarar"
-  }
+  },
+
+  "link": {
+    "alternatives": [
+      "lidhje",
+      "adresë",
+    ],
+    "origin": "english",
+    "word": "link"
+  },
+
+  "linku": {
+    "alternatives": [
+      "lidhja",
+      "adresa",
+    ],
+    "origin": "english",
+    "word": "link"
+  },
+
+  "linkut": {
+    "alternatives": [
+      "lidhjes",
+      "adres;;s",
+    ],
+    "origin": "english",
+    "word": "link"
+  },
+
+  "linkun": {
+    "alternatives": [
+      "lidhjen",
+      "adres;;n",
+    ],
+    "origin": "english",
+    "word": "link"
+  },
+
+  "linqe": {
+    "alternatives": [
+      "lidhje",
+      "adresa",
+    ],
+    "origin": "english",
+    "word": "links"
+  },
+
+  "linke": {
+    "alternatives": [
+      "lidhje",
+      "adresa",
+    ],
+    "origin": "english",
+    "word": "links"
+  },
+
+  "linqet": {
+    "alternatives": [
+      "lidhjet",
+      "adresat",
+    ],
+    "origin": "english",
+    "word": "links"
+  },
+
+  "linket": {
+    "alternatives": [
+      "lidhjet",
+      "adresat",
+    ],
+    "origin": "english",
+    "word": "links"
+  },
+
+  "linqeve": {
+    "alternatives": [
+      "lidhjeve",
+      "adresave",
+    ],
+    "origin": "english",
+    "word": "links"
+  },
+
+  "linkeve": {
+    "alternatives": [
+      "lidhjeve",
+      "adresave",
+    ],
+    "origin": "english",
+    "word": "links"
+  },
+
+  "hiperlink": {
+    "alternatives": [
+      "hiperlidhje",
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+
+  "hiperlinku": {
+    "alternatives": [
+      "hiperlidhja",
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+
+  "hiperlinkut": {
+    "alternatives": [
+      "hiperlidhjes",
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+
+  "hiperlinkun": {
+    "alternatives": [
+      "hiperlidhjen",
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+
+  "hiperlinqe": {
+    "alternatives": [
+      "hiperlidhje",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "hiperlinke": {
+    "alternatives": [
+      "hiperlidhje",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "hiperlinqet": {
+    "alternatives": [
+      "hiperlidhjet",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "hiperlinket": {
+    "alternatives": [
+      "hiperlidhjet",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "hiperlinqeve": {
+    "alternatives": [
+      "hiperlidhjeve",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "hiperlinkeve": {
+    "alternatives": [
+      "hiperlidhjeve",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "hyperlink": {
+    "alternatives": [
+      "hiperlidhje",
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+
+  "hyperlinku": {
+    "alternatives": [
+      "hiperlidhja",
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+
+  "hyperlinkut": {
+    "alternatives": [
+      "hiperlidhjes",
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+
+  "hyperlinkun": {
+    "alternatives": [
+      "hiperlidhjen",
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+
+  "hyperlinqe": {
+    "alternatives": [
+      "hiperlidhje",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "hyperlinke": {
+    "alternatives": [
+      "hiperlidhje",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "hyperlinqet": {
+    "alternatives": [
+      "hiperlidhjet",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "hyperlinket": {
+    "alternatives": [
+      "hiperlidhjet",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "hyperlinqeve": {
+    "alternatives": [
+      "hiperlidhjeve",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "hyperlinkeve": {
+    "alternatives": [
+      "hiperlidhjeve",
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+
+  "konvolucion": {
+    "alternatives": [
+      "thurje",
+    ],
+    "origin": "english",
+    "word": "convolution"
+  },
+
+  "konvolucioni": {
+    "alternatives": [
+      "thurja",
+    ],
+    "origin": "english",
+    "word": "convolution"
+  },
+
+  "konvolucionit": {
+    "alternatives": [
+      "thurjes",
+    ],
+    "origin": "english",
+    "word": "convolution"
+  },
+
+  "konvolucionin": {
+    "alternatives": [
+      "thurjen",
+    ],
+    "origin": "english",
+    "word": "convolution"
+  },
+
+  "konvolucione": {
+    "alternatives": [
+      "thurje",
+    ],
+    "origin": "english",
+    "word": "convolutions"
+  },
+
+  "konvolucionet": {
+    "alternatives": [
+      "thurjet",
+    ],
+    "origin": "english",
+    "word": "convolutions"
+  },
+
+  "konvolucioneve": {
+    "alternatives": [
+      "thurjeve",
+    ],
+    "origin": "english",
+    "word": "convolutions"
+  },
+
+  "konvolucioneve": {
+    "alternatives": [
+      "thurjeve",
+    ],
+    "origin": "english",
+    "word": "convolutions"
+  },
+
+  "radiacion": {
+    "alternatives": [
+      "rrezatim",
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+
+  "radiacioni": {
+    "alternatives": [
+      "rrezatimi",
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+
+  "radiacionit": {
+    "alternatives": [
+      "rrezatimit",
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+
+  "radiacionin": {
+    "alternatives": [
+      "rrezatimin",
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+
+  "radiacione": {
+    "alternatives": [
+      "rrezatime",
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+
+  "radiacionet": {
+    "alternatives": [
+      "rrezatimet",
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+
+  "radiacioneve": {
+    "alternatives": [
+      "rrezatimeve",
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+
+  "multiplikativ": {
+    "alternatives": [
+      "shumëzues",
+    ],
+    "origin": "english",
+    "word": "multiplicative"
+  },
+
+  "multiplikative": {
+    "alternatives": [
+      "shumëzuese",
+    ],
+    "origin": "english",
+    "word": "multiplicative"
+  },
+
+  "dimension": {
+    "alternatives": [
+      "përmasë",
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+
+  "dimensioni": {
+    "alternatives": [
+      "përmasa",
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+
+  "dimensionit": {
+    "alternatives": [
+      "përmasës",
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+
+  "dimensionin": {
+    "alternatives": [
+      "përmasën",
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+
+  "dimensione": {
+    "alternatives": [
+      "përmasa",
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+
+  "dimensionet": {
+    "alternatives": [
+      "përmasat",
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+
+  "dimensioneve": {
+    "alternatives": [
+      "përmasave",
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+
+  "dimensional": {
+    "alternatives": [
+      "përmasor",
+    ],
+    "origin": "english",
+    "word": "dimensional"
+  },
+
+  "dimensionale": {
+    "alternatives": [
+      "përmasore",
+    ],
+    "origin": "english",
+    "word": "dimensional"
+  },
+
+  "multidimensional": {
+    "alternatives": [
+      "shumëpërmasor",
+    ],
+    "origin": "english",
+    "word": "multidimensional"
+  },
+
+  "multidimensionale": {
+    "alternatives": [
+      "shumëpërmasore",
+    ],
+    "origin": "english",
+    "word": "multidimensional"
+  },
+
+  "shumëdimensional": {
+    "alternatives": [
+      "shumëpërmasor",
+    ],
+    "origin": "english",
+    "word": "multidimensional"
+  },
+
+  "shumëdimensionale": {
+    "alternatives": [
+      "shumëpërmasore",
+    ],
+    "origin": "english",
+    "word": "multidimensional"
+  },
+
+  "suport": {
+    "alternatives": [
+      "mbështetje",
+      "përkrahje",
+    ],
+    "origin": "english",
+    "word": "support"
+  },
+
+  "suporti": {
+    "alternatives": [
+      "mbështetja",
+      "përkrahja",
+    ],
+    "origin": "english",
+    "word": "support"
+  },
+
+  "suportit": {
+    "alternatives": [
+      "mbështetjes",
+      "përkrahjes",
+    ],
+    "origin": "english",
+    "word": "support"
+  },
+
+  "suportin": {
+    "alternatives": [
+      "mbështetjen",
+      "përkrahjen",
+    ],
+    "origin": "english",
+    "word": "support"
+  },
+
+  "suporte": {
+    "alternatives": [
+      "mbështetje",
+      "përkrahje",
+    ],
+    "origin": "english",
+    "word": "supports"
+  },
+
+  "suportet": {
+    "alternatives": [
+      "mbështetjet",
+      "përkrahjet",
+    ],
+    "origin": "english",
+    "word": "supports"
+  },
+
+  "suporteve": {
+    "alternatives": [
+      "mbështetjeve",
+      "përkrahjeve",
+    ],
+    "origin": "english",
+    "word": "supports"
+  },
+
+  "vulnerabilitet": {
+    "alternatives": [
+      "dobësi",
+      "cen",
+    ],
+    "origin": "english",
+    "word": "vulnerability"
+  },
+
+  "vulnerabiliteti": {
+    "alternatives": [
+      "dobësia",
+      "ceni",
+    ],
+    "origin": "english",
+    "word": "vulnerability"
+  },
+
+  "vulnerabilitetit": {
+    "alternatives": [
+      "dobësisë",
+      "cenit",
+    ],
+    "origin": "english",
+    "word": "vulnerability"
+  },
+
+  "vulnerabilitetin": {
+    "alternatives": [
+      "dobësinë",
+      "cenin",
+    ],
+    "origin": "english",
+    "word": "vulnerability"
+  },
+
+  "vulnerabilitete": {
+    "alternatives": [
+      "dobësi",
+      "cene",
+    ],
+    "origin": "english",
+    "word": "vulnerabilities"
+  },
+
+  "vulnerabilitetet": {
+    "alternatives": [
+      "dobësitë",
+      "cenet",
+    ],
+    "origin": "english",
+    "word": "vulnerabilities"
+  },
+
+  "vulnerabiliteteve": {
+    "alternatives": [
+      "dobësive",
+      "ceneve",
+    ],
+    "origin": "english",
+    "word": "vulnerabilities"
+  },
+  
 }

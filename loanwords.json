@@ -1023,6 +1023,7 @@
     "alternatives": [
       "lidhje",
       "adresë",
+      "shkurtore",
     ],
     "origin": "english",
     "word": "link"
@@ -1032,6 +1033,7 @@
     "alternatives": [
       "lidhja",
       "adresa",
+      "shkurtorja",
     ],
     "origin": "english",
     "word": "link"
@@ -1041,6 +1043,7 @@
     "alternatives": [
       "lidhjes",
       "adresës",
+      "shkurtores",
     ],
     "origin": "english",
     "word": "link"
@@ -1050,6 +1053,7 @@
     "alternatives": [
       "lidhjen",
       "adresën",
+      "shkurtoren",
     ],
     "origin": "english",
     "word": "link"
@@ -1059,6 +1063,7 @@
     "alternatives": [
       "lidhje",
       "adresa",
+      "shkurtore",
     ],
     "origin": "english",
     "word": "links"
@@ -1068,6 +1073,7 @@
     "alternatives": [
       "lidhje",
       "adresa",
+      "shkurtore",
     ],
     "origin": "english",
     "word": "links"
@@ -1077,6 +1083,7 @@
     "alternatives": [
       "lidhjet",
       "adresat",
+      "shkurtoret",
     ],
     "origin": "english",
     "word": "links"
@@ -1086,6 +1093,7 @@
     "alternatives": [
       "lidhjet",
       "adresat",
+      "shkurtoret",
     ],
     "origin": "english",
     "word": "links"
@@ -1095,6 +1103,7 @@
     "alternatives": [
       "lidhjeve",
       "adresave",
+      "shkurtoreve",
     ],
     "origin": "english",
     "word": "links"
@@ -1104,6 +1113,7 @@
     "alternatives": [
       "lidhjeve",
       "adresave",
+      "shkurtoreve",
     ],
     "origin": "english",
     "word": "links"
@@ -2366,6 +2376,811 @@
     ],
     "origin": "english",
     "word": "prioritize"
+  },
+
+  "bençmark": {
+    "alternatives": [
+      "etalon",
+      "bankëshënim",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bençmarku": {
+    "alternatives": [
+      "etaloni",
+      "bankëshënimi",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bençmarkut": {
+    "alternatives": [
+      "etalonit",
+      "bankëshënimit",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bençmarkun": {
+    "alternatives": [
+      "etalonin",
+      "bankëshënimin",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bençmarke": {
+    "alternatives": [
+      "etalone",
+      "bankëshënime",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bençmarket": {
+    "alternatives": [
+      "etalonet",
+      "bankëshënimet",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bençmarkeve": {
+    "alternatives": [
+      "etaloneve",
+      "bankëshënimeve",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bencmark": {
+    "alternatives": [
+      "etalon",
+      "bankëshënim",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bencmarku": {
+    "alternatives": [
+      "etaloni",
+      "bankëshënimi",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bencmarkut": {
+    "alternatives": [
+      "etalonit",
+      "bankëshënimit",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bencmarkun": {
+    "alternatives": [
+      "etalonin",
+      "bankëshënimin",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bencmarke": {
+    "alternatives": [
+      "etalone",
+      "bankëshënime",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bencmarket": {
+    "alternatives": [
+      "etalonet",
+      "bankëshënimet",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "bencmarkeve": {
+    "alternatives": [
+      "etaloneve",
+      "bankëshënimeve",
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+
+  "inkrementim": {
+    "alternatives": [
+      "rritje",
+      "njërritje",
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+
+  "inkrementimi": {
+    "alternatives": [
+      "rritja",
+      "njërritja",
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+
+  "inkrementimit": {
+    "alternatives": [
+      "rritjes",
+      "njërritjes",
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+
+  "inkrementimin": {
+    "alternatives": [
+      "rritjen",
+      "njërritjen",
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+
+  "inkrementime": {
+    "alternatives": [
+      "rritje",
+      "njërritje",
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+
+  "inkrementimet": {
+    "alternatives": [
+      "rritjet",
+      "njërritjet",
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+
+  "inkrementimeve": {
+    "alternatives": [
+      "rritjeve",
+      "njërritjeve",
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+
+  "dekrementim": {
+    "alternatives": [
+      "zbritje",
+      "njëzbritje",
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+
+  "dekrementimi": {
+    "alternatives": [
+      "zbritja",
+      "njëzbritja",
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+
+  "dekrementimit": {
+    "alternatives": [
+      "zbritjes",
+      "njëzbritjes",
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+
+  "dekrementimin": {
+    "alternatives": [
+      "zbritjen",
+      "njëzbritjen",
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+
+  "dekrementime": {
+    "alternatives": [
+      "zbritje",
+      "njëzbritje",
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+
+  "dekrementimet": {
+    "alternatives": [
+      "zbritjet",
+      "njëzbritjet",
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+
+  "dekrementimeve": {
+    "alternatives": [
+      "zbritjeve",
+      "njëzbritjeve",
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+
+  "inkorporuar": {
+    "alternatives": [
+      "trupëzuar",
+      "mishëruar",
+    ],
+    "origin": "english",
+    "word": "incorporated"
+  },
+
+  "inkorporuara": {
+    "alternatives": [
+      "trupëzuara",
+      "mishëruara",
+    ],
+    "origin": "english",
+    "word": "incorporated"
+  },
+
+  "inicializim": {
+    "alternatives": [
+      "nisje",
+      "vlerënisje",
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+
+  "inicializimi": {
+    "alternatives": [
+      "nisja",
+      "vlerënisja",
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+
+  "inicializimit": {
+    "alternatives": [
+      "nisjes",
+      "vlerënisjes",
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+
+  "inicializimin": {
+    "alternatives": [
+      "nisjen",
+      "vlerënisjen",
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+
+  "inicializime": {
+    "alternatives": [
+      "nisje",
+      "vlerënisje",
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+
+  "inicializimet": {
+    "alternatives": [
+      "nisjet",
+      "vlerënisjet",
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+
+  "inicializimeve": {
+    "alternatives": [
+      "nisjeve",
+      "vlerënisjeve",
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+
+  "inicializoj": {
+    "alternatives": [
+      "nis",
+      "vlerënis",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializon": {
+    "alternatives": [
+      "nis",
+      "vlerënis",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializon": {
+    "alternatives": [
+      "nis",
+      "vlerënis",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializojmë": {
+    "alternatives": [
+      "nisim",
+      "vlerënisim",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializoni": {
+    "alternatives": [
+      "nisni",
+      "vlerënisni",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializojnë": {
+    "alternatives": [
+      "nisin",
+      "vlerënisin",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializoja": {
+    "alternatives": [
+      "nisja",
+      "vlerënisja",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializoje": {
+    "alternatives": [
+      "nisje",
+      "vlerënisje",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializonte": {
+    "alternatives": [
+      "niste",
+      "vlerëniste",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializonim": {
+    "alternatives": [
+      "nisnim",
+      "vlerënisnim",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializonit": {
+    "alternatives": [
+      "nisnit",
+      "vlerënisnit",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializonin": {
+    "alternatives": [
+      "nisnin",
+      "vlerënisnin",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializova": {
+    "alternatives": [
+      "nisa",
+      "vlerënisa",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializove": {
+    "alternatives": [
+      "nise",
+      "vlerënise",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializoi": {
+    "alternatives": [
+      "nisi",
+      "vlerënisi",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializuam": {
+    "alternatives": [
+      "nisëm",
+      "vlerënisëm",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializuat": {
+    "alternatives": [
+      "nisët",
+      "vlerënisët",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializuan": {
+    "alternatives": [
+      "nisën",
+      "vlerënisën",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "inicializuar": {
+    "alternatives": [
+      "nisur",
+      "vlerënisur",
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+
+  "shortkat": {
+    "alternatives": [
+      "shkurtore",
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+
+  "shortkati": {
+    "alternatives": [
+      "shkurtorja",
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+
+  "shortkatit": {
+    "alternatives": [
+      "shkurtores",
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+
+  "shortkatin": {
+    "alternatives": [
+      "shkurtoren",
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+
+  "shortkate": {
+    "alternatives": [
+      "shkurtore",
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+
+  "shortkatet": {
+    "alternatives": [
+      "shkurtoret",
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+
+  "shortkateve": {
+    "alternatives": [
+      "shkurtoreve",
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+
+  "stringë": {
+    "alternatives": [
+      "germëvarg",
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+
+  "stringa": {
+    "alternatives": [
+      "germëvargu",
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+
+  "stringës": {
+    "alternatives": [
+      "germëvargut",
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+
+  "stringën": {
+    "alternatives": [
+      "germëvargun",
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+
+  "stringa": {
+    "alternatives": [
+      "germëvargje",
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+
+  "stringat": {
+    "alternatives": [
+      "germëvargjet",
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+
+  "stringave": {
+    "alternatives": [
+      "germëvargjeve",
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+
+  "path": {
+    "alternatives": [
+      "rruginë",
+      "shteg",
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+
+  "pathi": {
+    "alternatives": [
+      "rrugina",
+      "shtegu",
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+
+  "pathit": {
+    "alternatives": [
+      "rruginës",
+      "shtegut",
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+
+  "pathin": {
+    "alternatives": [
+      "rruginën",
+      "shtegun",
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+
+  "pathe": {
+    "alternatives": [
+      "rrugina",
+      "shtigje",
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+
+  "pathet": {
+    "alternatives": [
+      "rruginat",
+      "shtigjet",
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+
+  "patheve": {
+    "alternatives": [
+      "rruginave",
+      "shtigjeve",
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+
+  "workshop": {
+    "alternatives": [
+      "punëtakim",
+      "punëtori",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "workshopi": {
+    "alternatives": [
+      "punëtakimi",
+      "punëtoria",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "workshopit": {
+    "alternatives": [
+      "punëtakimit",
+      "punëtorisë",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "workshopin": {
+    "alternatives": [
+      "punëtakimin",
+      "punëtorinë",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "workshope": {
+    "alternatives": [
+      "punëtakime",
+      "punëtori",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "workshopet": {
+    "alternatives": [
+      "punëtakimet",
+      "punëtoritë",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "workshopeve": {
+    "alternatives": [
+      "punëtakimeve",
+      "punëtorive",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "uorkshop": {
+    "alternatives": [
+      "punëtakim",
+      "punëtori",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "uorkshopi": {
+    "alternatives": [
+      "punëtakimi",
+      "punëtoria",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "uorkshopit": {
+    "alternatives": [
+      "punëtakimit",
+      "punëtorisë",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "uorkshopin": {
+    "alternatives": [
+      "punëtakimin",
+      "punëtorinë",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "uorkshope": {
+    "alternatives": [
+      "punëtakime",
+      "punëtori",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "uorkshopet": {
+    "alternatives": [
+      "punëtakimet",
+      "punëtoritë",
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+
+  "uorkshopeve": {
+    "alternatives": [
+      "punëtakimeve",
+      "punëtorive",
+    ],
+    "origin": "english",
+    "word": "workshop"
   },
 
 }

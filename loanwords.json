@@ -3173,4 +3173,326 @@
     "word": "workshop"
   },
 
+  "aks": {
+    "alternatives": [
+      "bosht",
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+
+  "aksi": {
+    "alternatives": [
+      "boshti",
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+
+  "aksit": {
+    "alternatives": [
+      "boshtit",
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+
+  "aksin": {
+    "alternatives": [
+      "boshtin",
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+
+  "akse": {
+    "alternatives": [
+      "boshte",
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+
+  "akset": {
+    "alternatives": [
+      "boshtet",
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+
+  "akseve": {
+    "alternatives": [
+      "boshteve",
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+
+  "koaksial": {
+    "alternatives": [
+      "bashkëboshtor",
+    ],
+    "origin": "english",
+    "word": "coaxial"
+  },
+
+  "koaksiale": {
+    "alternatives": [
+      "bashkëboshtore",
+    ],
+    "origin": "english",
+    "word": "coaxial"
+  },
+
+  "tastaturë": {
+    "alternatives": [
+      "tastierë",
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
+
+  "tastatura": {
+    "alternatives": [
+      "tastiera",
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
+
+  "tastaturës": {
+    "alternatives": [
+      "tastierës",
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
+
+  "tastaturën": {
+    "alternatives": [
+      "tastierën",
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
+
+  "tastaturat": {
+    "alternatives": [
+      "tastierat",
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
+
+  "tastaturave": {
+    "alternatives": [
+      "tastierave",
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
+
+  "inicial": {
+    "alternatives": [
+      "fillestar",
+      "nistor",
+    ],
+    "origin": "english",
+    "word": "initial"
+  },
+
+  "iniciale": {
+    "alternatives": [
+      "fillestare",
+      "nistore",
+    ],
+    "origin": "english",
+    "word": "initial"
+  },
+
+  "variabël": {
+    "alternatives": [
+      "i ndryshueshëm",
+      "e ndryshueshme",
+      "ndryshore",
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+
+  "variabla": {
+    "alternatives": [
+      "ndryshorja",
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+
+  "variablën": {
+    "alternatives": [
+      "ndryshoren",
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+
+  "variablës": {
+    "alternatives": [
+      "ndryshores",
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+
+  "variabla": {
+    "alternatives": [
+      "ndryshore",
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+
+  "variablat": {
+    "alternatives": [
+      "ndryshoret",
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+
+  "variablave": {
+    "alternatives": [
+      "ndryshoreve",
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+
+  "bekgraund": {
+    "alternatives": [
+      "sfond",
+      "prapaskenë",
+      "prapavijë",
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+
+  "bekgraundi": {
+    "alternatives": [
+      "sfondi",
+      "prapaskena",
+      "prapavija",
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+
+  "bekgraundit": {
+    "alternatives": [
+      "sfondit",
+      "prapaskenës",
+      "prapavijës",
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+
+  "bekgraundin": {
+    "alternatives": [
+      "sfondin",
+      "prapaskenën",
+      "prapavijën",
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+
+  "bekgraunde": {
+    "alternatives": [
+      "sfonde",
+      "prapaskena",
+      "prapavija",
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+
+  "bekgraundet": {
+    "alternatives": [
+      "sfondet",
+      "prapaskenat",
+      "prapavijat",
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+
+  "bekgraundeve": {
+    "alternatives": [
+      "sfondeve",
+      "prapaskenave",
+      "prapavijave",
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+
+  "barkod": {
+    "alternatives": [
+      "kod vijor",
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+
+  "barkodi": {
+    "alternatives": [
+      "kodi vijor",
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+
+  "barkodit": {
+    "alternatives": [
+      "kodit vijor",
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+
+  "barkodin": {
+    "alternatives": [
+      "kodin vijor",
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+
+  "barkode": {
+    "alternatives": [
+      "kode vijore",
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+
+  "barkodet": {
+    "alternatives": [
+      "kodet vijore",
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+
+  "barkodeve": {
+    "alternatives": [
+      "kodet vijore",
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+
 }

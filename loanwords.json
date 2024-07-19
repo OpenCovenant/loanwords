@@ -47,6 +47,34 @@
     "origin": "ottoman",
     "word": "adet"
   },
+  "aks": {
+    "alternatives": [
+      "bosht"
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+  "akse": {
+    "alternatives": [
+      "boshte"
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+  "akset": {
+    "alternatives": [
+      "boshtet"
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+  "akseve": {
+    "alternatives": [
+      "boshteve"
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
   "aksham": {
     "alternatives": [
       "darkë",
@@ -79,6 +107,27 @@
     "origin": "ottoman",
     "word": "akşam"
   },
+  "aksi": {
+    "alternatives": [
+      "boshti"
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+  "aksin": {
+    "alternatives": [
+      "boshtin"
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
+  "aksit": {
+    "alternatives": [
+      "boshtit"
+    ],
+    "origin": "english",
+    "word": "axis"
+  },
   "akumuloj": {
     "alternatives": [
       "grumbulloj",
@@ -86,6 +135,231 @@
     ],
     "word": "accumulate",
     "origin": "english"
+  },
+  "alokim": {
+    "alternatives": [
+      "livrim",
+      "caktim",
+      "shpërndarje"
+    ],
+    "origin": "english",
+    "word": "allocation"
+  },
+  "alokime": {
+    "alternatives": [
+      "livrime",
+      "caktime",
+      "shpërndarje"
+    ],
+    "origin": "english",
+    "word": "allocation"
+  },
+  "alokimet": {
+    "alternatives": [
+      "livrimet",
+      "caktimet",
+      "shpërndarjet"
+    ],
+    "origin": "english",
+    "word": "allocation"
+  },
+  "alokimeve": {
+    "alternatives": [
+      "livrimeve",
+      "caktimeve",
+      "shpërndarjeve"
+    ],
+    "origin": "english",
+    "word": "allocation"
+  },
+  "alokimi": {
+    "alternatives": [
+      "livrimi",
+      "caktimi",
+      "shpërndarja"
+    ],
+    "origin": "english",
+    "word": "allocation"
+  },
+  "alokimin": {
+    "alternatives": [
+      "livrimin",
+      "caktimin",
+      "shpërndarjen"
+    ],
+    "origin": "english",
+    "word": "allocation"
+  },
+  "alokimit": {
+    "alternatives": [
+      "livrimit",
+      "caktimit",
+      "shpërndarjes"
+    ],
+    "origin": "english",
+    "word": "allocation"
+  },
+  "alokoi": {
+    "alternatives": [
+      "livroi",
+      "caktoi",
+      "shpërndau"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokoj": {
+    "alternatives": [
+      "livroj",
+      "caktoj",
+      "shpërndaj"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokoja": {
+    "alternatives": [
+      "livroja",
+      "caktoja",
+      "shpërndaja"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokoje": {
+    "alternatives": [
+      "livroje",
+      "caktoje",
+      "shpërndaje"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokojmë": {
+    "alternatives": [
+      "livrojmë",
+      "caktojmë",
+      "shpërndajmë"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokojnë": {
+    "alternatives": [
+      "livrojnë",
+      "caktojnë",
+      "shpërndajnë"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokon": {
+    "alternatives": [
+      "livron",
+      "cakton",
+      "shpërndan"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokoni": {
+    "alternatives": [
+      "livroni",
+      "caktoni",
+      "shpërndani"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokonim": {
+    "alternatives": [
+      "livronim",
+      "caktonim",
+      "shpërndanim"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokonin": {
+    "alternatives": [
+      "livronin",
+      "caktonin",
+      "shpërndanin"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokonit": {
+    "alternatives": [
+      "livronit",
+      "caktonit",
+      "shpërndanit"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokonte": {
+    "alternatives": [
+      "livronte",
+      "caktonte",
+      "shpërndante"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokova": {
+    "alternatives": [
+      "livrova",
+      "caktova",
+      "shpërndava"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokove": {
+    "alternatives": [
+      "livrove",
+      "caktove",
+      "shpërndave"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokuam": {
+    "alternatives": [
+      "livruam",
+      "caktuam",
+      "shpërndamë"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokuan": {
+    "alternatives": [
+      "livruan",
+      "caktuan",
+      "shpërndanë"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokuar": {
+    "alternatives": [
+      "livruar",
+      "caktuar",
+      "shpërndarë"
+    ],
+    "origin": "english",
+    "word": "allocate"
+  },
+  "alokuat": {
+    "alternatives": [
+      "livruat",
+      "caktuat",
+      "shpërndatë"
+    ],
+    "origin": "english",
+    "word": "allocate"
   },
   "aman": {
     "alternatives": [
@@ -170,6 +444,69 @@
     "origin": "ottoman",
     "word": "amanet"
   },
+  "ambiguitet": {
+    "alternatives": [
+      "paqartësi",
+      "dykuptimësi",
+      "shumëkuptimësi"
+    ],
+    "origin": "english",
+    "word": "ambiguity"
+  },
+  "ambiguitete": {
+    "alternatives": [
+      "paqartësi",
+      "dykuptimësi",
+      "shumëkuptimësi"
+    ],
+    "origin": "english",
+    "word": "ambiguity"
+  },
+  "ambiguitetet": {
+    "alternatives": [
+      "paqartësitë",
+      "dykuptimësitë",
+      "shumëkuptimësitë"
+    ],
+    "origin": "english",
+    "word": "ambiguity"
+  },
+  "ambiguiteteve": {
+    "alternatives": [
+      "paqartësive",
+      "dykuptimësive",
+      "shumëkuptimësive"
+    ],
+    "origin": "english",
+    "word": "ambiguity"
+  },
+  "ambiguiteti": {
+    "alternatives": [
+      "paqartësia",
+      "dykuptimësia",
+      "shumëkuptimësia"
+    ],
+    "origin": "english",
+    "word": "ambiguity"
+  },
+  "ambiguitetin": {
+    "alternatives": [
+      "paqartësinë",
+      "dykuptimësinë",
+      "shumëkuptimësinë"
+    ],
+    "origin": "english",
+    "word": "ambiguity"
+  },
+  "ambiguitetit": {
+    "alternatives": [
+      "paqartësisë",
+      "dykuptimësisë",
+      "shumëkuptimësisë"
+    ],
+    "origin": "english",
+    "word": "ambiguity"
+  },
   "apet": {
     "alternatives": [
       "përsëri"
@@ -184,6 +521,85 @@
     "origin": "ottoman",
     "word": "aslan"
   },
+  "asosaciativ": {
+    "alternatives": [
+      "shoqërues",
+      "i shoqërimit"
+    ],
+    "origin": "english",
+    "word": "associative"
+  },
+  "asosaciative": {
+    "alternatives": [
+      "shoqëruese",
+      "e shoqërimit"
+    ],
+    "origin": "english",
+    "word": "associative"
+  },
+  "asosacion": {
+    "alternatives": [
+      "shoqërim",
+      "shoqatë",
+      "bashkim"
+    ],
+    "origin": "english",
+    "word": "association"
+  },
+  "asosacione": {
+    "alternatives": [
+      "shoqërime",
+      "shoqata",
+      "bashkime"
+    ],
+    "origin": "english",
+    "word": "association"
+  },
+  "asosacionet": {
+    "alternatives": [
+      "shoqërimet",
+      "shoqatat",
+      "bashkimet"
+    ],
+    "origin": "english",
+    "word": "association"
+  },
+  "asosacioneve": {
+    "alternatives": [
+      "shoqërimeve",
+      "shoqatave",
+      "bashkimeve"
+    ],
+    "origin": "english",
+    "word": "association"
+  },
+  "asosacioni": {
+    "alternatives": [
+      "shoqërimi",
+      "shoqata",
+      "bashkimi"
+    ],
+    "origin": "english",
+    "word": "association"
+  },
+  "asosacionin": {
+    "alternatives": [
+      "shoqërimin",
+      "shoqatën",
+      "bashkimin"
+    ],
+    "origin": "english",
+    "word": "association"
+  },
+  "asosacionit": {
+    "alternatives": [
+      "shoqërimit",
+      "shoqatës",
+      "bashkimit"
+    ],
+    "origin": "english",
+    "word": "association"
+  },
   "atakim": {
     "alternatives": [
       "sulm",
@@ -192,12 +608,54 @@
     "word": "attack",
     "origin": "english"
   },
-  "baçë": {
+  "atomicitet": {
     "alternatives": [
-      "kopsht"
+      "pandashmëri"
     ],
-    "origin": "ottoman",
-    "word": "bahçe"
+    "origin": "english",
+    "word": "atomicity"
+  },
+  "atomicitete": {
+    "alternatives": [
+      "pandashmëri"
+    ],
+    "origin": "english",
+    "word": "atomicity"
+  },
+  "atomicitetet": {
+    "alternatives": [
+      "pandashmëritë"
+    ],
+    "origin": "english",
+    "word": "atomicity"
+  },
+  "atomiciteteve": {
+    "alternatives": [
+      "pandashmërive"
+    ],
+    "origin": "english",
+    "word": "atomicity"
+  },
+  "atomiciteti": {
+    "alternatives": [
+      "pandashmëria"
+    ],
+    "origin": "english",
+    "word": "atomicity"
+  },
+  "atomicitetin": {
+    "alternatives": [
+      "pandashmërinë"
+    ],
+    "origin": "english",
+    "word": "atomicity"
+  },
+  "atomicitetit": {
+    "alternatives": [
+      "pandashmërisë"
+    ],
+    "origin": "english",
+    "word": "atomicity"
   },
   "badjava": {
     "alternatives": [
@@ -213,6 +671,181 @@
     "word": "bankrupt",
     "origin": "english"
   },
+  "barkod": {
+    "alternatives": [
+      "kod vijor"
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+  "barkode": {
+    "alternatives": [
+      "kode vijore"
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+  "barkodet": {
+    "alternatives": [
+      "kodet vijore"
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+  "barkodeve": {
+    "alternatives": [
+      "kodeve vijore"
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+  "barkodi": {
+    "alternatives": [
+      "kodi vijor"
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+  "barkodin": {
+    "alternatives": [
+      "kodin vijor"
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+  "barkodit": {
+    "alternatives": [
+      "kodit vijor"
+    ],
+    "origin": "english",
+    "word": "barcode"
+  },
+  "baçë": {
+    "alternatives": [
+      "kopsht"
+    ],
+    "origin": "ottoman",
+    "word": "bahçe"
+  },
+  "bekgraund": {
+    "alternatives": [
+      "sfond",
+      "prapaskenë",
+      "prapavijë"
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+  "bekgraunde": {
+    "alternatives": [
+      "sfonde",
+      "prapaskena",
+      "prapavija"
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+  "bekgraundet": {
+    "alternatives": [
+      "sfondet",
+      "prapaskenat",
+      "prapavijat"
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+  "bekgraundeve": {
+    "alternatives": [
+      "sfondeve",
+      "prapaskenave",
+      "prapavijave"
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+  "bekgraundi": {
+    "alternatives": [
+      "sfondi",
+      "prapaskena",
+      "prapavija"
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+  "bekgraundin": {
+    "alternatives": [
+      "sfondin",
+      "prapaskenën",
+      "prapavijën"
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+  "bekgraundit": {
+    "alternatives": [
+      "sfondit",
+      "prapaskenës",
+      "prapavijës"
+    ],
+    "origin": "english",
+    "word": "background"
+  },
+  "bencmark": {
+    "alternatives": [
+      "etalon",
+      "bankëshënim"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bencmarke": {
+    "alternatives": [
+      "etalone",
+      "bankëshënime"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bencmarket": {
+    "alternatives": [
+      "etalonet",
+      "bankëshënimet"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bencmarkeve": {
+    "alternatives": [
+      "etaloneve",
+      "bankëshënimeve"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bencmarku": {
+    "alternatives": [
+      "etaloni",
+      "bankëshënimi"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bencmarkun": {
+    "alternatives": [
+      "etalonin",
+      "bankëshënimin"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bencmarkut": {
+    "alternatives": [
+      "etalonit",
+      "bankëshënimit"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
   "beneficion": {
     "alternatives": [
       "përfitim"
@@ -220,13 +853,61 @@
     "word": "benefit",
     "origin": "english"
   },
-  "biçim": {
+  "bençmark": {
     "alternatives": [
-      "lloj",
-      "trajtë"
+      "etalon",
+      "bankëshënim"
     ],
-    "origin": "ottoman",
-    "word": "biçim"
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bençmarke": {
+    "alternatives": [
+      "etalone",
+      "bankëshënime"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bençmarket": {
+    "alternatives": [
+      "etalonet",
+      "bankëshënimet"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bençmarkeve": {
+    "alternatives": [
+      "etaloneve",
+      "bankëshënimeve"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bençmarku": {
+    "alternatives": [
+      "etaloni",
+      "bankëshënimi"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bençmarkun": {
+    "alternatives": [
+      "etalonin",
+      "bankëshënimin"
+    ],
+    "origin": "english",
+    "word": "benchmark"
+  },
+  "bençmarkut": {
+    "alternatives": [
+      "etalonit",
+      "bankëshënimit"
+    ],
+    "origin": "english",
+    "word": "benchmark"
   },
   "bilateral": {
     "alternatives": [
@@ -243,20 +924,13 @@
     "origin": "ottoman",
     "word": "bile"
   },
-  "çoban": {
+  "biçim": {
     "alternatives": [
-      "bari"
+      "lloj",
+      "trajtë"
     ],
     "origin": "ottoman",
-    "word": "çoban"
-  },
-  "çorbë": {
-    "alternatives": [
-      "supë",
-      "rrëmujë"
-    ],
-    "origin": "ottoman",
-    "word": "çorba"
+    "word": "biçim"
   },
   "definicion": {
     "alternatives": [
@@ -274,6 +948,62 @@
     "word": "defining",
     "origin": "english"
   },
+  "dekrementim": {
+    "alternatives": [
+      "zbritje",
+      "njëzbritje"
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+  "dekrementime": {
+    "alternatives": [
+      "zbritje",
+      "njëzbritje"
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+  "dekrementimet": {
+    "alternatives": [
+      "zbritjet",
+      "njëzbritjet"
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+  "dekrementimeve": {
+    "alternatives": [
+      "zbritjeve",
+      "njëzbritjeve"
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+  "dekrementimi": {
+    "alternatives": [
+      "zbritja",
+      "njëzbritja"
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+  "dekrementimin": {
+    "alternatives": [
+      "zbritjen",
+      "njëzbritjen"
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
+  "dekrementimit": {
+    "alternatives": [
+      "zbritjes",
+      "njëzbritjes"
+    ],
+    "origin": "english",
+    "word": "decrement"
+  },
   "denigroj": {
     "alternatives": [
       "shpif",
@@ -281,6 +1011,69 @@
     ],
     "word": "denigrate",
     "origin": "english"
+  },
+  "dimension": {
+    "alternatives": [
+      "përmasë"
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+  "dimensional": {
+    "alternatives": [
+      "përmasor"
+    ],
+    "origin": "english",
+    "word": "dimensional"
+  },
+  "dimensionale": {
+    "alternatives": [
+      "përmasore"
+    ],
+    "origin": "english",
+    "word": "dimensional"
+  },
+  "dimensione": {
+    "alternatives": [
+      "përmasa"
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+  "dimensionet": {
+    "alternatives": [
+      "përmasat"
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+  "dimensioneve": {
+    "alternatives": [
+      "përmasave"
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+  "dimensioni": {
+    "alternatives": [
+      "përmasa"
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+  "dimensionin": {
+    "alternatives": [
+      "përmasën"
+    ],
+    "origin": "english",
+    "word": "dimension"
+  },
+  "dimensionit": {
+    "alternatives": [
+      "përmasës"
+    ],
+    "origin": "english",
+    "word": "dimension"
   },
   "distributor": {
     "alternatives": [
@@ -309,13 +1102,6 @@
     ],
     "word": "distributor",
     "origin": "english"
-  },
-  "xheti": {
-    "alternatives": [
-      "avioni"
-    ],
-    "origin": "english",
-    "word": "jet"
   },
   "evaziv": {
     "alternatives": [
@@ -410,6 +1196,146 @@
     "origin": "ottoman",
     "word": "hale"
   },
+  "hiperlink": {
+    "alternatives": [
+      "hiperlidhje"
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+  "hiperlinke": {
+    "alternatives": [
+      "hiperlidhje"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+  "hiperlinket": {
+    "alternatives": [
+      "hiperlidhjet"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+  "hiperlinkeve": {
+    "alternatives": [
+      "hiperlidhjeve"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+  "hiperlinku": {
+    "alternatives": [
+      "hiperlidhja"
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+  "hiperlinkun": {
+    "alternatives": [
+      "hiperlidhjen"
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+  "hiperlinkut": {
+    "alternatives": [
+      "hiperlidhjes"
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+  "hiperlinqe": {
+    "alternatives": [
+      "hiperlidhje"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+  "hiperlinqet": {
+    "alternatives": [
+      "hiperlidhjet"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+  "hiperlinqeve": {
+    "alternatives": [
+      "hiperlidhjeve"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+  "hyperlink": {
+    "alternatives": [
+      "hiperlidhje"
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+  "hyperlinke": {
+    "alternatives": [
+      "hiperlidhje"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+  "hyperlinket": {
+    "alternatives": [
+      "hiperlidhjet"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+  "hyperlinkeve": {
+    "alternatives": [
+      "hiperlidhjeve"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+  "hyperlinku": {
+    "alternatives": [
+      "hiperlidhja"
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+  "hyperlinkun": {
+    "alternatives": [
+      "hiperlidhjen"
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+  "hyperlinkut": {
+    "alternatives": [
+      "hiperlidhjes"
+    ],
+    "origin": "english",
+    "word": "hyperlink"
+  },
+  "hyperlinqe": {
+    "alternatives": [
+      "hiperlidhje"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+  "hyperlinqet": {
+    "alternatives": [
+      "hiperlidhjet"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
+  "hyperlinqeve": {
+    "alternatives": [
+      "hiperlidhjeve"
+    ],
+    "origin": "english",
+    "word": "hyperlinks"
+  },
   "impresive": {
     "alternatives": [
       "mbresëlënëse"
@@ -446,6 +1372,294 @@
     "word": "indizio",
     "origin": "italian"
   },
+  "inicial": {
+    "alternatives": [
+      "fillestar",
+      "nistor"
+    ],
+    "origin": "english",
+    "word": "initial"
+  },
+  "iniciale": {
+    "alternatives": [
+      "fillestare",
+      "nistore"
+    ],
+    "origin": "english",
+    "word": "initial"
+  },
+  "inicializim": {
+    "alternatives": [
+      "nisje",
+      "vlerënisje"
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+  "inicializime": {
+    "alternatives": [
+      "nisje",
+      "vlerënisje"
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+  "inicializimet": {
+    "alternatives": [
+      "nisjet",
+      "vlerënisjet"
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+  "inicializimeve": {
+    "alternatives": [
+      "nisjeve",
+      "vlerënisjeve"
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+  "inicializimi": {
+    "alternatives": [
+      "nisja",
+      "vlerënisja"
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+  "inicializimin": {
+    "alternatives": [
+      "nisjen",
+      "vlerënisjen"
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+  "inicializimit": {
+    "alternatives": [
+      "nisjes",
+      "vlerënisjes"
+    ],
+    "origin": "english",
+    "word": "initialization"
+  },
+  "inicializoi": {
+    "alternatives": [
+      "nisi",
+      "vlerënisi"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializoj": {
+    "alternatives": [
+      "nis",
+      "vlerënis"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializoja": {
+    "alternatives": [
+      "nisja",
+      "vlerënisja"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializoje": {
+    "alternatives": [
+      "nisje",
+      "vlerënisje"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializojmë": {
+    "alternatives": [
+      "nisim",
+      "vlerënisim"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializojnë": {
+    "alternatives": [
+      "nisin",
+      "vlerënisin"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializon": {
+    "alternatives": [
+      "nis",
+      "vlerënis"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializoni": {
+    "alternatives": [
+      "nisni",
+      "vlerënisni"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializonim": {
+    "alternatives": [
+      "nisnim",
+      "vlerënisnim"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializonin": {
+    "alternatives": [
+      "nisnin",
+      "vlerënisnin"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializonit": {
+    "alternatives": [
+      "nisnit",
+      "vlerënisnit"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializonte": {
+    "alternatives": [
+      "niste",
+      "vlerëniste"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializova": {
+    "alternatives": [
+      "nisa",
+      "vlerënisa"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializove": {
+    "alternatives": [
+      "nise",
+      "vlerënise"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializuam": {
+    "alternatives": [
+      "nisëm",
+      "vlerënisëm"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializuan": {
+    "alternatives": [
+      "nisën",
+      "vlerënisën"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializuar": {
+    "alternatives": [
+      "nisur",
+      "vlerënisur"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inicializuat": {
+    "alternatives": [
+      "nisët",
+      "vlerënisët"
+    ],
+    "origin": "english",
+    "word": "initialize"
+  },
+  "inkorporuar": {
+    "alternatives": [
+      "trupëzuar",
+      "mishëruar"
+    ],
+    "origin": "english",
+    "word": "incorporated"
+  },
+  "inkorporuara": {
+    "alternatives": [
+      "trupëzuara",
+      "mishëruara"
+    ],
+    "origin": "english",
+    "word": "incorporated"
+  },
+  "inkrementim": {
+    "alternatives": [
+      "rritje",
+      "njërritje"
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+  "inkrementime": {
+    "alternatives": [
+      "rritje",
+      "njërritje"
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+  "inkrementimet": {
+    "alternatives": [
+      "rritjet",
+      "njërritjet"
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+  "inkrementimeve": {
+    "alternatives": [
+      "rritjeve",
+      "njërritjeve"
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+  "inkrementimi": {
+    "alternatives": [
+      "rritja",
+      "njërritja"
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+  "inkrementimin": {
+    "alternatives": [
+      "rritjen",
+      "njërritjen"
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
+  "inkrementimit": {
+    "alternatives": [
+      "rritjes",
+      "njërritjes"
+    ],
+    "origin": "english",
+    "word": "increment"
+  },
   "internacional": {
     "alternatives": [
       "ndërkombëtar"
@@ -470,6 +1684,28 @@
     "origin": "english",
     "word": "calculator"
   },
+  "koaksial": {
+    "alternatives": [
+      "bashkëboshtor"
+    ],
+    "origin": "english",
+    "word": "coaxial"
+  },
+  "koaksiale": {
+    "alternatives": [
+      "bashkëboshtore"
+    ],
+    "origin": "english",
+    "word": "coaxial"
+  },
+  "kompatibël": {
+    "alternatives": [
+      "i përputhshëm",
+      "e përputhshme"
+    ],
+    "origin": "english",
+    "word": "compatible"
+  },
   "konfidencialitet": {
     "alternatives": [
       "fshehtësi"
@@ -483,6 +1719,111 @@
     ],
     "word": "confidentiality",
     "origin": "english"
+  },
+  "konvolucion": {
+    "alternatives": [
+      "thurje"
+    ],
+    "origin": "english",
+    "word": "convolution"
+  },
+  "konvolucione": {
+    "alternatives": [
+      "thurje"
+    ],
+    "origin": "english",
+    "word": "convolutions"
+  },
+  "konvolucionet": {
+    "alternatives": [
+      "thurjet"
+    ],
+    "origin": "english",
+    "word": "convolutions"
+  },
+  "konvolucioneve": {
+    "alternatives": [
+      "thurjeve"
+    ],
+    "origin": "english",
+    "word": "convolutions"
+  },
+  "konvolucioni": {
+    "alternatives": [
+      "thurja"
+    ],
+    "origin": "english",
+    "word": "convolution"
+  },
+  "konvolucionin": {
+    "alternatives": [
+      "thurjen"
+    ],
+    "origin": "english",
+    "word": "convolution"
+  },
+  "konvolucionit": {
+    "alternatives": [
+      "thurjes"
+    ],
+    "origin": "english",
+    "word": "convolution"
+  },
+  "kopirajt": {
+    "alternatives": [
+      "autorsi",
+      "e drejtë autori"
+    ],
+    "origin": "english",
+    "word": "copyright"
+  },
+  "kopirajte": {
+    "alternatives": [
+      "autorsi",
+      "të drejta të autorit"
+    ],
+    "origin": "english",
+    "word": "copyright"
+  },
+  "kopirajtet": {
+    "alternatives": [
+      "autorsitë",
+      "të drejtat e autorit"
+    ],
+    "origin": "english",
+    "word": "copyright"
+  },
+  "kopirajteve": {
+    "alternatives": [
+      "autorsive",
+      "të drejtave të autorit"
+    ],
+    "origin": "english",
+    "word": "copyright"
+  },
+  "kopirajti": {
+    "alternatives": [
+      "autorsia",
+      "e drejta e autorit"
+    ],
+    "origin": "english",
+    "word": "copyright"
+  },
+  "kopirajtin": {
+    "alternatives": [
+      "autorsinë",
+      "të drejtën e autorit"
+    ],
+    "origin": "english",
+    "word": "copyright"
+  },
+  "kopirajtit": {
+    "alternatives": [
+      "autorsisë",
+      "të drejtës së autorit"
+    ],
+    "origin": "english",
+    "word": "copyright"
   },
   "koshience": {
     "alternatives": [
@@ -591,6 +1932,86 @@
     "origin": "english",
     "word": "leader"
   },
+  "link": {
+    "alternatives": [
+      "lidhje",
+      "adresë"
+    ],
+    "origin": "english",
+    "word": "link"
+  },
+  "linke": {
+    "alternatives": [
+      "lidhje",
+      "adresa"
+    ],
+    "origin": "english",
+    "word": "links"
+  },
+  "linket": {
+    "alternatives": [
+      "lidhjet",
+      "adresat"
+    ],
+    "origin": "english",
+    "word": "links"
+  },
+  "linkeve": {
+    "alternatives": [
+      "lidhjeve",
+      "adresave"
+    ],
+    "origin": "english",
+    "word": "links"
+  },
+  "linku": {
+    "alternatives": [
+      "lidhja",
+      "adresa"
+    ],
+    "origin": "english",
+    "word": "link"
+  },
+  "linkun": {
+    "alternatives": [
+      "lidhjen",
+      "adresën"
+    ],
+    "origin": "english",
+    "word": "link"
+  },
+  "linkut": {
+    "alternatives": [
+      "lidhjes",
+      "adresës"
+    ],
+    "origin": "english",
+    "word": "link"
+  },
+  "linqe": {
+    "alternatives": [
+      "lidhje",
+      "adresa"
+    ],
+    "origin": "english",
+    "word": "links"
+  },
+  "linqet": {
+    "alternatives": [
+      "lidhjet",
+      "adresat"
+    ],
+    "origin": "english",
+    "word": "links"
+  },
+  "linqeve": {
+    "alternatives": [
+      "lidhjeve",
+      "adresave"
+    ],
+    "origin": "english",
+    "word": "links"
+  },
   "lojalitet": {
     "alternatives": [
       "besnikëri"
@@ -650,6 +2071,34 @@
     "word": "minority",
     "origin": "english"
   },
+  "multidimensional": {
+    "alternatives": [
+      "shumëpërmasor"
+    ],
+    "origin": "english",
+    "word": "multidimensional"
+  },
+  "multidimensionale": {
+    "alternatives": [
+      "shumëpërmasore"
+    ],
+    "origin": "english",
+    "word": "multidimensional"
+  },
+  "multiplikativ": {
+    "alternatives": [
+      "shumëzues"
+    ],
+    "origin": "english",
+    "word": "multiplicative"
+  },
+  "multiplikative": {
+    "alternatives": [
+      "shumëzuese"
+    ],
+    "origin": "english",
+    "word": "multiplicative"
+  },
   "obligim": {
     "alternatives": [
       "detyrim"
@@ -699,6 +2148,62 @@
     "origin": "english",
     "word": "password"
   },
+  "path": {
+    "alternatives": [
+      "rruginë",
+      "shteg"
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+  "pathe": {
+    "alternatives": [
+      "rrugina",
+      "shtigje"
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+  "pathet": {
+    "alternatives": [
+      "rruginat",
+      "shtigjet"
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+  "patheve": {
+    "alternatives": [
+      "rruginave",
+      "shtigjeve"
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+  "pathi": {
+    "alternatives": [
+      "rrugina",
+      "shtegu"
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+  "pathin": {
+    "alternatives": [
+      "rruginën",
+      "shtegun"
+    ],
+    "origin": "english",
+    "word": "path"
+  },
+  "pathit": {
+    "alternatives": [
+      "rruginës",
+      "shtegut"
+    ],
+    "origin": "english",
+    "word": "path"
+  },
   "penxhere": {
     "alternatives": [
       "dritare"
@@ -735,6 +2240,176 @@
     "origin": "english",
     "word": "poll"
   },
+  "prioritarizoi": {
+    "alternatives": [
+      "i dha përparësi",
+      "u dha përparësi",
+      "i caktoi përparësi",
+      "u caktoi përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizoj": {
+    "alternatives": [
+      "i jap përparësi",
+      "u jap përparësi",
+      "i caktoj përparësi",
+      "u caktoj përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizoja": {
+    "alternatives": [
+      "i jepja përparësi",
+      "u jepja përparësi",
+      "i caktoja përparësi",
+      "u caktoja përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizoje": {
+    "alternatives": [
+      "i japje përparësi",
+      "u japje përparësi",
+      "i caktoje përparësi",
+      "u caktoje përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizojmë": {
+    "alternatives": [
+      "i japim përparësi",
+      "u japim përparësi",
+      "i caktojmë përparësi",
+      "u caktojmë përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizojnë": {
+    "alternatives": [
+      "i japin përparësi",
+      "u japin përparësi",
+      "i caktojnë përparësi",
+      "u caktojnë përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizon": {
+    "alternatives": [
+      "i jep përparësi",
+      "u jep përparësi",
+      "i cakton përparësi",
+      "u cakton përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizoni": {
+    "alternatives": [
+      "i jepni përparësi",
+      "u jepni përparësi",
+      "i caktoni përparësi",
+      "u caktoni përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizonim": {
+    "alternatives": [
+      "i jepnim përparësi",
+      "u jepnim përparësi",
+      "i caktonim përparësi",
+      "u caktonim përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizonin": {
+    "alternatives": [
+      "i jepnin përparësi",
+      "u jepnin përparësi",
+      "i caktonin përparësi",
+      "u caktonin përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizonit": {
+    "alternatives": [
+      "i jepnit përparësi",
+      "u jepnit përparësi",
+      "i caktonit përparësi",
+      "u caktonit përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizonte": {
+    "alternatives": [
+      "i jepte përparësi",
+      "u jepte përparësi",
+      "i caktonte përparësi",
+      "u caktonte përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizova": {
+    "alternatives": [
+      "i dhashë përparësi",
+      "u dhashë përparësi",
+      "i caktova përparësi",
+      "u caktova përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizove": {
+    "alternatives": [
+      "i dhe përparësi",
+      "u dhe përparësi",
+      "i caktove përparësi",
+      "u caktove përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizuam": {
+    "alternatives": [
+      "i dhamë përparësi",
+      "u dhamë përparësi",
+      "i caktuam përparësi",
+      "u caktuam përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizuan": {
+    "alternatives": [
+      "i dhanë përparësi",
+      "u dhanë përparësi",
+      "i caktuan përparësi",
+      "u caktuan përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
+  "prioritarizuat": {
+    "alternatives": [
+      "i dhatë përparësi",
+      "u dhatë përparësi",
+      "i cakuat përparësi",
+      "u cakuat përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  },
   "psonis": {
     "alternatives": [
       "blej"
@@ -755,6 +2430,55 @@
     ],
     "origin": "greek",
     "word": "ψωνίζω"
+  },
+  "radiacion": {
+    "alternatives": [
+      "rrezatim"
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+  "radiacione": {
+    "alternatives": [
+      "rrezatime"
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+  "radiacionet": {
+    "alternatives": [
+      "rrezatimet"
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+  "radiacioneve": {
+    "alternatives": [
+      "rrezatimeve"
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+  "radiacioni": {
+    "alternatives": [
+      "rrezatimi"
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+  "radiacionin": {
+    "alternatives": [
+      "rrezatimin"
+    ],
+    "origin": "italian",
+    "word": "radiazione"
+  },
+  "radiacionit": {
+    "alternatives": [
+      "rrezatimit"
+    ],
+    "origin": "italian",
+    "word": "radiazione"
   },
   "religjion": {
     "alternatives": [
@@ -812,6 +2536,69 @@
     "origin": "ottoman",
     "word": "sehir"
   },
+  "shortkat": {
+    "alternatives": [
+      "shkurtore"
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+  "shortkate": {
+    "alternatives": [
+      "shkurtore"
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+  "shortkatet": {
+    "alternatives": [
+      "shkurtoret"
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+  "shortkateve": {
+    "alternatives": [
+      "shkurtoreve"
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+  "shortkati": {
+    "alternatives": [
+      "shkurtorja"
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+  "shortkatin": {
+    "alternatives": [
+      "shkurtoren"
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+  "shortkatit": {
+    "alternatives": [
+      "shkurtores"
+    ],
+    "origin": "english",
+    "word": "shortcut"
+  },
+  "shumëdimensional": {
+    "alternatives": [
+      "shumëpërmasor"
+    ],
+    "origin": "english",
+    "word": "multidimensional"
+  },
+  "shumëdimensionale": {
+    "alternatives": [
+      "shumëpërmasore"
+    ],
+    "origin": "english",
+    "word": "multidimensional"
+  },
   "skrutinim": {
     "alternatives": [
       "shqyrtim",
@@ -848,6 +2635,104 @@
     ],
     "origin": "english",
     "word": "start"
+  },
+  "stringa": {
+    "alternatives": [
+      "germëvargu"
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+  "stringat": {
+    "alternatives": [
+      "germëvargjet"
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+  "stringave": {
+    "alternatives": [
+      "germëvargjeve"
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+  "stringë": {
+    "alternatives": [
+      "germëvarg"
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+  "stringën": {
+    "alternatives": [
+      "germëvargun"
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+  "stringës": {
+    "alternatives": [
+      "germëvargut"
+    ],
+    "origin": "english",
+    "word": "string"
+  },
+  "suport": {
+    "alternatives": [
+      "mbështetje",
+      "përkrahje"
+    ],
+    "origin": "english",
+    "word": "support"
+  },
+  "suporte": {
+    "alternatives": [
+      "mbështetje",
+      "përkrahje"
+    ],
+    "origin": "english",
+    "word": "supports"
+  },
+  "suportet": {
+    "alternatives": [
+      "mbështetjet",
+      "përkrahjet"
+    ],
+    "origin": "english",
+    "word": "supports"
+  },
+  "suporteve": {
+    "alternatives": [
+      "mbështetjeve",
+      "përkrahjeve"
+    ],
+    "origin": "english",
+    "word": "supports"
+  },
+  "suporti": {
+    "alternatives": [
+      "mbështetja",
+      "përkrahja"
+    ],
+    "origin": "english",
+    "word": "support"
+  },
+  "suportin": {
+    "alternatives": [
+      "mbështetjen",
+      "përkrahjen"
+    ],
+    "origin": "english",
+    "word": "support"
+  },
+  "suportit": {
+    "alternatives": [
+      "mbështetjes",
+      "përkrahjes"
+    ],
+    "origin": "english",
+    "word": "support"
   },
   "support": {
     "alternatives": [
@@ -923,6 +2808,48 @@
     "origin": "ottoman",
     "word": "takat"
   },
+  "tastatura": {
+    "alternatives": [
+      "tastiera"
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
+  "tastaturat": {
+    "alternatives": [
+      "tastierat"
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
+  "tastaturave": {
+    "alternatives": [
+      "tastierave"
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
+  "tastaturë": {
+    "alternatives": [
+      "tastierë"
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
+  "tastaturën": {
+    "alternatives": [
+      "tastierën"
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
+  "tastaturës": {
+    "alternatives": [
+      "tastierës"
+    ],
+    "origin": "german",
+    "word": "tastatur"
+  },
   "termin": {
     "alternatives": [
       "takim"
@@ -963,6 +2890,106 @@
     "origin": "ottoman",
     "word": "torba"
   },
+  "uorkshop": {
+    "alternatives": [
+      "punëtakim",
+      "punëtori"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "uorkshope": {
+    "alternatives": [
+      "punëtakime",
+      "punëtori"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "uorkshopet": {
+    "alternatives": [
+      "punëtakimet",
+      "punëtoritë"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "uorkshopeve": {
+    "alternatives": [
+      "punëtakimeve",
+      "punëtorive"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "uorkshopi": {
+    "alternatives": [
+      "punëtakimi",
+      "punëtoria"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "uorkshopin": {
+    "alternatives": [
+      "punëtakimin",
+      "punëtorinë"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "uorkshopit": {
+    "alternatives": [
+      "punëtakimit",
+      "punëtorisë"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "variabla": {
+    "alternatives": [
+      "ndryshore"
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+  "variablat": {
+    "alternatives": [
+      "ndryshoret"
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+  "variablave": {
+    "alternatives": [
+      "ndryshoreve"
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+  "variablën": {
+    "alternatives": [
+      "ndryshoren"
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+  "variablës": {
+    "alternatives": [
+      "ndryshores"
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
+  "variabël": {
+    "alternatives": [
+      "i ndryshueshëm",
+      "e ndryshueshme",
+      "ndryshore"
+    ],
+    "origin": "english",
+    "word": "variable"
+  },
   "vatan": {
     "alternatives": [
       "atdhe",
@@ -999,6 +3026,125 @@
     "origin": "ottoman",
     "word": "vatan"
   },
+  "vulnerabilitet": {
+    "alternatives": [
+      "dobësi",
+      "cen"
+    ],
+    "origin": "english",
+    "word": "vulnerability"
+  },
+  "vulnerabilitete": {
+    "alternatives": [
+      "dobësi",
+      "cene"
+    ],
+    "origin": "english",
+    "word": "vulnerabilities"
+  },
+  "vulnerabilitetet": {
+    "alternatives": [
+      "dobësitë",
+      "cenet"
+    ],
+    "origin": "english",
+    "word": "vulnerabilities"
+  },
+  "vulnerabiliteteve": {
+    "alternatives": [
+      "dobësive",
+      "ceneve"
+    ],
+    "origin": "english",
+    "word": "vulnerabilities"
+  },
+  "vulnerabiliteti": {
+    "alternatives": [
+      "dobësia",
+      "ceni"
+    ],
+    "origin": "english",
+    "word": "vulnerability"
+  },
+  "vulnerabilitetin": {
+    "alternatives": [
+      "dobësinë",
+      "cenin"
+    ],
+    "origin": "english",
+    "word": "vulnerability"
+  },
+  "vulnerabilitetit": {
+    "alternatives": [
+      "dobësisë",
+      "cenit"
+    ],
+    "origin": "english",
+    "word": "vulnerability"
+  },
+  "workshop": {
+    "alternatives": [
+      "punëtakim",
+      "punëtori"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "workshope": {
+    "alternatives": [
+      "punëtakime",
+      "punëtori"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "workshopet": {
+    "alternatives": [
+      "punëtakimet",
+      "punëtoritë"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "workshopeve": {
+    "alternatives": [
+      "punëtakimeve",
+      "punëtorive"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "workshopi": {
+    "alternatives": [
+      "punëtakimi",
+      "punëtoria"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "workshopin": {
+    "alternatives": [
+      "punëtakimin",
+      "punëtorinë"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "workshopit": {
+    "alternatives": [
+      "punëtakimit",
+      "punëtorisë"
+    ],
+    "origin": "english",
+    "word": "workshop"
+  },
+  "xheti": {
+    "alternatives": [
+      "avioni"
+    ],
+    "origin": "english",
+    "word": "jet"
+  },
   "yzmet": {
     "alternatives": [
       "punë",
@@ -1018,2481 +3164,19 @@
     "origin": "ottoman",
     "word": "zarar"
   },
-
-  "link": {
+  "çoban": {
     "alternatives": [
-      "lidhje",
-      "adresë",
+      "bari"
     ],
-    "origin": "english",
-    "word": "link"
+    "origin": "ottoman",
+    "word": "çoban"
   },
-
-  "linku": {
+  "çorbë": {
     "alternatives": [
-      "lidhja",
-      "adresa",
+      "supë",
+      "rrëmujë"
     ],
-    "origin": "english",
-    "word": "link"
-  },
-
-  "linkut": {
-    "alternatives": [
-      "lidhjes",
-      "adresës",
-    ],
-    "origin": "english",
-    "word": "link"
-  },
-
-  "linkun": {
-    "alternatives": [
-      "lidhjen",
-      "adresën",
-    ],
-    "origin": "english",
-    "word": "link"
-  },
-
-  "linqe": {
-    "alternatives": [
-      "lidhje",
-      "adresa",
-    ],
-    "origin": "english",
-    "word": "links"
-  },
-
-  "linke": {
-    "alternatives": [
-      "lidhje",
-      "adresa",
-    ],
-    "origin": "english",
-    "word": "links"
-  },
-
-  "linqet": {
-    "alternatives": [
-      "lidhjet",
-      "adresat",
-    ],
-    "origin": "english",
-    "word": "links"
-  },
-
-  "linket": {
-    "alternatives": [
-      "lidhjet",
-      "adresat",
-    ],
-    "origin": "english",
-    "word": "links"
-  },
-
-  "linqeve": {
-    "alternatives": [
-      "lidhjeve",
-      "adresave",
-    ],
-    "origin": "english",
-    "word": "links"
-  },
-
-  "linkeve": {
-    "alternatives": [
-      "lidhjeve",
-      "adresave",
-    ],
-    "origin": "english",
-    "word": "links"
-  },
-
-  "hiperlink": {
-    "alternatives": [
-      "hiperlidhje",
-    ],
-    "origin": "english",
-    "word": "hyperlink"
-  },
-
-  "hiperlinku": {
-    "alternatives": [
-      "hiperlidhja",
-    ],
-    "origin": "english",
-    "word": "hyperlink"
-  },
-
-  "hiperlinkut": {
-    "alternatives": [
-      "hiperlidhjes",
-    ],
-    "origin": "english",
-    "word": "hyperlink"
-  },
-
-  "hiperlinkun": {
-    "alternatives": [
-      "hiperlidhjen",
-    ],
-    "origin": "english",
-    "word": "hyperlink"
-  },
-
-  "hiperlinqe": {
-    "alternatives": [
-      "hiperlidhje",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "hiperlinke": {
-    "alternatives": [
-      "hiperlidhje",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "hiperlinqet": {
-    "alternatives": [
-      "hiperlidhjet",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "hiperlinket": {
-    "alternatives": [
-      "hiperlidhjet",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "hiperlinqeve": {
-    "alternatives": [
-      "hiperlidhjeve",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "hiperlinkeve": {
-    "alternatives": [
-      "hiperlidhjeve",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "hyperlink": {
-    "alternatives": [
-      "hiperlidhje",
-    ],
-    "origin": "english",
-    "word": "hyperlink"
-  },
-
-  "hyperlinku": {
-    "alternatives": [
-      "hiperlidhja",
-    ],
-    "origin": "english",
-    "word": "hyperlink"
-  },
-
-  "hyperlinkut": {
-    "alternatives": [
-      "hiperlidhjes",
-    ],
-    "origin": "english",
-    "word": "hyperlink"
-  },
-
-  "hyperlinkun": {
-    "alternatives": [
-      "hiperlidhjen",
-    ],
-    "origin": "english",
-    "word": "hyperlink"
-  },
-
-  "hyperlinqe": {
-    "alternatives": [
-      "hiperlidhje",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "hyperlinke": {
-    "alternatives": [
-      "hiperlidhje",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "hyperlinqet": {
-    "alternatives": [
-      "hiperlidhjet",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "hyperlinket": {
-    "alternatives": [
-      "hiperlidhjet",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "hyperlinqeve": {
-    "alternatives": [
-      "hiperlidhjeve",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "hyperlinkeve": {
-    "alternatives": [
-      "hiperlidhjeve",
-    ],
-    "origin": "english",
-    "word": "hyperlinks"
-  },
-
-  "konvolucion": {
-    "alternatives": [
-      "thurje",
-    ],
-    "origin": "english",
-    "word": "convolution"
-  },
-
-  "konvolucioni": {
-    "alternatives": [
-      "thurja",
-    ],
-    "origin": "english",
-    "word": "convolution"
-  },
-
-  "konvolucionit": {
-    "alternatives": [
-      "thurjes",
-    ],
-    "origin": "english",
-    "word": "convolution"
-  },
-
-  "konvolucionin": {
-    "alternatives": [
-      "thurjen",
-    ],
-    "origin": "english",
-    "word": "convolution"
-  },
-
-  "konvolucione": {
-    "alternatives": [
-      "thurje",
-    ],
-    "origin": "english",
-    "word": "convolutions"
-  },
-
-  "konvolucionet": {
-    "alternatives": [
-      "thurjet",
-    ],
-    "origin": "english",
-    "word": "convolutions"
-  },
-
-  "konvolucioneve": {
-    "alternatives": [
-      "thurjeve",
-    ],
-    "origin": "english",
-    "word": "convolutions"
-  },
-
-  "konvolucioneve": {
-    "alternatives": [
-      "thurjeve",
-    ],
-    "origin": "english",
-    "word": "convolutions"
-  },
-
-  "radiacion": {
-    "alternatives": [
-      "rrezatim",
-    ],
-    "origin": "italian",
-    "word": "radiazione"
-  },
-
-  "radiacioni": {
-    "alternatives": [
-      "rrezatimi",
-    ],
-    "origin": "italian",
-    "word": "radiazione"
-  },
-
-  "radiacionit": {
-    "alternatives": [
-      "rrezatimit",
-    ],
-    "origin": "italian",
-    "word": "radiazione"
-  },
-
-  "radiacionin": {
-    "alternatives": [
-      "rrezatimin",
-    ],
-    "origin": "italian",
-    "word": "radiazione"
-  },
-
-  "radiacione": {
-    "alternatives": [
-      "rrezatime",
-    ],
-    "origin": "italian",
-    "word": "radiazione"
-  },
-
-  "radiacionet": {
-    "alternatives": [
-      "rrezatimet",
-    ],
-    "origin": "italian",
-    "word": "radiazione"
-  },
-
-  "radiacioneve": {
-    "alternatives": [
-      "rrezatimeve",
-    ],
-    "origin": "italian",
-    "word": "radiazione"
-  },
-
-  "multiplikativ": {
-    "alternatives": [
-      "shumëzues",
-    ],
-    "origin": "english",
-    "word": "multiplicative"
-  },
-
-  "multiplikative": {
-    "alternatives": [
-      "shumëzuese",
-    ],
-    "origin": "english",
-    "word": "multiplicative"
-  },
-
-  "dimension": {
-    "alternatives": [
-      "përmasë",
-    ],
-    "origin": "english",
-    "word": "dimension"
-  },
-
-  "dimensioni": {
-    "alternatives": [
-      "përmasa",
-    ],
-    "origin": "english",
-    "word": "dimension"
-  },
-
-  "dimensionit": {
-    "alternatives": [
-      "përmasës",
-    ],
-    "origin": "english",
-    "word": "dimension"
-  },
-
-  "dimensionin": {
-    "alternatives": [
-      "përmasën",
-    ],
-    "origin": "english",
-    "word": "dimension"
-  },
-
-  "dimensione": {
-    "alternatives": [
-      "përmasa",
-    ],
-    "origin": "english",
-    "word": "dimension"
-  },
-
-  "dimensionet": {
-    "alternatives": [
-      "përmasat",
-    ],
-    "origin": "english",
-    "word": "dimension"
-  },
-
-  "dimensioneve": {
-    "alternatives": [
-      "përmasave",
-    ],
-    "origin": "english",
-    "word": "dimension"
-  },
-
-  "dimensional": {
-    "alternatives": [
-      "përmasor",
-    ],
-    "origin": "english",
-    "word": "dimensional"
-  },
-
-  "dimensionale": {
-    "alternatives": [
-      "përmasore",
-    ],
-    "origin": "english",
-    "word": "dimensional"
-  },
-
-  "multidimensional": {
-    "alternatives": [
-      "shumëpërmasor",
-    ],
-    "origin": "english",
-    "word": "multidimensional"
-  },
-
-  "multidimensionale": {
-    "alternatives": [
-      "shumëpërmasore",
-    ],
-    "origin": "english",
-    "word": "multidimensional"
-  },
-
-  "shumëdimensional": {
-    "alternatives": [
-      "shumëpërmasor",
-    ],
-    "origin": "english",
-    "word": "multidimensional"
-  },
-
-  "shumëdimensionale": {
-    "alternatives": [
-      "shumëpërmasore",
-    ],
-    "origin": "english",
-    "word": "multidimensional"
-  },
-
-  "suport": {
-    "alternatives": [
-      "mbështetje",
-      "përkrahje",
-    ],
-    "origin": "english",
-    "word": "support"
-  },
-
-  "suporti": {
-    "alternatives": [
-      "mbështetja",
-      "përkrahja",
-    ],
-    "origin": "english",
-    "word": "support"
-  },
-
-  "suportit": {
-    "alternatives": [
-      "mbështetjes",
-      "përkrahjes",
-    ],
-    "origin": "english",
-    "word": "support"
-  },
-
-  "suportin": {
-    "alternatives": [
-      "mbështetjen",
-      "përkrahjen",
-    ],
-    "origin": "english",
-    "word": "support"
-  },
-
-  "suporte": {
-    "alternatives": [
-      "mbështetje",
-      "përkrahje",
-    ],
-    "origin": "english",
-    "word": "supports"
-  },
-
-  "suportet": {
-    "alternatives": [
-      "mbështetjet",
-      "përkrahjet",
-    ],
-    "origin": "english",
-    "word": "supports"
-  },
-
-  "suporteve": {
-    "alternatives": [
-      "mbështetjeve",
-      "përkrahjeve",
-    ],
-    "origin": "english",
-    "word": "supports"
-  },
-
-  "vulnerabilitet": {
-    "alternatives": [
-      "dobësi",
-      "cen",
-    ],
-    "origin": "english",
-    "word": "vulnerability"
-  },
-
-  "vulnerabiliteti": {
-    "alternatives": [
-      "dobësia",
-      "ceni",
-    ],
-    "origin": "english",
-    "word": "vulnerability"
-  },
-
-  "vulnerabilitetit": {
-    "alternatives": [
-      "dobësisë",
-      "cenit",
-    ],
-    "origin": "english",
-    "word": "vulnerability"
-  },
-
-  "vulnerabilitetin": {
-    "alternatives": [
-      "dobësinë",
-      "cenin",
-    ],
-    "origin": "english",
-    "word": "vulnerability"
-  },
-
-  "vulnerabilitete": {
-    "alternatives": [
-      "dobësi",
-      "cene",
-    ],
-    "origin": "english",
-    "word": "vulnerabilities"
-  },
-
-  "vulnerabilitetet": {
-    "alternatives": [
-      "dobësitë",
-      "cenet",
-    ],
-    "origin": "english",
-    "word": "vulnerabilities"
-  },
-
-  "vulnerabiliteteve": {
-    "alternatives": [
-      "dobësive",
-      "ceneve",
-    ],
-    "origin": "english",
-    "word": "vulnerabilities"
-  },
-
-  "alokoj": {
-    "alternatives": [
-      "livroj",
-      "caktoj",
-      "shpërndaj",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokon": {
-    "alternatives": [
-      "livron",
-      "cakton",
-      "shpërndan",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokojmë": {
-    "alternatives": [
-      "livrojmë",
-      "caktojmë",
-      "shpërndajmë",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokoni": {
-    "alternatives": [
-      "livroni",
-      "caktoni",
-      "shpërndani",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokojnë": {
-    "alternatives": [
-      "livrojnë",
-      "caktojnë",
-      "shpërndajnë",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokoj": {
-    "alternatives": [
-      "livroj",
-      "caktoj",
-      "shpërndaj",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokoja": {
-    "alternatives": [
-      "livroja",
-      "caktoja",
-      "shpërndaja",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokoje": {
-    "alternatives": [
-      "livroje",
-      "caktoje",
-      "shpërndaje",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokonte": {
-    "alternatives": [
-      "livronte",
-      "caktonte",
-      "shpërndante",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokonim": {
-    "alternatives": [
-      "livronim",
-      "caktonim",
-      "shpërndanim",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokonit": {
-    "alternatives": [
-      "livronit",
-      "caktonit",
-      "shpërndanit",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokonin": {
-    "alternatives": [
-      "livronin",
-      "caktonin",
-      "shpërndanin",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokova": {
-    "alternatives": [
-      "livrova",
-      "caktova",
-      "shpërndava",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokove": {
-    "alternatives": [
-      "livrove",
-      "caktove",
-      "shpërndave",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokoi": {
-    "alternatives": [
-      "livroi",
-      "caktoi",
-      "shpërndau",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokuam": {
-    "alternatives": [
-      "livruam",
-      "caktuam",
-      "shpërndamë",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokuat": {
-    "alternatives": [
-      "livruat",
-      "caktuat",
-      "shpërndatë",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokuan": {
-    "alternatives": [
-      "livruan",
-      "caktuan",
-      "shpërndanë",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokuar": {
-    "alternatives": [
-      "livruar",
-      "caktuar",
-      "shpërndarë",
-    ],
-    "origin": "english",
-    "word": "allocate"
-  },
-
-  "alokim": {
-    "alternatives": [
-      "livrim",
-      "caktim",
-      "shpërndarje",
-    ],
-    "origin": "english",
-    "word": "allocation"
-  },
-
-  "alokimi": {
-    "alternatives": [
-      "livrimi",
-      "caktimi",
-      "shpërndarja",
-    ],
-    "origin": "english",
-    "word": "allocation"
-  },
-
-  "alokimit": {
-    "alternatives": [
-      "livrimit",
-      "caktimit",
-      "shpërndarjes",
-    ],
-    "origin": "english",
-    "word": "allocation"
-  },
-
-  "alokimin": {
-    "alternatives": [
-      "livrimin",
-      "caktimin",
-      "shpërndarjen",
-    ],
-    "origin": "english",
-    "word": "allocation"
-  },
-
-  "alokime": {
-    "alternatives": [
-      "livrime",
-      "caktime",
-      "shpërndarje",
-    ],
-    "origin": "english",
-    "word": "allocation"
-  },
-
-  "alokimet": {
-    "alternatives": [
-      "livrimet",
-      "caktimet",
-      "shpërndarjet",
-    ],
-    "origin": "english",
-    "word": "allocation"
-  },
-
-  "alokimeve": {
-    "alternatives": [
-      "livrimeve",
-      "caktimeve",
-      "shpërndarjeve",
-    ],
-    "origin": "english",
-    "word": "allocation"
-  },
-
-  "ambiguitet": {
-    "alternatives": [
-      "paqartësi",
-      "dykuptimësi",
-      "shumëkuptimësi",
-    ],
-    "origin": "english",
-    "word": "ambiguity"
-  },
-
-  "ambiguiteti": {
-    "alternatives": [
-      "paqartësia",
-      "dykuptimësia",
-      "shumëkuptimësia",
-    ],
-    "origin": "english",
-    "word": "ambiguity"
-  },
-
-  "ambiguitetit": {
-    "alternatives": [
-      "paqartësisë",
-      "dykuptimësisë",
-      "shumëkuptimësisë",
-    ],
-    "origin": "english",
-    "word": "ambiguity"
-  },
-
-  "ambiguitetin": {
-    "alternatives": [
-      "paqartësinë",
-      "dykuptimësinë",
-      "shumëkuptimësinë",
-    ],
-    "origin": "english",
-    "word": "ambiguity"
-  },
-
-  "ambiguitete": {
-    "alternatives": [
-      "paqartësi",
-      "dykuptimësi",
-      "shumëkuptimësi",
-    ],
-    "origin": "english",
-    "word": "ambiguity"
-  },
-
-  "ambiguitetet": {
-    "alternatives": [
-      "paqartësitë",
-      "dykuptimësitë",
-      "shumëkuptimësitë",
-    ],
-    "origin": "english",
-    "word": "ambiguity"
-  },
-
-  "ambiguiteteve": {
-    "alternatives": [
-      "paqartësive",
-      "dykuptimësive",
-      "shumëkuptimësive",
-    ],
-    "origin": "english",
-    "word": "ambiguity"
-  },
-
-  "asosacion": {
-    "alternatives": [
-      "shoqërim",
-      "shoqatë",
-      "bashkim",
-    ],
-    "origin": "english",
-    "word": "association"
-  },
-
-  "asosacioni": {
-    "alternatives": [
-      "shoqërimi",
-      "shoqata",
-      "bashkimi",
-    ],
-    "origin": "english",
-    "word": "association"
-  },
-
-  "asosacionit": {
-    "alternatives": [
-      "shoqërimit",
-      "shoqatës",
-      "bashkimit",
-    ],
-    "origin": "english",
-    "word": "association"
-  },
-
-  "asosacionin": {
-    "alternatives": [
-      "shoqërimin",
-      "shoqatën",
-      "bashkimin",
-    ],
-    "origin": "english",
-    "word": "association"
-  },
-
-  "asosacione": {
-    "alternatives": [
-      "shoqërime",
-      "shoqata",
-      "bashkime",
-    ],
-    "origin": "english",
-    "word": "association"
-  },
-
-  "asosacionet": {
-    "alternatives": [
-      "shoqërimet",
-      "shoqatat",
-      "bashkimet",
-    ],
-    "origin": "english",
-    "word": "association"
-  },
-
-  "asosacioneve": {
-    "alternatives": [
-      "shoqërimeve",
-      "shoqatave",
-      "bashkimeve",
-    ],
-    "origin": "english",
-    "word": "association"
-  },
-
-  "asosaciativ": {
-    "alternatives": [
-      "shoqërues",
-      "i shoqërimit",
-    ],
-    "origin": "english",
-    "word": "associative"
-  },
-
-  "asosaciative": {
-    "alternatives": [
-      "shoqëruese",
-      "e shoqërimit",
-    ],
-    "origin": "english",
-    "word": "associative"
-  },
-
-  "atomicitet": {
-    "alternatives": [
-      "pandashmëri",
-    ],
-    "origin": "english",
-    "word": "atomicity"
-  },
-
-  "atomiciteti": {
-    "alternatives": [
-      "pandashmëria",
-    ],
-    "origin": "english",
-    "word": "atomicity"
-  },
-
-  "atomicitetit": {
-    "alternatives": [
-      "pandashmërisë",
-    ],
-    "origin": "english",
-    "word": "atomicity"
-  },
-
-  "atomicitetin": {
-    "alternatives": [
-      "pandashmërinë",
-    ],
-    "origin": "english",
-    "word": "atomicity"
-  },
-
-  "atomicitete": {
-    "alternatives": [
-      "pandashmëri",
-    ],
-    "origin": "english",
-    "word": "atomicity"
-  },
-
-  "atomicitetet": {
-    "alternatives": [
-      "pandashmëritë",
-    ],
-    "origin": "english",
-    "word": "atomicity"
-  },
-
-  "atomiciteteve": {
-    "alternatives": [
-      "pandashmërive",
-    ],
-    "origin": "english",
-    "word": "atomicity"
-  },
-
-  "kompatibël": {
-    "alternatives": [
-      "i përputhshëm",
-      "e përputhshme",
-    ],
-    "origin": "english",
-    "word": "compatible"
-  },
-
-  "kopirajt": {
-    "alternatives": [
-      "autorsi",
-      "e drejtë autori",
-    ],
-    "origin": "english",
-    "word": "copyright"
-  },
-
-  "kopirajti": {
-    "alternatives": [
-      "autorsia",
-      "e drejta e autorit",
-    ],
-    "origin": "english",
-    "word": "copyright"
-  },
-
-  "kopirajtit": {
-    "alternatives": [
-      "autorsisë",
-      "të drejtës së autorit",
-    ],
-    "origin": "english",
-    "word": "copyright"
-  },
-
-  "kopirajtin": {
-    "alternatives": [
-      "autorsinë",
-      "të drejtën e autorit",
-    ],
-    "origin": "english",
-    "word": "copyright"
-  },
-
-  "kopirajte": {
-    "alternatives": [
-      "autorsi",
-      "të drejta të autorit",
-    ],
-    "origin": "english",
-    "word": "copyright"
-  },
-
-  "kopirajtet": {
-    "alternatives": [
-      "autorsitë",
-      "të drejtat e autorit",
-    ],
-    "origin": "english",
-    "word": "copyright"
-  },
-
-  "kopirajteve": {
-    "alternatives": [
-      "autorsive",
-      "të drejtave të autorit",
-    ],
-    "origin": "english",
-    "word": "copyright"
-  },
-
-  "prioritarizoj": {
-    "alternatives": [
-      "i jap përparësi",
-      "u jap përparësi",
-      "i caktoj përparësi",
-      "u caktoj përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizon": {
-    "alternatives": [
-      "i jep përparësi",
-      "u jep përparësi",
-      "i cakton përparësi",
-      "u cakton përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizojmë": {
-    "alternatives": [
-      "i japim përparësi",
-      "u japim përparësi",
-      "i caktojmë përparësi",
-      "u caktojmë përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizoni": {
-    "alternatives": [
-      "i jepni përparësi",
-      "u jepni përparësi",
-      "i caktoni përparësi",
-      "u caktoni përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizojnë": {
-    "alternatives": [
-      "i japin përparësi",
-      "u japin përparësi",
-      "i caktojnë përparësi",
-      "u caktojnë përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizoja": {
-    "alternatives": [
-      "i jepja përparësi",
-      "u jepja përparësi",
-      "i caktoja përparësi",
-      "u caktoja përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizoje": {
-    "alternatives": [
-      "i japje përparësi",
-      "u japje përparësi",
-      "i caktoje përparësi",
-      "u caktoje përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizonte": {
-    "alternatives": [
-      "i jepte përparësi",
-      "u jepte përparësi",
-      "i caktonte përparësi",
-      "u caktonte përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizonim": {
-    "alternatives": [
-      "i jepnim përparësi",
-      "u jepnim përparësi",
-      "i caktonim përparësi",
-      "u caktonim përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizonit": {
-    "alternatives": [
-      "i jepnit përparësi",
-      "u jepnit përparësi",
-      "i caktonit përparësi",
-      "u caktonit përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizonin": {
-    "alternatives": [
-      "i jepnin përparësi",
-      "u jepnin përparësi",
-      "i caktonin përparësi",
-      "u caktonin përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizova": {
-    "alternatives": [
-      "i dhashë përparësi",
-      "u dhashë përparësi",
-      "i caktova përparësi",
-      "u caktova përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizove": {
-    "alternatives": [
-      "i dhe përparësi",
-      "u dhe përparësi",
-      "i caktove përparësi",
-      "u caktove përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizoi": {
-    "alternatives": [
-      "i dha përparësi",
-      "u dha përparësi",
-      "i caktoi përparësi",
-      "u caktoi përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizuam": {
-    "alternatives": [
-      "i dhamë përparësi",
-      "u dhamë përparësi",
-      "i caktuam përparësi",
-      "u caktuam përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizuat": {
-    "alternatives": [
-      "i dhatë përparësi",
-      "u dhatë përparësi",
-      "i cakuat përparësi",
-      "u cakuat përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "prioritarizuan": {
-    "alternatives": [
-      "i dhanë përparësi",
-      "u dhanë përparësi",
-      "i caktuan përparësi",
-      "u caktuan përparësi",
-    ],
-    "origin": "english",
-    "word": "prioritize"
-  },
-
-  "bençmark": {
-    "alternatives": [
-      "etalon",
-      "bankëshënim",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bençmarku": {
-    "alternatives": [
-      "etaloni",
-      "bankëshënimi",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bençmarkut": {
-    "alternatives": [
-      "etalonit",
-      "bankëshënimit",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bençmarkun": {
-    "alternatives": [
-      "etalonin",
-      "bankëshënimin",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bençmarke": {
-    "alternatives": [
-      "etalone",
-      "bankëshënime",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bençmarket": {
-    "alternatives": [
-      "etalonet",
-      "bankëshënimet",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bençmarkeve": {
-    "alternatives": [
-      "etaloneve",
-      "bankëshënimeve",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bencmark": {
-    "alternatives": [
-      "etalon",
-      "bankëshënim",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bencmarku": {
-    "alternatives": [
-      "etaloni",
-      "bankëshënimi",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bencmarkut": {
-    "alternatives": [
-      "etalonit",
-      "bankëshënimit",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bencmarkun": {
-    "alternatives": [
-      "etalonin",
-      "bankëshënimin",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bencmarke": {
-    "alternatives": [
-      "etalone",
-      "bankëshënime",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bencmarket": {
-    "alternatives": [
-      "etalonet",
-      "bankëshënimet",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "bencmarkeve": {
-    "alternatives": [
-      "etaloneve",
-      "bankëshënimeve",
-    ],
-    "origin": "english",
-    "word": "benchmark"
-  },
-
-  "inkrementim": {
-    "alternatives": [
-      "rritje",
-      "njërritje",
-    ],
-    "origin": "english",
-    "word": "increment"
-  },
-
-  "inkrementimi": {
-    "alternatives": [
-      "rritja",
-      "njërritja",
-    ],
-    "origin": "english",
-    "word": "increment"
-  },
-
-  "inkrementimit": {
-    "alternatives": [
-      "rritjes",
-      "njërritjes",
-    ],
-    "origin": "english",
-    "word": "increment"
-  },
-
-  "inkrementimin": {
-    "alternatives": [
-      "rritjen",
-      "njërritjen",
-    ],
-    "origin": "english",
-    "word": "increment"
-  },
-
-  "inkrementime": {
-    "alternatives": [
-      "rritje",
-      "njërritje",
-    ],
-    "origin": "english",
-    "word": "increment"
-  },
-
-  "inkrementimet": {
-    "alternatives": [
-      "rritjet",
-      "njërritjet",
-    ],
-    "origin": "english",
-    "word": "increment"
-  },
-
-  "inkrementimeve": {
-    "alternatives": [
-      "rritjeve",
-      "njërritjeve",
-    ],
-    "origin": "english",
-    "word": "increment"
-  },
-
-  "dekrementim": {
-    "alternatives": [
-      "zbritje",
-      "njëzbritje",
-    ],
-    "origin": "english",
-    "word": "decrement"
-  },
-
-  "dekrementimi": {
-    "alternatives": [
-      "zbritja",
-      "njëzbritja",
-    ],
-    "origin": "english",
-    "word": "decrement"
-  },
-
-  "dekrementimit": {
-    "alternatives": [
-      "zbritjes",
-      "njëzbritjes",
-    ],
-    "origin": "english",
-    "word": "decrement"
-  },
-
-  "dekrementimin": {
-    "alternatives": [
-      "zbritjen",
-      "njëzbritjen",
-    ],
-    "origin": "english",
-    "word": "decrement"
-  },
-
-  "dekrementime": {
-    "alternatives": [
-      "zbritje",
-      "njëzbritje",
-    ],
-    "origin": "english",
-    "word": "decrement"
-  },
-
-  "dekrementimet": {
-    "alternatives": [
-      "zbritjet",
-      "njëzbritjet",
-    ],
-    "origin": "english",
-    "word": "decrement"
-  },
-
-  "dekrementimeve": {
-    "alternatives": [
-      "zbritjeve",
-      "njëzbritjeve",
-    ],
-    "origin": "english",
-    "word": "decrement"
-  },
-
-  "inkorporuar": {
-    "alternatives": [
-      "trupëzuar",
-      "mishëruar",
-    ],
-    "origin": "english",
-    "word": "incorporated"
-  },
-
-  "inkorporuara": {
-    "alternatives": [
-      "trupëzuara",
-      "mishëruara",
-    ],
-    "origin": "english",
-    "word": "incorporated"
-  },
-
-  "inicializim": {
-    "alternatives": [
-      "nisje",
-      "vlerënisje",
-    ],
-    "origin": "english",
-    "word": "initialization"
-  },
-
-  "inicializimi": {
-    "alternatives": [
-      "nisja",
-      "vlerënisja",
-    ],
-    "origin": "english",
-    "word": "initialization"
-  },
-
-  "inicializimit": {
-    "alternatives": [
-      "nisjes",
-      "vlerënisjes",
-    ],
-    "origin": "english",
-    "word": "initialization"
-  },
-
-  "inicializimin": {
-    "alternatives": [
-      "nisjen",
-      "vlerënisjen",
-    ],
-    "origin": "english",
-    "word": "initialization"
-  },
-
-  "inicializime": {
-    "alternatives": [
-      "nisje",
-      "vlerënisje",
-    ],
-    "origin": "english",
-    "word": "initialization"
-  },
-
-  "inicializimet": {
-    "alternatives": [
-      "nisjet",
-      "vlerënisjet",
-    ],
-    "origin": "english",
-    "word": "initialization"
-  },
-
-  "inicializimeve": {
-    "alternatives": [
-      "nisjeve",
-      "vlerënisjeve",
-    ],
-    "origin": "english",
-    "word": "initialization"
-  },
-
-  "inicializoj": {
-    "alternatives": [
-      "nis",
-      "vlerënis",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializon": {
-    "alternatives": [
-      "nis",
-      "vlerënis",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializon": {
-    "alternatives": [
-      "nis",
-      "vlerënis",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializojmë": {
-    "alternatives": [
-      "nisim",
-      "vlerënisim",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializoni": {
-    "alternatives": [
-      "nisni",
-      "vlerënisni",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializojnë": {
-    "alternatives": [
-      "nisin",
-      "vlerënisin",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializoja": {
-    "alternatives": [
-      "nisja",
-      "vlerënisja",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializoje": {
-    "alternatives": [
-      "nisje",
-      "vlerënisje",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializonte": {
-    "alternatives": [
-      "niste",
-      "vlerëniste",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializonim": {
-    "alternatives": [
-      "nisnim",
-      "vlerënisnim",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializonit": {
-    "alternatives": [
-      "nisnit",
-      "vlerënisnit",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializonin": {
-    "alternatives": [
-      "nisnin",
-      "vlerënisnin",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializova": {
-    "alternatives": [
-      "nisa",
-      "vlerënisa",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializove": {
-    "alternatives": [
-      "nise",
-      "vlerënise",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializoi": {
-    "alternatives": [
-      "nisi",
-      "vlerënisi",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializuam": {
-    "alternatives": [
-      "nisëm",
-      "vlerënisëm",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializuat": {
-    "alternatives": [
-      "nisët",
-      "vlerënisët",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializuan": {
-    "alternatives": [
-      "nisën",
-      "vlerënisën",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "inicializuar": {
-    "alternatives": [
-      "nisur",
-      "vlerënisur",
-    ],
-    "origin": "english",
-    "word": "initialize"
-  },
-
-  "shortkat": {
-    "alternatives": [
-      "shkurtore",
-    ],
-    "origin": "english",
-    "word": "shortcut"
-  },
-
-  "shortkati": {
-    "alternatives": [
-      "shkurtorja",
-    ],
-    "origin": "english",
-    "word": "shortcut"
-  },
-
-  "shortkatit": {
-    "alternatives": [
-      "shkurtores",
-    ],
-    "origin": "english",
-    "word": "shortcut"
-  },
-
-  "shortkatin": {
-    "alternatives": [
-      "shkurtoren",
-    ],
-    "origin": "english",
-    "word": "shortcut"
-  },
-
-  "shortkate": {
-    "alternatives": [
-      "shkurtore",
-    ],
-    "origin": "english",
-    "word": "shortcut"
-  },
-
-  "shortkatet": {
-    "alternatives": [
-      "shkurtoret",
-    ],
-    "origin": "english",
-    "word": "shortcut"
-  },
-
-  "shortkateve": {
-    "alternatives": [
-      "shkurtoreve",
-    ],
-    "origin": "english",
-    "word": "shortcut"
-  },
-
-  "stringë": {
-    "alternatives": [
-      "germëvarg",
-    ],
-    "origin": "english",
-    "word": "string"
-  },
-
-  "stringa": {
-    "alternatives": [
-      "germëvargu",
-    ],
-    "origin": "english",
-    "word": "string"
-  },
-
-  "stringës": {
-    "alternatives": [
-      "germëvargut",
-    ],
-    "origin": "english",
-    "word": "string"
-  },
-
-  "stringën": {
-    "alternatives": [
-      "germëvargun",
-    ],
-    "origin": "english",
-    "word": "string"
-  },
-
-  "stringa": {
-    "alternatives": [
-      "germëvargje",
-    ],
-    "origin": "english",
-    "word": "string"
-  },
-
-  "stringat": {
-    "alternatives": [
-      "germëvargjet",
-    ],
-    "origin": "english",
-    "word": "string"
-  },
-
-  "stringave": {
-    "alternatives": [
-      "germëvargjeve",
-    ],
-    "origin": "english",
-    "word": "string"
-  },
-
-  "path": {
-    "alternatives": [
-      "rruginë",
-      "shteg",
-    ],
-    "origin": "english",
-    "word": "path"
-  },
-
-  "pathi": {
-    "alternatives": [
-      "rrugina",
-      "shtegu",
-    ],
-    "origin": "english",
-    "word": "path"
-  },
-
-  "pathit": {
-    "alternatives": [
-      "rruginës",
-      "shtegut",
-    ],
-    "origin": "english",
-    "word": "path"
-  },
-
-  "pathin": {
-    "alternatives": [
-      "rruginën",
-      "shtegun",
-    ],
-    "origin": "english",
-    "word": "path"
-  },
-
-  "pathe": {
-    "alternatives": [
-      "rrugina",
-      "shtigje",
-    ],
-    "origin": "english",
-    "word": "path"
-  },
-
-  "pathet": {
-    "alternatives": [
-      "rruginat",
-      "shtigjet",
-    ],
-    "origin": "english",
-    "word": "path"
-  },
-
-  "patheve": {
-    "alternatives": [
-      "rruginave",
-      "shtigjeve",
-    ],
-    "origin": "english",
-    "word": "path"
-  },
-
-  "workshop": {
-    "alternatives": [
-      "punëtakim",
-      "punëtori",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "workshopi": {
-    "alternatives": [
-      "punëtakimi",
-      "punëtoria",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "workshopit": {
-    "alternatives": [
-      "punëtakimit",
-      "punëtorisë",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "workshopin": {
-    "alternatives": [
-      "punëtakimin",
-      "punëtorinë",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "workshope": {
-    "alternatives": [
-      "punëtakime",
-      "punëtori",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "workshopet": {
-    "alternatives": [
-      "punëtakimet",
-      "punëtoritë",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "workshopeve": {
-    "alternatives": [
-      "punëtakimeve",
-      "punëtorive",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "uorkshop": {
-    "alternatives": [
-      "punëtakim",
-      "punëtori",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "uorkshopi": {
-    "alternatives": [
-      "punëtakimi",
-      "punëtoria",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "uorkshopit": {
-    "alternatives": [
-      "punëtakimit",
-      "punëtorisë",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "uorkshopin": {
-    "alternatives": [
-      "punëtakimin",
-      "punëtorinë",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "uorkshope": {
-    "alternatives": [
-      "punëtakime",
-      "punëtori",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "uorkshopet": {
-    "alternatives": [
-      "punëtakimet",
-      "punëtoritë",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "uorkshopeve": {
-    "alternatives": [
-      "punëtakimeve",
-      "punëtorive",
-    ],
-    "origin": "english",
-    "word": "workshop"
-  },
-
-  "aks": {
-    "alternatives": [
-      "bosht",
-    ],
-    "origin": "english",
-    "word": "axis"
-  },
-
-  "aksi": {
-    "alternatives": [
-      "boshti",
-    ],
-    "origin": "english",
-    "word": "axis"
-  },
-
-  "aksit": {
-    "alternatives": [
-      "boshtit",
-    ],
-    "origin": "english",
-    "word": "axis"
-  },
-
-  "aksin": {
-    "alternatives": [
-      "boshtin",
-    ],
-    "origin": "english",
-    "word": "axis"
-  },
-
-  "akse": {
-    "alternatives": [
-      "boshte",
-    ],
-    "origin": "english",
-    "word": "axis"
-  },
-
-  "akset": {
-    "alternatives": [
-      "boshtet",
-    ],
-    "origin": "english",
-    "word": "axis"
-  },
-
-  "akseve": {
-    "alternatives": [
-      "boshteve",
-    ],
-    "origin": "english",
-    "word": "axis"
-  },
-
-  "koaksial": {
-    "alternatives": [
-      "bashkëboshtor",
-    ],
-    "origin": "english",
-    "word": "coaxial"
-  },
-
-  "koaksiale": {
-    "alternatives": [
-      "bashkëboshtore",
-    ],
-    "origin": "english",
-    "word": "coaxial"
-  },
-
-  "tastaturë": {
-    "alternatives": [
-      "tastierë",
-    ],
-    "origin": "german",
-    "word": "tastatur"
-  },
-
-  "tastatura": {
-    "alternatives": [
-      "tastiera",
-    ],
-    "origin": "german",
-    "word": "tastatur"
-  },
-
-  "tastaturës": {
-    "alternatives": [
-      "tastierës",
-    ],
-    "origin": "german",
-    "word": "tastatur"
-  },
-
-  "tastaturën": {
-    "alternatives": [
-      "tastierën",
-    ],
-    "origin": "german",
-    "word": "tastatur"
-  },
-
-  "tastaturat": {
-    "alternatives": [
-      "tastierat",
-    ],
-    "origin": "german",
-    "word": "tastatur"
-  },
-
-  "tastaturave": {
-    "alternatives": [
-      "tastierave",
-    ],
-    "origin": "german",
-    "word": "tastatur"
-  },
-
-  "inicial": {
-    "alternatives": [
-      "fillestar",
-      "nistor",
-    ],
-    "origin": "english",
-    "word": "initial"
-  },
-
-  "iniciale": {
-    "alternatives": [
-      "fillestare",
-      "nistore",
-    ],
-    "origin": "english",
-    "word": "initial"
-  },
-
-  "variabël": {
-    "alternatives": [
-      "i ndryshueshëm",
-      "e ndryshueshme",
-      "ndryshore",
-    ],
-    "origin": "english",
-    "word": "variable"
-  },
-
-  "variabla": {
-    "alternatives": [
-      "ndryshorja",
-    ],
-    "origin": "english",
-    "word": "variable"
-  },
-
-  "variablën": {
-    "alternatives": [
-      "ndryshoren",
-    ],
-    "origin": "english",
-    "word": "variable"
-  },
-
-  "variablës": {
-    "alternatives": [
-      "ndryshores",
-    ],
-    "origin": "english",
-    "word": "variable"
-  },
-
-  "variabla": {
-    "alternatives": [
-      "ndryshore",
-    ],
-    "origin": "english",
-    "word": "variable"
-  },
-
-  "variablat": {
-    "alternatives": [
-      "ndryshoret",
-    ],
-    "origin": "english",
-    "word": "variable"
-  },
-
-  "variablave": {
-    "alternatives": [
-      "ndryshoreve",
-    ],
-    "origin": "english",
-    "word": "variable"
-  },
-
-  "bekgraund": {
-    "alternatives": [
-      "sfond",
-      "prapaskenë",
-      "prapavijë",
-    ],
-    "origin": "english",
-    "word": "background"
-  },
-
-  "bekgraundi": {
-    "alternatives": [
-      "sfondi",
-      "prapaskena",
-      "prapavija",
-    ],
-    "origin": "english",
-    "word": "background"
-  },
-
-  "bekgraundit": {
-    "alternatives": [
-      "sfondit",
-      "prapaskenës",
-      "prapavijës",
-    ],
-    "origin": "english",
-    "word": "background"
-  },
-
-  "bekgraundin": {
-    "alternatives": [
-      "sfondin",
-      "prapaskenën",
-      "prapavijën",
-    ],
-    "origin": "english",
-    "word": "background"
-  },
-
-  "bekgraunde": {
-    "alternatives": [
-      "sfonde",
-      "prapaskena",
-      "prapavija",
-    ],
-    "origin": "english",
-    "word": "background"
-  },
-
-  "bekgraundet": {
-    "alternatives": [
-      "sfondet",
-      "prapaskenat",
-      "prapavijat",
-    ],
-    "origin": "english",
-    "word": "background"
-  },
-
-  "bekgraundeve": {
-    "alternatives": [
-      "sfondeve",
-      "prapaskenave",
-      "prapavijave",
-    ],
-    "origin": "english",
-    "word": "background"
-  },
-
-  "barkod": {
-    "alternatives": [
-      "kod vijor",
-    ],
-    "origin": "english",
-    "word": "barcode"
-  },
-
-  "barkodi": {
-    "alternatives": [
-      "kodi vijor",
-    ],
-    "origin": "english",
-    "word": "barcode"
-  },
-
-  "barkodit": {
-    "alternatives": [
-      "kodit vijor",
-    ],
-    "origin": "english",
-    "word": "barcode"
-  },
-
-  "barkodin": {
-    "alternatives": [
-      "kodin vijor",
-    ],
-    "origin": "english",
-    "word": "barcode"
-  },
-
-  "barkode": {
-    "alternatives": [
-      "kode vijore",
-    ],
-    "origin": "english",
-    "word": "barcode"
-  },
-
-  "barkodet": {
-    "alternatives": [
-      "kodet vijore",
-    ],
-    "origin": "english",
-    "word": "barcode"
-  },
-
-  "barkodeve": {
-    "alternatives": [
-      "kodeve vijore",
-    ],
-    "origin": "english",
-    "word": "barcode"
-  },
-
+    "origin": "ottoman",
+    "word": "çorba"
+  }
 }

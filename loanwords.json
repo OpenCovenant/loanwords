@@ -2638,7 +2638,8 @@
   },
   "stringa": {
     "alternatives": [
-      "germëvargu"
+      "germëvargu",
+      "germëvargje",
     ],
     "origin": "english",
     "word": "string"
@@ -2948,7 +2949,8 @@
   },
   "variabla": {
     "alternatives": [
-      "ndryshore"
+      "ndryshore",
+      "ndryshorja",
     ],
     "origin": "english",
     "word": "variable"

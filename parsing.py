@@ -10,5 +10,5 @@ def detect_duplicate_keys(list_of_pairs):
 
     return dict(list_of_pairs)
 
-with open('skdr.json', 'r', encoding='utf-8') as r_file:
+with open('loanwords.json', 'r', encoding='utf-8') as r_file:
   a = json.load(r_file, object_pairs_hook=detect_duplicate_keys)

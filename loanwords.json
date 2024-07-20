@@ -3166,19 +3166,53 @@
     "origin": "ottoman",
     "word": "zarar"
   },
-  "çoban": {
+  "permeabilitet": {
     "alternatives": [
-      "bari"
+      "depërtueshmëri"
     ],
-    "origin": "ottoman",
-    "word": "çoban"
+    "origin": "english",
+    "word": "permeability"
   },
-  "çorbë": {
+  "permeabiliteti": {
     "alternatives": [
-      "supë",
-      "rrëmujë"
+      "depërtueshmëria"
     ],
-    "origin": "ottoman",
-    "word": "çorba"
+    "origin": "english",
+    "word": "permeability"
+  },
+  "permeabilitetit": {
+    "alternatives": [
+      "depërtueshmëris;;"
+    ],
+    "origin": "english",
+    "word": "permeability"
+  },
+  "permeabilitetin": {
+    "alternatives": [
+      "depërtueshmërin;;"
+    ],
+    "origin": "english",
+    "word": "permeability"
+  },
+  "permeabilitete": {
+    "alternatives": [
+      "depërtueshmëri"
+    ],
+    "origin": "english",
+    "word": "permeability"
+  },
+  "permeabilitetet": {
+    "alternatives": [
+      "depërtueshmërit;;"
+    ],
+    "origin": "english",
+    "word": "permeability"
+  },
+  "permeabiliteteve": {
+    "alternatives": [
+      "depërtueshmërive"
+    ],
+    "origin": "english",
+    "word": "permeability"
   }
 }

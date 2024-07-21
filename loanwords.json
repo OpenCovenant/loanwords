@@ -3207,5 +3207,208 @@
     ],
     "origin": "english",
     "word": "permeability"
+  },
+  "autoenkoder": {
+    "alternatives": [
+      "vetëkodues"
+    ],
+    "origin": "english",
+    "word": "autoencoder"
+  },
+  "autoenkoderi": {
+    "alternatives": [
+      "vetëkoduesi"
+    ],
+    "origin": "english",
+    "word": "autoencoder"
+  },
+  "autoenkoderit": {
+    "alternatives": [
+      "vetëkoduesit"
+    ],
+    "origin": "english",
+    "word": "autoencoder"
+  },
+  "autoenkoderin": {
+    "alternatives": [
+      "vetëkoduesin"
+    ],
+    "origin": "english",
+    "word": "autoencoder"
+  },
+  "autoenkodera": {
+    "alternatives": [
+      "vetëkodues"
+    ],
+    "origin": "english",
+    "word": "autoencoder"
+  },
+  "autoenkoderat": {
+    "alternatives": [
+      "vetëkoduesit"
+    ],
+    "origin": "english",
+    "word": "autoencoder"
+  },
+  "autoenkoderave": {
+    "alternatives": [
+      "vetëkoduesve"
+    ],
+    "origin": "english",
+    "word": "autoencoder"
+  },
+  "rankim": {
+    "alternatives": [
+      "renditje"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "rankimi": {
+    "alternatives": [
+      "renditja"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "rankimit": {
+    "alternatives": [
+      "renditjes"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "rankimin": {
+    "alternatives": [
+      "renditjen"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "rankime": {
+    "alternatives": [
+      "renditje"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "rankimet": {
+    "alternatives": [
+      "renditjet"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "rankimeve": {
+    "alternatives": [
+      "renditjeve"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "renkim": {
+    "alternatives": [
+      "renditje"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "renkimi": {
+    "alternatives": [
+      "renditja"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "renkimit": {
+    "alternatives": [
+      "renditjes"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "renkimin": {
+    "alternatives": [
+      "renditjen"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "renkime": {
+    "alternatives": [
+      "renditje"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "renkimet": {
+    "alternatives": [
+      "renditjet"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "renkimeve": {
+    "alternatives": [
+      "renditjeve"
+    ],
+    "origin": "english",
+    "word": "ranking"
+  },
+  "task": {
+    "alternatives": [
+      "detyrë",
+      "punë"
+    ],
+    "origin": "english",
+    "word": "task"
+  },
+  "tasku": {
+    "alternatives": [
+      "detyra",
+      "puna"
+    ],
+    "origin": "english",
+    "word": "task"
+  },
+  "taskut": {
+    "alternatives": [
+      "detyrës",
+      "punës"
+    ],
+    "origin": "english",
+    "word": "task"
+  },
+  "taskun": {
+    "alternatives": [
+      "detyrën",
+      "punën"
+    ],
+    "origin": "english",
+    "word": "task"
+  },
+  "taske": {
+    "alternatives": [
+      "detyra",
+      "punë"
+    ],
+    "origin": "english",
+    "word": "task"
+  },
+  "tasket": {
+    "alternatives": [
+      "detyrat",
+      "punët"
+    ],
+    "origin": "english",
+    "word": "task"
+  },
+  "taskeve": {
+    "alternatives": [
+      "detyrave",
+      "punëve"
+    ],
+    "origin": "english",
+    "word": "task"
   }
 }

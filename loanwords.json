@@ -1262,6 +1262,13 @@
     "origin": "english",
     "word": "barcode"
   },
+  "baçe": {
+    "alternatives": [
+      "kopsht"
+    ],
+    "origin": "ottoman",
+    "word": "bahçe"
+  },
   "baçë": {
     "alternatives": [
       "kopsht"
@@ -1475,6 +1482,55 @@
     "origin": "ottoman",
     "word": "bile"
   },
+  "bina": {
+    "alternatives": [
+      "ndërtesë",
+      "ndërtesa",
+      "shtëpi"
+    ],
+    "origin": "ottoman",
+    "word": "bina"
+  },
+  "binaja": {
+    "alternatives": [
+      "ndërtesa",
+      "shtëpia"
+    ],
+    "origin": "ottoman",
+    "word": "bina"
+  },
+  "binasë": {
+    "alternatives": [
+      "ndërtesës",
+      "shtëpisë"
+    ],
+    "origin": "ottoman",
+    "word": "bina"
+  },
+  "binanë": {
+    "alternatives": [
+      "ndërtesën",
+      "shtëpinë"
+    ],
+    "origin": "ottoman",
+    "word": "bina"
+  },
+  "binatë": {
+    "alternatives": [
+      "ndërtesat",
+      "shtëpitë"
+    ],
+    "origin": "ottoman",
+    "word": "bina"
+  },
+  "binave": {
+    "alternatives": [
+      "ndërtesave",
+      "shtëpive"
+    ],
+    "origin": "ottoman",
+    "word": "bina"
+  },
   "biçim": {
     "alternatives": [
       "lloj",
@@ -1482,6 +1538,62 @@
     ],
     "origin": "ottoman",
     "word": "biçim"
+  },
+  "cirkuit": {
+    "alternatives": [
+      "qark",
+      "pistë"
+    ],
+    "origin": "english",
+    "word": "circuit"
+  },
+  "cirkuiti": {
+    "alternatives": [
+      "qarku",
+      "pista"
+    ],
+    "origin": "english",
+    "word": "circuit"
+  },
+  "cirkuitit": {
+    "alternatives": [
+      "qarkut",
+      "pistës"
+    ],
+    "origin": "english",
+    "word": "circuit"
+  },
+  "cirkuitin": {
+    "alternatives": [
+      "qarkun",
+      "pistën"
+    ],
+    "origin": "english",
+    "word": "circuit"
+  },
+  "cirkuite": {
+    "alternatives": [
+      "qarqe",
+      "pista"
+    ],
+    "origin": "english",
+    "word": "circuit"
+  },
+  "cirkuitet": {
+    "alternatives": [
+      "qarqet",
+      "pistat"
+    ],
+    "origin": "english",
+    "word": "circuit"
+  },
+  "cirkuiteve": {
+    "alternatives": [
+      "qarqeve",
+      "pistave"
+    ],
+    "origin": "english",
+    "word": "circuit"
   },
   "definicion": {
     "alternatives": [
@@ -1562,6 +1674,63 @@
     ],
     "word": "denigrate",
     "origin": "english"
+  },
+  "difensiv": {
+    "alternatives": [
+      "mbrojtës",
+    ],
+    "word": "difensivo",
+    "origin": "italian"
+  },
+  "difensive": {
+    "alternatives": [
+      "mbrojtëse",
+    ],
+    "word": "difensivo",
+    "origin": "italian"
+  },
+  "difezë": {
+    "alternatives": [
+      "mbrojtje",
+    ],
+    "word": "difesa",
+    "origin": "italian"
+  },
+  "difeza": {
+    "alternatives": [
+      "mbrojtja",
+      "mbrojtje",
+    ],
+    "word": "difesa",
+    "origin": "italian"
+  },
+  "difezës": {
+    "alternatives": [
+      "mbrojtjes",
+    ],
+    "word": "difesa",
+    "origin": "italian"
+  },
+  "difezën": {
+    "alternatives": [
+      "mbrojtjen",
+    ],
+    "word": "difesa",
+    "origin": "italian"
+  },
+  "difezat": {
+    "alternatives": [
+      "mbrojtjet",
+    ],
+    "word": "difesa",
+    "origin": "italian"
+  },
+  "difezave": {
+    "alternatives": [
+      "mbrojtjeve",
+    ],
+    "word": "difesa",
+    "origin": "italian"
   },
   "dimension": {
     "alternatives": [
@@ -1729,6 +1898,20 @@
     "word": "fundamental",
     "origin": "english"
   },
+  "granular": {
+    "alternatives": [
+      "kokrrizor"
+    ],
+    "word": "granular",
+    "origin": "english"
+  },
+  "granulare": {
+    "alternatives": [
+      "kokrrizore"
+    ],
+    "word": "granular",
+    "origin": "english"
+  },
   "hajër": {
     "alternatives": [
       "mbarësi",
@@ -1746,6 +1929,55 @@
     ],
     "origin": "ottoman",
     "word": "hale"
+  },
+  "herbarium": {
+    "alternatives": [
+      "bimëtore",
+    ],
+    "origin": "italian",
+    "word": "erbario"
+  },
+  "herbariumi": {
+    "alternatives": [
+      "bimëtorja",
+    ],
+    "origin": "italian",
+    "word": "erbario"
+  },
+  "herbariumit": {
+    "alternatives": [
+      "bimëtores",
+    ],
+    "origin": "italian",
+    "word": "erbario"
+  },
+  "herbariumin": {
+    "alternatives": [
+      "bimëtoren",
+    ],
+    "origin": "italian",
+    "word": "erbario"
+  },
+  "herbariume": {
+    "alternatives": [
+      "bimëtore",
+    ],
+    "origin": "italian",
+    "word": "erbario"
+  },
+  "herbariumet": {
+    "alternatives": [
+      "bimëtoret",
+    ],
+    "origin": "italian",
+    "word": "erbario"
+  },
+  "herbariumeve": {
+    "alternatives": [
+      "bimëtoreve",
+    ],
+    "origin": "italian",
+    "word": "erbario"
   },
   "hiperlink": {
     "alternatives": [

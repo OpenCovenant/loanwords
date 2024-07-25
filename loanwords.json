@@ -2155,6 +2155,63 @@
     "word": "indizio",
     "origin": "italian"
   },
+  "indipendencë": {
+    "alternatives": [
+      "pavarësi"
+    ],
+    "word": "indipendenza",
+    "origin": "italian"
+  },
+  "indipendenca": {
+    "alternatives": [
+      "pavarësia",
+      "pavarësi"
+    ],
+    "word": "indipendenza",
+    "origin": "italian"
+  },
+  "indipendencës": {
+    "alternatives": [
+      "pavarësisë"
+    ],
+    "word": "indipendenza",
+    "origin": "italian"
+  },
+  "indipendencën": {
+    "alternatives": [
+      "pavarësinë"
+    ],
+    "word": "indipendenza",
+    "origin": "italian"
+  },
+  "indipendencat": {
+    "alternatives": [
+      "pavarësitë"
+    ],
+    "word": "indipendenza",
+    "origin": "italian"
+  },
+  "indipendencave": {
+    "alternatives": [
+      "pavarësive"
+    ],
+    "word": "indipendenza",
+    "origin": "italian"
+  },
+  "indipendent": {
+    "alternatives": [
+      "i pavarur"
+    ],
+    "word": "indipendente",
+    "origin": "italian"
+  },
+  "indipendente": {
+    "alternatives": [
+      "e pavarur"
+    ],
+    "word": "indipendente",
+    "origin": "italian"
+  },  
   "inicial": {
     "alternatives": [
       "fillestar",

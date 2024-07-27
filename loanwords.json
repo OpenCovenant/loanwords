@@ -153,14 +153,14 @@
     "origin": "english",
     "word": "absorb"
   },
-  "absorbojm;;": {
+  "absorbojmë": {
     "alternatives": [
       "përthithim"
     ],
     "origin": "english",
     "word": "absorb"
   },
-  "absorbojn;;": {
+  "absorbojnë": {
     "alternatives": [
       "përthithin"
     ],
@@ -2500,12 +2500,292 @@
     "origin": "english",
     "word": "increment"
   },
+  "inspirim": {
+    "alternatives": [
+      "frymëzim"
+    ],
+    "origin": "english",
+    "word": "inspiration"
+  },
+  "inspirimi": {
+    "alternatives": [
+      "frymëzimi"
+    ],
+    "origin": "english",
+    "word": "inspiration"
+  },
+  "inspirimit": {
+    "alternatives": [
+      "frymëzimit"
+    ],
+    "origin": "english",
+    "word": "inspiration"
+  },
+  "inspirimin": {
+    "alternatives": [
+      "frymëzimin"
+    ],
+    "origin": "english",
+    "word": "inspiration"
+  },
+  "inspirime": {
+    "alternatives": [
+      "frymëzime"
+    ],
+    "origin": "english",
+    "word": "inspiration"
+  },
+  "inspirimet": {
+    "alternatives": [
+      "frymëzimet"
+    ],
+    "origin": "english",
+    "word": "inspiration"
+  },
+  "inspirimeve": {
+    "alternatives": [
+      "frymëzimeve"
+    ],
+    "origin": "english",
+    "word": "inspiration"
+  },
+  "inspiroj": {
+    "alternatives": [
+      "frymëzoj"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiron": {
+    "alternatives": [
+      "frymëzon"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspirojmë": {
+    "alternatives": [
+      "frymëzojmë"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspironi": {
+    "alternatives": [
+      "frymëzoni"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspirojnë": {
+    "alternatives": [
+      "frymëzojnë"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiroja": {
+    "alternatives": [
+      "frymëzoja"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiroje": {
+    "alternatives": [
+      "frymëzoje",
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspironte": {
+    "alternatives": [
+      "frymëzonte"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspironim": {
+    "alternatives": [
+      "frymëzonim"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspironit": {
+    "alternatives": [
+      "frymëzonit"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspironin": {
+    "alternatives": [
+      "frymëzonin"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspirova": {
+    "alternatives": [
+      "frymëzova"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspirove": {
+    "alternatives": [
+      "frymëzove"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiroi": {
+    "alternatives": [
+      "frymëzoi"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiruam": {
+    "alternatives": [
+      "frymëzuam"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiruat": {
+    "alternatives": [
+      "frymëzuat"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiruan": {
+    "alternatives": [
+      "frymëzuan"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspirohem": {
+    "alternatives": [
+      "frymëzohem"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspirohesh": {
+    "alternatives": [
+      "frymëzohesh"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspirohet": {
+    "alternatives": [
+      "frymëzohet"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspirohemi": {
+    "alternatives": [
+      "frymëzohemi"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiroheni": {
+    "alternatives": [
+      "frymëzoheni"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspirohen": {
+    "alternatives": [
+      "frymëzohen"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspirohesha": {
+    "alternatives": [
+      "frymëzohesha"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiroheshe": {
+    "alternatives": [
+      "frymëzoheshe"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspirohehej": {
+    "alternatives": [
+      "frymëzohej"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiroheshim": {
+    "alternatives": [
+      "frymëzoheshim"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiroheshit": {
+    "alternatives": [
+      "frymëzoheshit"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiroheshin": {
+    "alternatives": [
+      "frymëzoheshin"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  },
+  "inspiruar": {
+    "alternatives": [
+      "frymëzuar"
+    ],
+    "origin": "english",
+    "word": "inspire"
+  }, 
+  "inspirues": {
+    "alternatives": [
+      "frymëzues"
+    ],
+    "origin": "english",
+    "word": "inspiring"
+  },
+  "inspiruese": {
+    "alternatives": [
+      "frymëzuese"
+    ],
+    "origin": "english",
+    "word": "inspiring"
+  }, 
   "internacional": {
     "alternatives": [
       "ndërkombëtar"
     ],
     "origin": "english",
-    "word": "frustration"
+    "word": "international"
+  },
+  "internacionale": {
+    "alternatives": [
+      "ndërkombëtare"
+    ],
+    "origin": "english",
+    "word": "international"
   },
   "jazëk": {
     "alternatives": [

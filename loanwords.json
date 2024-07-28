@@ -2787,6 +2787,55 @@
     "origin": "english",
     "word": "international"
   },
+  "introduksion": {
+    "alternatives": [
+      "hyrje"
+    ],
+    "origin": "italian",
+    "word": "introduzione"
+  },
+  "introduksioni": {
+    "alternatives": [
+      "hyrja"
+    ],
+    "origin": "italian",
+    "word": "introduzione"
+  },
+  "introduksionit": {
+    "alternatives": [
+      "hyrjes"
+    ],
+    "origin": "italian",
+    "word": "introduzione"
+  },
+  "introduksionin": {
+    "alternatives": [
+      "hyrjen"
+    ],
+    "origin": "italian",
+    "word": "introduzione"
+  },
+  "introduksione": {
+    "alternatives": [
+      "hyrje"
+    ],
+    "origin": "italian",
+    "word": "introduzione"
+  },
+  "introduksionet": {
+    "alternatives": [
+      "hyrjet"
+    ],
+    "origin": "italian",
+    "word": "introduzione"
+  },
+  "introduksioneve": {
+    "alternatives": [
+      "hyrjeve"
+    ],
+    "origin": "italian",
+    "word": "introduzione"
+  },
   "jazëk": {
     "alternatives": [
       "mëkat",
@@ -2803,6 +2852,239 @@
     ],
     "origin": "english",
     "word": "calculator"
+  },
+  "kalkulatori": {
+    "alternatives": [
+      "makina llogaritëse"
+    ],
+    "origin": "english",
+    "word": "calculator"
+  },
+  "kalkulatorit": {
+    "alternatives": [
+      "makinës llogaritëse"
+    ],
+    "origin": "english",
+    "word": "calculator"
+  },
+  "kalkulatorin": {
+    "alternatives": [
+      "makinën llogaritëse"
+    ],
+    "origin": "english",
+    "word": "calculator"
+  },
+  "kalkulatorë": {
+    "alternatives": [
+      "makina llogaritëse"
+    ],
+    "origin": "english",
+    "word": "calculator"
+  },
+  "kalkulatorët": {
+    "alternatives": [
+      "makinat llogaritëse"
+    ],
+    "origin": "english",
+    "word": "calculator"
+  },
+  "kalkulatorëve": {
+    "alternatives": [
+      "makinave llogaritëse"
+    ],
+    "origin": "english",
+    "word": "calculator"
+  },
+  "kalkulim": {
+    "alternatives": [
+      "njehsim",
+      "llogaritje"
+    ],
+    "origin": "english",
+    "word": "calculation"
+  },
+  "kalkulimi": {
+    "alternatives": [
+      "njehsimi",
+      "llogaritja"
+    ],
+    "origin": "english",
+    "word": "calculation"
+  },
+  "kalkulimit": {
+    "alternatives": [
+      "njehsimit",
+      "llogaritjes"
+    ],
+    "origin": "english",
+    "word": "calculation"
+  },
+  "kalkulimin": {
+    "alternatives": [
+      "njehsimin",
+      "llogaritjen"
+    ],
+    "origin": "english",
+    "word": "calculation"
+  },
+  "kalkulime": {
+    "alternatives": [
+      "njehsime",
+      "llogaritje"
+    ],
+    "origin": "english",
+    "word": "calculation"
+  },
+  "kalkulimet": {
+    "alternatives": [
+      "njehsimet",
+      "llogaritjet"
+    ],
+    "origin": "english",
+    "word": "calculation"
+  },
+  "kalkulimeve": {
+    "alternatives": [
+      "njehsimeve",
+      "llogaritjeve"
+    ],
+    "origin": "english",
+    "word": "calculation"
+  },
+  "kalkuloj": {
+    "alternatives": [
+      "llogarit",
+      "llogaris"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkulon": {
+    "alternatives": [
+      "llogarit"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkulojmë": {
+    "alternatives": [
+      "llogaritim",
+      "llogarisim"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkuloni": {
+    "alternatives": [
+      "llogaritni",
+      "llogarisni"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkulojnë": {
+    "alternatives": [
+      "llogaritin",
+      "llogarisin"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkuloja": {
+    "alternatives": [
+      "llogaritja",
+      "llogarisja"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkuloje": {
+    "alternatives": [
+      "llogaritje",
+      "llogarisje"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkulonte": {
+    "alternatives": [
+      "llogariste"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkulonim": {
+    "alternatives": [
+      "llogaritnim",
+      "llogarisnim"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkulonit": {
+    "alternatives": [
+      "llogaritnit",
+      "llogarisnit"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkulonin": {
+    "alternatives": [
+      "llogaritnin",
+      "llogarisnin"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkulova": {
+    "alternatives": [
+      "llogarita"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkulove": {
+    "alternatives": [
+      "llogarite"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkuloi": {
+    "alternatives": [
+      "llogariti"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkuluam": {
+    "alternatives": [
+      "llogaritëm"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkuluat": {
+    "alternatives": [
+      "llogaritët"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkuluan": {
+    "alternatives": [
+      "llogaritën"
+    ],
+    "origin": "english",
+    "word": "calculate"
+  },
+  "kalkuluar": {
+    "alternatives": [
+      "llogaritur"
+    ],
+    "origin": "english",
+    "word": "calculated"
   },
   "koaksial": {
     "alternatives": [

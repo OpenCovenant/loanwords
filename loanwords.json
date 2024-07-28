@@ -2049,6 +2049,266 @@
     "origin": "english",
     "word": "hyperlinks"
   },
+  "hospitalizim": {
+    "alternatives": [
+      "shtrim"
+    ],
+    "origin": "english",
+    "word": "hospitalization"
+  },
+  "hospitalizimi": {
+    "alternatives": [
+      "shtrimi"
+    ],
+    "origin": "english",
+    "word": "hospitalization"
+  },
+  "hospitalizimit": {
+    "alternatives": [
+      "shtrimit"
+    ],
+    "origin": "english",
+    "word": "hospitalization"
+  },
+  "hospitalizimin": {
+    "alternatives": [
+      "shtrimin"
+    ],
+    "origin": "english",
+    "word": "hospitalization"
+  },
+  "hospitalizime": {
+    "alternatives": [
+      "shtrime"
+    ],
+    "origin": "english",
+    "word": "hospitalization"
+  },
+  "hospitalizimet": {
+    "alternatives": [
+      "shtrimet"
+    ],
+    "origin": "english",
+    "word": "hospitalization"
+  },
+  "hospitalizimeve": {
+    "alternatives": [
+      "shtrimeve"
+    ],
+    "origin": "english",
+    "word": "hospitalization"
+  },
+  "hospitalizoj": {
+    "alternatives": [
+      "shtroj"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizon": {
+    "alternatives": [
+      "shtron"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizojmë": {
+    "alternatives": [
+      "shtrojmë"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizoni": {
+    "alternatives": [
+      "shtroni"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizojnë": {
+    "alternatives": [
+      "shtrojnë"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizoja": {
+    "alternatives": [
+      "shtroja"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizoje": {
+    "alternatives": [
+      "shtroje"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizonte": {
+    "alternatives": [
+      "shtronte"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizonim": {
+    "alternatives": [
+      "shtronim"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizonit": {
+    "alternatives": [
+      "shtronit"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizonin": {
+    "alternatives": [
+      "shtronin"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizova": {
+    "alternatives": [
+      "shtrova"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizove": {
+    "alternatives": [
+      "shtrove"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizoi": {
+    "alternatives": [
+      "shtroi"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizuam": {
+    "alternatives": [
+      "shtruam"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizuat": {
+    "alternatives": [
+      "shtruat"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizuan": {
+    "alternatives": [
+      "shtruan"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizuar": {
+    "alternatives": [
+      "shtruar"
+    ],
+    "origin": "english",
+    "word": "hospitalized"
+  },
+
+  "hospitalizohem": {
+    "alternatives": [
+      "shtrohem"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizohesh": {
+    "alternatives": [
+      "shtrohesh"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizohet": {
+    "alternatives": [
+      "shtrohet"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizohemi": {
+    "alternatives": [
+      "shtrohemi"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizoheni": {
+    "alternatives": [
+      "shtroheni"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizohen": {
+    "alternatives": [
+      "shtrohen"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizohesha": {
+    "alternatives": [
+      "shtrohesha"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizoheshe": {
+    "alternatives": [
+      "shtroheshe"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizohej": {
+    "alternatives": [
+      "shtrohej"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizoheshim": {
+    "alternatives": [
+      "shtroheshim"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizoheshit": {
+    "alternatives": [
+      "shtroheshit"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  },
+  "hospitalizoheshin": {
+    "alternatives": [
+      "shtroheshin"
+    ],
+    "origin": "english",
+    "word": "hospitalize"
+  }, 
   "hyperlink": {
     "alternatives": [
       "hiperlidhje"
@@ -3099,6 +3359,340 @@
     ],
     "origin": "english",
     "word": "coaxial"
+  },
+  "kolapsim": {
+    "alternatives": [
+      "shembje",
+      "rrënim",
+      "zvogëlim"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsimi": {
+    "alternatives": [
+      "shembja",
+      "rrënimi",
+      "zvogëlimi"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsimit": {
+    "alternatives": [
+      "shembjes",
+      "rrënimit",
+      "zvogëlimit"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsimin": {
+    "alternatives": [
+      "shembjen",
+      "rrënimin",
+      "zvogëlimin"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsime": {
+    "alternatives": [
+      "shembje",
+      "rrënime",
+      "zvogëlime"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsimet": {
+    "alternatives": [
+      "shembjet",
+      "rrënimet",
+      "zvogëlimet"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsimeve": {
+    "alternatives": [
+      "shembjeve",
+      "rrënimeve",
+      "zvogëlimeve"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsoj": {
+    "alternatives": [
+      "shemb",
+      "rrënoj",
+      "zvogëloj"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapson": {
+    "alternatives": [
+      "shemb",
+      "rrënon",
+      "zvogëlon"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsojmë": {
+    "alternatives": [
+      "shembim",
+      "rrënojmë",
+      "zvogëlojmë"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsoni": {
+    "alternatives": [
+      "shembni",
+      "rrënoni",
+      "zvogëloni"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsojnë": {
+    "alternatives": [
+      "shembin",
+      "rrënojnë",
+      "zvogëlojnë"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsoja": {
+    "alternatives": [
+      "shembja",
+      "rrënoja",
+      "zvogëloja"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsoje": {
+    "alternatives": [
+      "shembje",
+      "rrënoje",
+      "zvogëloje"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsonte": {
+    "alternatives": [
+      "shembte",
+      "rrënonte",
+      "zvogëlonte"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsonim": {
+    "alternatives": [
+      "shembnim",
+      "rrënonim",
+      "zvogëlonim"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsonit": {
+    "alternatives": [
+      "shembnit",
+      "rrënonit",
+      "zvogëlonit"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsonin": {
+    "alternatives": [
+      "shembnin",
+      "rrënonin",
+      "zvogëlonin"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsova": {
+    "alternatives": [
+      "shemba",
+      "rrënova",
+      "zvogëlova"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsove": {
+    "alternatives": [
+      "shembe",
+      "rrënove",
+      "zvogëlove"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsoi": {
+    "alternatives": [
+      "shembi",
+      "rrënoi",
+      "zvogëloi"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsuam": {
+    "alternatives": [
+      "shembëm",
+      "rrënuam",
+      "zvogëluam"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsuat": {
+    "alternatives": [
+      "shembët",
+      "rrënuat",
+      "zvogëluat"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsuan": {
+    "alternatives": [
+      "shembën",
+      "rrënuan",
+      "zvogëluan"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsuar": {
+    "alternatives": [
+      "shembur",
+      "rrënuar",
+      "zvogëluar"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  
+  "kolapsohem": {
+    "alternatives": [
+      "shembem",
+      "rrënohem",
+      "zvogëlohem"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsohesh": {
+    "alternatives": [
+      "shembesh",
+      "rrënohesh",
+      "zvogëlohesh"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsohet": {
+    "alternatives": [
+      "shembet",
+      "rrënohet",
+      "zvogëlohet"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsohemi": {
+    "alternatives": [
+      "shembemi",
+      "rrënohemi",
+      "zvogëlohemi"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsoheni": {
+    "alternatives": [
+      "shembeni",
+      "rrënoheni",
+      "zvogëloheni"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsohen": {
+    "alternatives": [
+      "shemben",
+      "rrënohen",
+      "zvogëlohen"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsohesha": {
+    "alternatives": [
+      "shembesha",
+      "rrënohesha",
+      "zvogëlohesha"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsoheshe": {
+    "alternatives": [
+      "shembeshe",
+      "rrënoheshe",
+      "zvogëloheshe"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsohej": {
+    "alternatives": [
+      "shembej",
+      "rrënohej",
+      "zvogëlohej"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsoheshim": {
+    "alternatives": [
+      "shembeshim",
+      "rrënoheshim",
+      "zvogëloheshim"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsoheshit": {
+    "alternatives": [
+      "shembeshit",
+      "rrënoheshit",
+      "zvogëloheshit"
+    ],
+    "origin": "english",
+    "word": "collapse"
+  },
+  "kolapsoheshin": {
+    "alternatives": [
+      "shembeshin",
+      "rrënoheshin",
+      "zvogëloheshin"
+    ],
+    "origin": "english",
+    "word": "collapse"
   },
   "kompatibël": {
     "alternatives": [

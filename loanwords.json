@@ -4801,6 +4801,27 @@
     ],
     "word": "confrontarsi",
     "origin": "italian"
+  },  
+  "kontemporan": {
+    "alternatives": [
+      "bashkëkohor" 
+    ],
+    "word": "contemporano",
+    "origin": "italian"
+  }, 
+  "kontemporane": {
+    "alternatives": [
+      "bashkëkohore" 
+    ],
+    "word": "contemporano",
+    "origin": "italian"
+  }, 
+  "kontemporanë": {
+    "alternatives": [
+      "bashkëkohorë" 
+    ],
+    "word": "contemporano",
+    "origin": "italian"
   }, 
   "konvolucion": {
     "alternatives": [
@@ -4915,6 +4936,20 @@
     "word": "conscience",
     "origin": "english"
   },
+  "kualitativ": {
+    "alternatives": [
+      "cilësor"
+    ],
+    "word": "qualitative",
+    "origin": "english"
+  },
+  "kualitative": {
+    "alternatives": [
+      "cilësore"
+    ],
+    "word": "qualitative",
+    "origin": "english"
+  },
   "kualitet": {
     "alternatives": [
       "cilësi"
@@ -4943,9 +4978,86 @@
     "word": "quality",
     "origin": "english"
   },
+  "kualitete": {
+    "alternatives": [
+      "cilësi"
+    ],
+    "word": "quality",
+    "origin": "english"
+  },
+  "kualitetet": {
+    "alternatives": [
+      "cilësitë"
+    ],
+    "word": "quality",
+    "origin": "english"
+  },
+  "kualiteteve": {
+    "alternatives": [
+      "cilësive"
+    ],
+    "word": "quality",
+    "origin": "english"
+  },
+  "kuantitativ": {
+    "alternatives": [
+      "sasior"
+    ],
+    "word": "quantitative",
+    "origin": "english"
+  },
+  "kuantitative": {
+    "alternatives": [
+      "sasiore"
+    ],
+    "word": "quantitative",
+    "origin": "english"
+  },
   "kuantitet": {
     "alternatives": [
       "sasi"
+    ],
+    "word": "quantity",
+    "origin": "english"
+  },
+  "kuantiteti": {
+    "alternatives": [
+      "sasia"
+    ],
+    "word": "quantity",
+    "origin": "english"
+  },
+  "kuantitetit": {
+    "alternatives": [
+      "sasisë"
+    ],
+    "word": "quantity",
+    "origin": "english"
+  },
+  "kuantitetin": {
+    "alternatives": [
+      "sasinë"
+    ],
+    "word": "quantity",
+    "origin": "english"
+  },
+  "kuantitete": {
+    "alternatives": [
+      "sasi"
+    ],
+    "word": "quantity",
+    "origin": "english"
+  },
+  "kuantitetet": {
+    "alternatives": [
+      "sasitë"
+    ],
+    "word": "quantity",
+    "origin": "english"
+  },
+  "kuantiteteve": {
+    "alternatives": [
+      "sasive"
     ],
     "word": "quantity",
     "origin": "english"

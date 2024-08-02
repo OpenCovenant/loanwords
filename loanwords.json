@@ -5233,7 +5233,7 @@
     ],
     "word": "location",
     "origin": "english"
-  },
+  },  
   "louajalitet": {
     "alternatives": [
       "besnikëri"
@@ -5248,6 +5248,20 @@
     "word": "majority",
     "origin": "english"
   },
+  "medikolegal": {
+    "alternatives": [
+      "mjekoligjor"
+    ],
+    "origin": "italian",
+    "word": "medico-legale"
+  },
+  "medikolegale": {
+    "alternatives": [
+      "mjekoligjore"
+    ],
+    "origin": "italian",
+    "word": "medico-legale"
+  },  
   "mesele": {
     "alternatives": [
       "çështje",
@@ -5483,15 +5497,19 @@
     "origin": "english",
     "word": "poll"
   },
-  "prioritarizoi": {
+  "primar": {
     "alternatives": [
-      "i dha përparësi",
-      "u dha përparësi",
-      "i caktoi përparësi",
-      "u caktoi përparësi"
+      "parësor"
     ],
-    "origin": "english",
-    "word": "prioritize"
+    "origin": "italian",
+    "word": "primario"
+  },
+  "primare": {
+    "alternatives": [
+      "parësore"
+    ],
+    "origin": "italian",
+    "word": "primario"
   },
   "prioritarizoj": {
     "alternatives": [
@@ -5623,6 +5641,16 @@
     "origin": "english",
     "word": "prioritize"
   },
+  "prioritarizoi": {
+    "alternatives": [
+      "i dha përparësi",
+      "u dha përparësi",
+      "i caktoi përparësi",
+      "u caktoi përparësi"
+    ],
+    "origin": "english",
+    "word": "prioritize"
+  }, 
   "prioritarizuam": {
     "alternatives": [
       "i dhamë përparësi",
@@ -5877,6 +5905,27 @@
     "origin": "ottoman",
     "word": "sehir"
   },
+  "sekondar": {
+    "alternatives": [
+      "dytësor"
+    ],
+    "origin": "italian",
+    "word": "secondare"
+  },
+  "sekondare": {
+    "alternatives": [
+      "dytësore"
+    ],
+    "origin": "italian",
+    "word": "secondare"
+  },
+  "sekondarë": {
+    "alternatives": [
+      "dytësorë"
+    ],
+    "origin": "italian",
+    "word": "secondare"
+  }, 
   "shortkat": {
     "alternatives": [
       "shkurtore"
@@ -5939,6 +5988,48 @@
     ],
     "origin": "english",
     "word": "multidimensional"
+  },
+  "silvikulturë": {
+    "alternatives": [
+      "pylltari"
+    ],
+    "word": "silvicultura",
+    "origin": "italian"
+  },
+  "silvikultura": {
+    "alternatives": [
+      "pylltaria"
+    ],
+    "word": "silvicultura",
+    "origin": "italian"
+  },
+  "silvikulturës": {
+    "alternatives": [
+      "pylltarisë"
+    ],
+    "word": "silvicultura",
+    "origin": "italian"
+  },
+  "silvikulturën": {
+    "alternatives": [
+      "pylltarinë"
+    ],
+    "word": "silvicultura",
+    "origin": "italian"
+  },
+  "silvikulturat": {
+    "alternatives": [
+      "pylltaritë"
+    ],
+    "word": "silvicultura",
+    "origin": "italian"
+  },
+  "silvikulturave": {
+    "alternatives": [
+      "pylltarive"
+    ],
+    "word": "silvicultura",
+    "origin": "italian"
   },
   "skrutinim": {
     "alternatives": [
@@ -6337,6 +6428,125 @@
     "origin": "english",
     "word": "workshop"
   },
+  "vadit": {
+    "alternatives": [
+      "ujit"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditim": {
+    "alternatives": [
+      "ujitim"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditni": {
+    "alternatives": [
+      "ujitni"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditin": {
+    "alternatives": [
+      "ujitin"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditja": {
+    "alternatives": [
+      "ujitja"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditje": {
+    "alternatives": [
+      "ujitje"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vadiste": {
+    "alternatives": [
+      "ujiste"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditnim": {
+    "alternatives": [
+      "ujitnim"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditnit": {
+    "alternatives": [
+      "ujitnit"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditnin": {
+    "alternatives": [
+      "ujitnin"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vadita": {
+    "alternatives": [
+      "ujita"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vadite": {
+    "alternatives": [
+      "ujite"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditi": {
+    "alternatives": [
+      "ujiti"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditëm": {
+    "alternatives": [
+      "ujitëm"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditët": {
+    "alternatives": [
+      "ujitët"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },
+  "vaditën": {
+    "alternatives": [
+      "ujitën"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  },  
+  "vaditur": {
+    "alternatives": [
+      "ujitur"
+    ],
+    "origin": "slavic",
+    "word": "voda"
+  }, 
   "variabla": {
     "alternatives": [
       "ndryshore",
@@ -6417,6 +6627,48 @@
     ],
     "origin": "ottoman",
     "word": "vatan"
+  }, 
+  "violencë": {
+    "alternatives": [
+      "dhunë"
+    ],
+    "origin": "italian",
+    "word": "violenza"
+  },
+  "violenca": {
+    "alternatives": [
+      "dhuna"
+    ],
+    "origin": "italian",
+    "word": "violenza"
+  },
+  "violencës": {
+    "alternatives": [
+      "dhunës"
+    ],
+    "origin": "italian",
+    "word": "violenza"
+  },
+  "violencën": {
+    "alternatives": [
+      "dhunën"
+    ],
+    "origin": "italian",
+    "word": "violenza"
+  },
+  "violent": {
+    "alternatives": [
+      "i dhunshëm"
+    ],
+    "origin": "italian",
+    "word": "violente"
+  },
+  "violente": {
+    "alternatives": [
+      "e dhunshme"
+    ],
+    "origin": "italian",
+    "word": "violente"
   },
   "vulnerabilitet": {
     "alternatives": [

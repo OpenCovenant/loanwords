@@ -2875,6 +2875,20 @@
     "origin": "english",
     "word": "hyperlinks"
   },
+  "imediat": {
+    "alternatives": [
+      "i menjëhershëm"
+    ],
+    "word": "impressive",
+    "origin": "english"
+  },
+  "imediate": {
+    "alternatives": [
+      "e menjëhershme"
+    ],
+    "word": "impressive",
+    "origin": "english"
+  },
   "impresive": {
     "alternatives": [
       "mbresëlënëse"
@@ -6321,6 +6335,55 @@
     "word": "majority",
     "origin": "english"
   },
+  "meç": {
+    "alternatives": [
+      "ndeshje"
+    ],
+    "origin": "italian",
+    "word": "medico-legale"
+  },
+  "meçi": {
+    "alternatives": [
+      "ndeshja"
+    ],
+    "origin": "italian",
+    "word": "medico-legale"
+  },
+  "meçit": {
+    "alternatives": [
+      "ndeshjes"
+    ],
+    "origin": "italian",
+    "word": "medico-legale"
+  },
+  "meçin": {
+    "alternatives": [
+      "ndeshjen"
+    ],
+    "origin": "italian",
+    "word": "medico-legale"
+  },
+  "meçe": {
+    "alternatives": [
+      "ndeshje"
+    ],
+    "origin": "italian",
+    "word": "medico-legale"
+  },
+  "meçet": {
+    "alternatives": [
+      "ndeshjet"
+    ],
+    "origin": "italian",
+    "word": "medico-legale"
+  },
+  "meçeve": {
+    "alternatives": [
+      "ndeshjeve"
+    ],
+    "origin": "italian",
+    "word": "medico-legale"
+  },
   "medikolegal": {
     "alternatives": [
       "mjekoligjor"
@@ -6569,6 +6632,69 @@
     ],
     "origin": "english",
     "word": "poll"
+  },
+  "preokupim": {
+    "alternatives": [
+      "shqetësim"
+    ],
+    "origin": "english",
+    "word": "preocupation"
+  },
+  "preokupimi": {
+    "alternatives": [
+      "shqetësimi"
+    ],
+    "origin": "english",
+    "word": "preocupation"
+  },
+  "preokupimit": {
+    "alternatives": [
+      "shqetësimit"
+    ],
+    "origin": "english",
+    "word": "preocupation"
+  },
+  "preokupimin": {
+    "alternatives": [
+      "shqetësimin"
+    ],
+    "origin": "english",
+    "word": "preocupation"
+  },
+  "preokupime": {
+    "alternatives": [
+      "shqetësime"
+    ],
+    "origin": "english",
+    "word": "preocupation"
+  },
+  "preokupimet": {
+    "alternatives": [
+      "shqetësimet"
+    ],
+    "origin": "english",
+    "word": "preocupation"
+  },
+  "preokupimeve": {
+    "alternatives": [
+      "shqetësimeve"
+    ],
+    "origin": "english",
+    "word": "preocupation"
+  },
+  "preokupoj": {
+    "alternatives": [
+      "shqetësoj"
+    ],
+    "origin": "english",
+    "word": "preocupation"
+  },
+  "preokupon": {
+    "alternatives": [
+      "shqetëson"
+    ],
+    "origin": "english",
+    "word": "preocupation"
   },
   "prezent": {
     "alternatives": [

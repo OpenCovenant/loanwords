@@ -906,6 +906,60 @@
     "origin": "italian",
     "word": "annuario"
   },
+  "aparencë": {
+    "alternatives": [
+      "pamje",
+      "paraqitje",
+      "dukje"
+    ],
+    "word": "apparenza",
+    "origin": "italian"
+  },
+  "aparenca": {
+    "alternatives": [
+      "pamja",
+      "paraqitja",
+      "dukja"
+    ],
+    "word": "apparenza",
+    "origin": "italian"
+  },
+  "aparencës": {
+    "alternatives": [
+      "pamjes",
+      "paraqitjes",
+      "dukjes"
+    ],
+    "word": "apparenza",
+    "origin": "italian"
+  },
+  "aparencën": {
+    "alternatives": [
+      "pamjen",
+      "paraqitjen",
+      "dukjen"
+    ],
+    "word": "apparenza",
+    "origin": "italian"
+  },
+  "aparencat": {
+    "alternatives": [
+      "pamjet",
+      "paraqitjet",
+      "dukjet"
+    ],
+    "word": "apparenza",
+    "origin": "italian"
+  },
+  "aparencave": {
+    "alternatives": [
+      "pamjeve",
+      "paraqitjeve",
+      "dukjeve"
+    ],
+    "word": "apparenza",
+    "origin": "italian"
+  },
   "apet": {
     "alternatives": [
       "përsëri"
@@ -5090,6 +5144,556 @@
     "word": "kuç",
     "origin": "slavic"
   },
+  "lançim": {
+    "alternatives": [
+      "shpalosje",
+      "hedhje në treg",
+      "prezantim",
+      "nisje",
+      "aktivizim"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançimi": {
+    "alternatives": [
+      "shpalosja",
+      "hedhja në treg",
+      "prezantimi",
+      "nisja",
+      "aktivizimi"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançimit": {
+    "alternatives": [
+      "shpalosjes",
+      "hedhjes në treg",
+      "prezantimit",
+      "nisjes",
+      "aktivizimit"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançimin": {
+    "alternatives": [
+      "shpalosjen",
+      "hedhjen në treg",
+      "prezantimin",
+      "nisjen",
+      "aktivizimin"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançime": {
+    "alternatives": [
+      "shpalosje",
+      "hedhje në treg",
+      "prezantime",
+      "nisje",
+      "aktivizime"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançimet": {
+    "alternatives": [
+      "shpalosjet",
+      "hedhjet në treg",
+      "prezantimet",
+      "nisjet",
+      "aktivizimet"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançimeve": {
+    "alternatives": [
+      "shpalosjeve",
+      "hedhjeve në treg",
+      "prezantimeve",
+      "nisjeve",
+      "aktivizimeve"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansim": {
+    "alternatives": [
+      "shpalosje",
+      "hedhje në treg",
+      "prezantim",
+      "nisje",
+      "aktivizim"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansimi": {
+    "alternatives": [
+      "shpalosja",
+      "hedhja në treg",
+      "prezantimi",
+      "nisja",
+      "aktivizimi"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansimit": {
+    "alternatives": [
+      "shpalosjes",
+      "hedhjes në treg",
+      "prezantimit",
+      "nisjes",
+      "aktivizimit"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansimin": {
+    "alternatives": [
+      "shpalosjen",
+      "hedhjen në treg",
+      "prezantimin",
+      "nisjen",
+      "aktivizimin"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansime": {
+    "alternatives": [
+      "shpalosje",
+      "hedhje në treg",
+      "prezantime",
+      "nisje",
+      "aktivizime"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansimet": {
+    "alternatives": [
+      "shpalosjet",
+      "hedhjet në treg",
+      "prezantimet",
+      "nisjet",
+      "aktivizimet"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansimeve": {
+    "alternatives": [
+      "shpalosjeve",
+      "hedhjeve në treg",
+      "prezantimeve",
+      "nisjeve",
+      "aktivizimeve"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançoj": {
+    "alternatives": [
+      "shpalos",
+      "hedh në treg",
+      "prezantoj",
+      "nis",
+      "aktivizoj"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançon": {
+    "alternatives": [
+      "shpalos",
+      "hedh në treg",
+      "prezanton",
+      "nis",
+      "aktivizon"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançojmë": {
+    "alternatives": [
+      "shpalosim",
+      "hedhim në treg",
+      "prezantojmë",
+      "nisim",
+      "aktivizojmë"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançoni": {
+    "alternatives": [
+      "shpalosni",
+      "hidhni në treg",
+      "prezantoni",
+      "nisni",
+      "aktivizoni"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançojnë": {
+    "alternatives": [
+      "shpalosin",
+      "hedhin në treg",
+      "prezantojnë",
+      "nisin",
+      "aktivizojnë"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançoja": {
+    "alternatives": [
+      "shpalosja",
+      "hidhja në treg",
+      "prezantoja",
+      "nisja",
+      "aktivizoja"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançoje": {
+    "alternatives": [
+      "shpalosje",
+      "hidhje në treg",
+      "prezantoje",
+      "nisje",
+      "aktivizoje"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançonte": {
+    "alternatives": [
+      "shpaloste",
+      "hidhte në treg",
+      "prezantonte",
+      "niste",
+      "aktivizonte"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançonim": {
+    "alternatives": [
+      "shpalosnim",
+      "hidhnim në treg",
+      "prezantonim",
+      "nisnim",
+      "aktivizonim"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançonit": {
+    "alternatives": [
+      "shpalosnit",
+      "hidhnit në treg",
+      "prezantonit",
+      "nisnit",
+      "aktivizonit"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançonin": {
+    "alternatives": [
+      "shpalosnin",
+      "hidhnin në treg",
+      "prezantonin",
+      "nisnin",
+      "aktivizonin"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançova": {
+    "alternatives": [
+      "shpalosa",
+      "hodha në treg",
+      "prezantova",
+      "nisa",
+      "aktivizova"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançove": {
+    "alternatives": [
+      "shpalose",
+      "hodhe në treg",
+      "prezantove",
+      "nise",
+      "aktivizove"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançoi": {
+    "alternatives": [
+      "shpalosi",
+      "hodhi në treg",
+      "prezantoi",
+      "nisi",
+      "aktivizoi"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançuam": {
+    "alternatives": [
+      "shpalosëm",
+      "hodhëm në treg",
+      "prezantuam",
+      "nisëm",
+      "aktivizuam"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançuat": {
+    "alternatives": [
+      "shpalosët",
+      "hodhët në treg",
+      "prezantuat",
+      "nisët",
+      "aktivizuat"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançuan": {
+    "alternatives": [
+      "shpalosën",
+      "hodhën në treg",
+      "prezantuan",
+      "nisën",
+      "aktivizuan"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansoj": {
+    "alternatives": [
+      "shpalos",
+      "hedh në treg",
+      "prezantoj",
+      "nis",
+      "aktivizoj"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lanson": {
+    "alternatives": [
+      "shpalos",
+      "hedh në treg",
+      "prezanton",
+      "nis",
+      "aktivizon"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansojmë": {
+    "alternatives": [
+      "shpalosim",
+      "hedhim në treg",
+      "prezantojmë",
+      "nisim",
+      "aktivizojmë"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansoni": {
+    "alternatives": [
+      "shpalosni",
+      "hidhni në treg",
+      "prezantoni",
+      "nisni",
+      "aktivizoni"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansojnë": {
+    "alternatives": [
+      "shpalosin",
+      "hedhin në treg",
+      "prezantojnë",
+      "nisin",
+      "aktivizojnë"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansoja": {
+    "alternatives": [
+      "shpalosja",
+      "hidhja në treg",
+      "prezantoja",
+      "nisja",
+      "aktivizoja"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansoje": {
+    "alternatives": [
+      "shpalosje",
+      "hidhje në treg",
+      "prezantoje",
+      "nisje",
+      "aktivizoje"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansonte": {
+    "alternatives": [
+      "shpaloste",
+      "hidhte në treg",
+      "prezantonte",
+      "niste",
+      "aktivizonte"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansonim": {
+    "alternatives": [
+      "shpalosnim",
+      "hidhnim në treg",
+      "prezantonim",
+      "nisnim",
+      "aktivizonim"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansonit": {
+    "alternatives": [
+      "shpalosnit",
+      "hidhnit në treg",
+      "prezantonit",
+      "nisnit",
+      "aktivizonit"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansonin": {
+    "alternatives": [
+      "shpalosnin",
+      "hidhnin në treg",
+      "prezantonin",
+      "nisnin",
+      "aktivizonin"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansova": {
+    "alternatives": [
+      "shpalosa",
+      "hodha në treg",
+      "prezantova",
+      "nisa",
+      "aktivizova"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansove": {
+    "alternatives": [
+      "shpalose",
+      "hodhe në treg",
+      "prezantove",
+      "nise",
+      "aktivizove"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansoi": {
+    "alternatives": [
+      "shpalosi",
+      "hodhi në treg",
+      "prezantoi",
+      "nisi",
+      "aktivizoi"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansuam": {
+    "alternatives": [
+      "shpalosëm",
+      "hodhëm në treg",
+      "prezantuam",
+      "nisëm",
+      "aktivizuam"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansuat": {
+    "alternatives": [
+      "shpalosët",
+      "hodhët në treg",
+      "prezantuat",
+      "nisët",
+      "aktivizuat"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansuan": {
+    "alternatives": [
+      "shpalosën",
+      "hodhën në treg",
+      "prezantuan",
+      "nisën",
+      "aktivizuan"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lançuar": {
+    "alternatives": [
+      "shpalosur",
+      "hodhur në treg",
+      "prezantuar",
+      "nisur",
+      "aktivizuar"
+    ],
+    "origin": "english",
+    "word": "launch"
+  },
+  "lansuar": {
+    "alternatives": [
+      "shpalosur",
+      "hodhur në treg",
+      "prezantuar",
+      "nisur",
+      "aktivizuar"
+    ],
+    "origin": "english",
+    "word": "launch"
+  }, 
   "lider": {
     "alternatives": [
       "prijës",

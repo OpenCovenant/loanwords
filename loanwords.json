@@ -1267,6 +1267,48 @@
     "word": "bankrupt",
     "origin": "english"
   },
+  "bankrotimi": {
+    "alternatives": [
+      "falimentimi"
+    ],
+    "word": "bankrupt",
+    "origin": "english"
+  },
+  "bankrotimit": {
+    "alternatives": [
+      "falimentimit"
+    ],
+    "word": "bankrupt",
+    "origin": "english"
+  },
+  "bankrotimin": {
+    "alternatives": [
+      "falimentimin"
+    ],
+    "word": "bankrupt",
+    "origin": "english"
+  },
+  "bankrotime": {
+    "alternatives": [
+      "falimentime"
+    ],
+    "word": "bankrupt",
+    "origin": "english"
+  },
+  "bankrotimet": {
+    "alternatives": [
+      "falimentimet"
+    ],
+    "word": "bankrupt",
+    "origin": "english"
+  },
+  "bankrotimeve": {
+    "alternatives": [
+      "falimentimeve"
+    ],
+    "word": "bankrupt",
+    "origin": "english"
+  },
   "barkod": {
     "alternatives": [
       "kod vijor"
@@ -1905,6 +1947,406 @@
       "dëshmive"
     ],
     "word": "evidence",
+    "origin": "english"
+  },
+  "exhektim": {
+    "alternatives": [
+      "hedhje",
+      "lëshim"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektimi": {
+    "alternatives": [
+      "hedhja",
+      "lëshimi"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektimit": {
+    "alternatives": [
+      "hedhjes",
+      "lëshimit"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektimin": {
+    "alternatives": [
+      "hedhjen",
+      "lëshimin"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektime": {
+    "alternatives": [
+      "hedhje",
+      "lëshime"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektimet": {
+    "alternatives": [
+      "hedhjet",
+      "lëshimet"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektimeve": {
+    "alternatives": [
+      "hedhjeve",
+      "lëshimeve"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektim": {
+    "alternatives": [
+      "hedhje",
+      "lëshim"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektimi": {
+    "alternatives": [
+      "hedhja",
+      "lëshimi"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektimit": {
+    "alternatives": [
+      "hedhjes",
+      "lëshimit"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektimin": {
+    "alternatives": [
+      "hedhjen",
+      "lëshimin"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektime": {
+    "alternatives": [
+      "hedhje",
+      "lëshime"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektimet": {
+    "alternatives": [
+      "hedhjet",
+      "lëshimet"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektimeve": {
+    "alternatives": [
+      "hedhjeve",
+      "lëshimeve"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektoj": {
+    "alternatives": [
+      "hedh",
+      "lëshoj"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhekton": {
+    "alternatives": [
+      "hedh",
+      "lëshon"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektojmë": {
+    "alternatives": [
+      "hedhim",
+      "lëshojmë"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektojni": {
+    "alternatives": [
+      "hidhni",
+      "lëshoni"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektojnë": {
+    "alternatives": [
+      "hedhin",
+      "lëshojnë"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektoja": {
+    "alternatives": [
+      "hedhja",
+      "lëshoja"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektoje": {
+    "alternatives": [
+      "hedhje",
+      "lëshoje"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektonte": {
+    "alternatives": [
+      "hedhte",
+      "lëshonte"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektonim": {
+    "alternatives": [
+      "hedhnim",
+      "lëshonim"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektonit": {
+    "alternatives": [
+      "hedhnit",
+      "lëshonit"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektonin": {
+    "alternatives": [
+      "hedhnin",
+      "lëshonin"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektova": {
+    "alternatives": [
+      "hodha",
+      "lëshova"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektove": {
+    "alternatives": [
+      "hodhe",
+      "lëshove"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektoi": {
+    "alternatives": [
+      "hodhi",
+      "lëshoi"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektuam": {
+    "alternatives": [
+      "hodhëm",
+      "lëshuam"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektuat": {
+    "alternatives": [
+      "hodhët",
+      "lëshuat"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektuan": {
+    "alternatives": [
+      "hodhën",
+      "lëshuan"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "exhektuar": {
+    "alternatives": [
+      "hedhur",
+      "lëshuar"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektoj": {
+    "alternatives": [
+      "hedh",
+      "lëshoj"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhekton": {
+    "alternatives": [
+      "hedh",
+      "lëshon"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektojmë": {
+    "alternatives": [
+      "hedhim",
+      "lëshojmë"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektojni": {
+    "alternatives": [
+      "hidhni",
+      "lëshoni"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektojnë": {
+    "alternatives": [
+      "hedhin",
+      "lëshojnë"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektoja": {
+    "alternatives": [
+      "hedhja",
+      "lëshoja"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektoje": {
+    "alternatives": [
+      "hedhje",
+      "lëshoje"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektonte": {
+    "alternatives": [
+      "hedhte",
+      "lëshonte"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektonim": {
+    "alternatives": [
+      "hedhnim",
+      "lëshonim"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektonit": {
+    "alternatives": [
+      "hedhnit",
+      "lëshonit"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektonin": {
+    "alternatives": [
+      "hedhnin",
+      "lëshonin"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektova": {
+    "alternatives": [
+      "hodha",
+      "lëshova"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektove": {
+    "alternatives": [
+      "hodhe",
+      "lëshove"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektoi": {
+    "alternatives": [
+      "hodhi",
+      "lëshoi"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektuam": {
+    "alternatives": [
+      "hodhëm",
+      "lëshuam"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektuat": {
+    "alternatives": [
+      "hodhët",
+      "lëshuat"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektuan": {
+    "alternatives": [
+      "hodhën",
+      "lëshuan"
+    ],
+    "word": "eject",
+    "origin": "english"
+  },
+  "ezhektuar": {
+    "alternatives": [
+      "hedhur",
+      "lëshuar"
+    ],
+    "word": "eject",
     "origin": "english"
   },
   "frustrim": {
@@ -5730,6 +6172,33 @@
     "origin": "english",
     "word": "leader"
   },
+  "lidera": {
+    "alternatives": [
+      "prijës",
+      "drejtues",
+      "udhëheqës"
+    ],
+    "origin": "english",
+    "word": "leader"
+  },
+  "liderat": {
+    "alternatives": [
+      "prijësit",
+      "drejtuesit",
+      "udhëheqësit"
+    ],
+    "origin": "english",
+    "word": "leader"
+  },
+  "liderave": {
+    "alternatives": [
+      "prijësve",
+      "drejtuesve",
+      "udhëheqësve"
+    ],
+    "origin": "english",
+    "word": "leader"
+  },  
   "link": {
     "alternatives": [
       "lidhje",
@@ -6665,6 +7134,106 @@
     "word": "scrutiny",
     "origin": "english"
   },
+
+  
+  "spiker": {
+    "alternatives": [
+      "folës"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikeri": {
+    "alternatives": [
+      "folësi"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikerit": {
+    "alternatives": [
+      "folësit"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikerin": {
+    "alternatives": [
+      "folësin"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikerë": {
+    "alternatives": [
+      "folës"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikerët": {
+    "alternatives": [
+      "folësit"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikerëve": {
+    "alternatives": [
+      "folësve"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikerave": {
+    "alternatives": [
+      "folësve"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikere": {
+    "alternatives": [
+      "folëse"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikerja": {
+    "alternatives": [
+      "folësja"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikeres": {
+    "alternatives": [
+      "folëses"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikeren": {
+    "alternatives": [
+      "folësen"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikeret": {
+    "alternatives": [
+      "folëset"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
+  "spikereve": {
+    "alternatives": [
+      "folëseve"
+    ],
+    "word": "scrutiny",
+    "origin": "english"
+  },
   "start": {
     "alternatives": [
       "fillim"
@@ -7291,6 +7860,55 @@
   "violente": {
     "alternatives": [
       "e dhunshme"
+    ],
+    "origin": "italian",
+    "word": "violente"
+  },
+  "vizibilitet": {
+    "alternatives": [
+      "dukshmëri"
+    ],
+    "origin": "italian",
+    "word": "violente"
+  },
+  "vizibiliteti": {
+    "alternatives": [
+      "dukshmëria"
+    ],
+    "origin": "italian",
+    "word": "violente"
+  },
+  "vizibilitetit": {
+    "alternatives": [
+      "dukshmërisë"
+    ],
+    "origin": "italian",
+    "word": "violente"
+  },
+  "vizibilitetin": {
+    "alternatives": [
+      "dukshmërinë"
+    ],
+    "origin": "italian",
+    "word": "violente"
+  },
+  "vizibilitete": {
+    "alternatives": [
+      "dukshmëri"
+    ],
+    "origin": "italian",
+    "word": "violente"
+  },
+  "vizibilitetet": {
+    "alternatives": [
+      "dukshmëritë"
+    ],
+    "origin": "italian",
+    "word": "violente"
+  },
+  "vizibiliteteve": {
+    "alternatives": [
+      "dukshmërive"
     ],
     "origin": "italian",
     "word": "violente"

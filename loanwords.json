@@ -7146,6 +7146,206 @@
     "origin": "italian",
     "word": "secondare"
   }, 
+  "selektim": {
+    "alternatives": [
+      "përzgjedhje",
+      "përkapje"
+    ],
+    "origin": "english",
+    "word": "selection"
+  }, 
+  "selektimi": {
+    "alternatives": [
+      "përzgjedhja",
+      "përkapja"
+    ],
+    "origin": "english",
+    "word": "selection"
+  }, 
+  "selektimit": {
+    "alternatives": [
+      "përzgjedhjes",
+      "përkapjes"
+    ],
+    "origin": "english",
+    "word": "selection"
+  }, 
+  "selektimin": {
+    "alternatives": [
+      "përzgjedhjen",
+      "përkapjen"
+    ],
+    "origin": "english",
+    "word": "selection"
+  },
+  "selektime": {
+    "alternatives": [
+      "përzgjedhje",
+      "përkapje"
+    ],
+    "origin": "english",
+    "word": "selection"
+  },
+  "selektimet": {
+    "alternatives": [
+      "përzgjedhjet",
+      "përkapjet"
+    ],
+    "origin": "english",
+    "word": "selection"
+  },
+  "selektimeve": {
+    "alternatives": [
+      "përzgjedhjeve",
+      "përkapjeve"
+    ],
+    "origin": "english",
+    "word": "selection"
+  },
+  "selektoj": {
+    "alternatives": [
+      "përzgjedh",
+      "përkap"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selekton": {
+    "alternatives": [
+      "përzgjedh",
+      "përkap"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektojmë": {
+    "alternatives": [
+      "përzgjedhim",
+      "përkapim"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektoni": {
+    "alternatives": [
+      "përzgjidhni",
+      "përkapni"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektojnë": {
+    "alternatives": [
+      "përzgjedhin",
+      "përkapin"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektoja": {
+    "alternatives": [
+      "përzgjidhja",
+      "përkapja"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektoje": {
+    "alternatives": [
+      "përzgjidhje",
+      "përkapje"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektonte": {
+    "alternatives": [
+      "përzgjidhte",
+      "përkapte"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektonim": {
+    "alternatives": [
+      "përzgjidhnim",
+      "përkapnim"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektonit": {
+    "alternatives": [
+      "përzgjidhnit",
+      "përkapnit"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektonin": {
+    "alternatives": [
+      "përzgjidhnin",
+      "përkapnin"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektova": {
+    "alternatives": [
+      "përzgjodha",
+      "përkapa"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektove": {
+    "alternatives": [
+      "përzgjodhe",
+      "përkape"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektoi": {
+    "alternatives": [
+      "përzgjodhi",
+      "përkapi"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektuam": {
+    "alternatives": [
+      "përzgjodhëm",
+      "përkapëm"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektuat": {
+    "alternatives": [
+      "përzgjodhët",
+      "përkapët"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektuan": {
+    "alternatives": [
+      "përzgjodhën",
+      "përkapën"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
+  "selektuar": {
+    "alternatives": [
+      "përzgjodhur",
+      "përkapur"
+    ],
+    "origin": "english",
+    "word": "select"
+  },
   "shortkat": {
     "alternatives": [
       "shkurtore"
@@ -7260,104 +7460,102 @@
     "word": "scrutiny",
     "origin": "english"
   },
-
-  
   "spiker": {
     "alternatives": [
       "folës"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikeri": {
     "alternatives": [
       "folësi"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikerit": {
     "alternatives": [
       "folësit"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikerin": {
     "alternatives": [
       "folësin"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikerë": {
     "alternatives": [
       "folës"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikerët": {
     "alternatives": [
       "folësit"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikerëve": {
     "alternatives": [
       "folësve"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikerave": {
     "alternatives": [
       "folësve"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikere": {
     "alternatives": [
       "folëse"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikerja": {
     "alternatives": [
       "folësja"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikeres": {
     "alternatives": [
       "folëses"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikeren": {
     "alternatives": [
       "folësen"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikeret": {
     "alternatives": [
       "folëset"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "spikereve": {
     "alternatives": [
       "folëseve"
     ],
-    "word": "scrutiny",
+    "word": "speaker",
     "origin": "english"
   },
   "start": {

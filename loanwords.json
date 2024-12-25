@@ -2875,6 +2875,27 @@
     "origin": "english",
     "word": "hyperlinks"
   },
+  "ilaçe": {
+    "alternatives": [
+      "barna"
+    ],
+    "word": "ilaçlar",
+    "origin": "ottoman"
+  },
+  "ilaçet": {
+    "alternatives": [
+      "barnat"
+    ],
+    "word": "ilaçlar",
+    "origin": "ottoman"
+  },
+  "ilaçeve": {
+    "alternatives": [
+      "barnave"
+    ],
+    "word": "ilaçlar",
+    "origin": "ottoman"
+  },
   "imediat": {
     "alternatives": [
       "i menjëhershëm"
@@ -6442,6 +6463,55 @@
     ],
     "origin": "english",
     "word": "multiplicative"
+  },
+  "objeksion": {
+    "alternatives": [
+      "kundërshtim"
+    ],
+    "origin": "english",
+    "word": "objection"
+  },
+  "objeksioni": {
+    "alternatives": [
+      "kundërshtimi"
+    ],
+    "origin": "english",
+    "word": "objection"
+  },
+  "objeksionit": {
+    "alternatives": [
+      "kundërshtimit"
+    ],
+    "origin": "english",
+    "word": "objection"
+  },
+  "objeksionin": {
+    "alternatives": [
+      "kundërshtimin"
+    ],
+    "origin": "english",
+    "word": "objection"
+  },
+  "objeksione": {
+    "alternatives": [
+      "kundërshtime"
+    ],
+    "origin": "english",
+    "word": "objection"
+  },
+  "objeksionet": {
+    "alternatives": [
+      "kundërshtimet"
+    ],
+    "origin": "english",
+    "word": "objection"
+  },
+  "objeksioneve": {
+    "alternatives": [
+      "kundërshtimeve"
+    ],
+    "origin": "english",
+    "word": "objection"
   },
   "obligim": {
     "alternatives": [

@@ -1691,6 +1691,188 @@
     "origin": "ottoman",
     "word": "biçim"
   },
+  "centralizim": {
+    "alternatives": [
+      "qendërzim"
+    ],
+    "origin": "italian",
+    "word": "centralizzazione"
+  },
+  "centralizimi": {
+    "alternatives": [
+      "qendërzimi"
+    ],
+    "origin": "italian",
+    "word": "centralizzazione"
+  },
+  "centralizimit": {
+    "alternatives": [
+      "qendërzimit"
+    ],
+    "origin": "italian",
+    "word": "centralizzazione"
+  },
+  "centralizimin": {
+    "alternatives": [
+      "qendërzimin"
+    ],
+    "origin": "italian",
+    "word": "centralizzazione"
+  },
+  "centralizime": {
+    "alternatives": [
+      "qendërzime"
+    ],
+    "origin": "italian",
+    "word": "centralizzazione"
+  },
+  "centralizimet": {
+    "alternatives": [
+      "qendërzimet"
+    ],
+    "origin": "italian",
+    "word": "centralizzazione"
+  },
+  "centralizimeve": {
+    "alternatives": [
+      "qendërzimeve"
+    ],
+    "origin": "italian",
+    "word": "centralizzazione"
+  },
+  "centralizuar": {
+    "alternatives": [
+      "qendërzuar"
+    ],
+    "origin": "italian",
+    "word": "centralizzato"
+  },
+  "centralizuara": {
+    "alternatives": [
+      "qendërzuara"
+    ],
+    "origin": "italian",
+    "word": "centralizzato"
+  },
+  "centralizoj": {
+    "alternatives": [
+      "qendërzoj"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizon": {
+    "alternatives": [
+      "qendërzon"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizojmë": {
+    "alternatives": [
+      "qendërzojmë"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizoni": {
+    "alternatives": [
+      "qendërzoni"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizojnë": {
+    "alternatives": [
+      "qendërzojnë"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizoja": {
+    "alternatives": [
+      "qendërzoja"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizoje": {
+    "alternatives": [
+      "qendërzoje"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizonte": {
+    "alternatives": [
+      "qendërzonte"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizonim": {
+    "alternatives": [
+      "qendërzonim"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizonit": {
+    "alternatives": [
+      "qendërzonit"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizonin": {
+    "alternatives": [
+      "qendërzonin"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizova": {
+    "alternatives": [
+      "qendërzova"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizove": {
+    "alternatives": [
+      "qendërzove"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizoi": {
+    "alternatives": [
+      "qendërzoi"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizuam": {
+    "alternatives": [
+      "qendërzuam"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizuat": {
+    "alternatives": [
+      "qendërzuat"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
+  "centralizuan": {
+    "alternatives": [
+      "qendërzuan"
+    ],
+    "origin": "italian",
+    "word": "centralizzare"
+  },
   "cirkuit": {
     "alternatives": [
       "qark",
@@ -1974,6 +2156,132 @@
     ],
     "word": "distributor",
     "origin": "english"
+  },
+  "elaboroj": {
+    "alternatives": [
+      "shtjelloj"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboron": {
+    "alternatives": [
+      "shtjellon"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaborojmë": {
+    "alternatives": [
+      "shtjellojmë"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboroni": {
+    "alternatives": [
+      "shtjelloni"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaborojnë": {
+    "alternatives": [
+      "shtjellojnë"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboroja": {
+    "alternatives": [
+      "shtjelloja"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboroje": {
+    "alternatives": [
+      "shtjelloje"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboronte": {
+    "alternatives": [
+      "shtjellonte"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboronim": {
+    "alternatives": [
+      "shtjellonim"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboronit": {
+    "alternatives": [
+      "shtjellonit"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboronin": {
+    "alternatives": [
+      "shtjellonin"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaborova": {
+    "alternatives": [
+      "shtjellova"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaborove": {
+    "alternatives": [
+      "shtjellove"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboroi": {
+    "alternatives": [
+      "shtjelloi"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboruam": {
+    "alternatives": [
+      "shtjelluam"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboruat": {
+    "alternatives": [
+      "shtjelluat"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboruan": {
+    "alternatives": [
+      "shtjelluan"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
+  },
+  "elaboruar": {
+    "alternatives": [
+      "shtjelluar"
+    ],
+    "origin": "italian",
+    "word": "elaborare"
   },
   "evaziv": {
     "alternatives": [
@@ -6530,6 +6838,20 @@
     ],
     "origin": "english",
     "word": "loyalty"
+  },
+  "marinuar": {
+    "alternatives": [
+      "regjur"
+    ],
+    "word": "marinated",
+    "origin": "english"
+  },
+  "marinuara": {
+    "alternatives": [
+      "regjura"
+    ],
+    "word": "marinated",
+    "origin": "english"
   },
   "mazhorancë": {
     "alternatives": [

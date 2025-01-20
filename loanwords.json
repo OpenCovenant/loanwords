@@ -486,6 +486,55 @@
     "word": "accumulate",
     "origin": "english"
   },
+  "ala": {
+    "alternatives": [
+      "ende"
+    ],
+    "origin": "ottoman",
+    "word": "hala"
+  },
+  "alegri": {
+    "alternatives": [
+      "hare"
+    ],
+    "origin": "italian",
+    "word": "allegria"
+  },
+  "alegria": {
+    "alternatives": [
+      "hareja"
+    ],
+    "origin": "italian",
+    "word": "allegria"
+  },
+  "alegrisë": {
+    "alternatives": [
+      "haresë"
+    ],
+    "origin": "italian",
+    "word": "allegria"
+  },
+  "alegrinë": {
+    "alternatives": [
+      "harenë"
+    ],
+    "origin": "italian",
+    "word": "allegria"
+  },
+  "alegritë": {
+    "alternatives": [
+      "haretë"
+    ],
+    "origin": "italian",
+    "word": "allegria"
+  },
+  "alegrive": {
+    "alternatives": [
+      "hareve"
+    ],
+    "origin": "italian",
+    "word": "allegria"
+  },  
   "alokim": {
     "alternatives": [
       "livrim",
@@ -1006,6 +1055,55 @@
   "apikulturës": {
     "alternatives": [
       "bletarisë"
+    ],
+    "origin": "english",
+    "word": "apiculture"
+  },
+  "aproç": {
+    "alternatives": [
+      "përqasje"
+    ],
+    "origin": "english",
+    "word": "apiculture"
+  },
+  "aproçi": {
+    "alternatives": [
+      "përqasja"
+    ],
+    "origin": "english",
+    "word": "apiculture"
+  },
+  "aproçit": {
+    "alternatives": [
+      "përqasjes"
+    ],
+    "origin": "english",
+    "word": "apiculture"
+  },
+  "aproçin": {
+    "alternatives": [
+      "përqasjen"
+    ],
+    "origin": "english",
+    "word": "apiculture"
+  },
+  "aproçe": {
+    "alternatives": [
+      "përqasje"
+    ],
+    "origin": "english",
+    "word": "apiculture"
+  },
+  "aproçet": {
+    "alternatives": [
+      "përqasjet"
+    ],
+    "origin": "english",
+    "word": "apiculture"
+  },
+  "aproçeve": {
+    "alternatives": [
+      "përqasjeve"
     ],
     "origin": "english",
     "word": "apiculture"
@@ -2906,6 +3004,13 @@
     ],
     "origin": "ottoman",
     "word": "hair"
+  },
+  "hala": {
+    "alternatives": [
+      "ende"
+    ],
+    "origin": "ottoman",
+    "word": "hala"
   },
   "hale": {
     "alternatives": [

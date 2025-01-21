@@ -9109,5 +9109,138 @@
     ],
     "origin": "ottoman",
     "word": "komshi"
+  },
+  "uniseks": {
+    "alternatives": [
+      "bashkëgjinore"
+    ],
+    "origin": "english",
+    "word": "unisex"
+  },
+  "spunto": {
+    "alternatives": [
+      "shtysë"
+    ],
+    "origin": "italian",
+    "word": "spunto"
+  },
+  "spuntua": {
+    "alternatives": [
+      "shtysa"
+    ],
+    "origin": "italian",
+    "word": "spunto"
+  },
+  "spuntos": {
+    "alternatives": [
+      "shtysës"
+    ],
+    "origin": "italian",
+    "word": "spunto"
+  },
+  "spunton": {
+    "alternatives": [
+      "shtysën"
+    ],
+    "origin": "italian",
+    "word": "spunto"
+  },
+  "spuntot": {
+    "alternatives": [
+      "shtysat"
+    ],
+    "origin": "italian",
+    "word": "spunto"
+  },
+  "spuntove": {
+    "alternatives": [
+      "shtysave"
+    ],
+    "origin": "italian",
+    "word": "spunto"
+  },
+  "braçale": {
+    "alternatives": [
+      "krahëza"
+    ],
+    "origin": "italian",
+    "word": "bracciali"
+  },
+  "braçalet": {
+    "alternatives": [
+      "krahëzat"
+    ],
+    "origin": "italian",
+    "word": "bracciali"
+  },
+  "braçaleve": {
+    "alternatives": [
+      "krahëzave"
+    ],
+    "origin": "italian",
+    "word": "bracciali"
+  },
+  "paakseptueshëm": {
+    "alternatives": [
+      "papranueshëm"
+    ],
+    "origin": "english",
+    "word": "unacceptable"
+  },
+  "paakseptueshme": {
+    "alternatives": [
+      "papranueshme"
+    ],
+    "origin": "english",
+    "word": "unacceptable"
+  },
+  "shokim": {
+    "alternatives": [
+      "tronditje"
+    ],
+    "origin": "english",
+    "word": "shock"
+  },
+  "shokimi": {
+    "alternatives": [
+      "tronditja"
+    ],
+    "origin": "english",
+    "word": "shock"
+  },
+  "shokimit": {
+    "alternatives": [
+      "tronditjes"
+    ],
+    "origin": "english",
+    "word": "shock"
+  },
+  "shokimin": {
+    "alternatives": [
+      "tronditjen"
+    ],
+    "origin": "english",
+    "word": "shock"
+  },
+  "shokime": {
+    "alternatives": [
+      "tronditje"
+    ],
+    "origin": "english",
+    "word": "shock"
+  },
+  "shokimet": {
+    "alternatives": [
+      "tronditjet"
+    ],
+    "origin": "english",
+    "word": "shock"
+  },
+  "shokimeve": {
+    "alternatives": [
+      "tronditjeve"
+    ],
+    "origin": "english",
+    "word": "shock"
   }
 }

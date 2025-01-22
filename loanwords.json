@@ -9242,5 +9242,131 @@
     ],
     "origin": "english",
     "word": "shock"
+  },
+  "multifunksional": {
+    "alternatives": [
+      "shumëpërdorimësh"
+    ],
+    "origin": "english",
+    "word": "multifunctional"
+  },
+  "multifunksionale": {
+    "alternatives": [
+      "shumëpërdorimshe"
+    ],
+    "origin": "english",
+    "word": "multifunctional"
+  },
+  "spiritual": {
+    "alternatives": [
+      "shpirtëror"
+    ],
+    "origin": "english",
+    "word": "spiritual"
+  },
+  "spirituale": {
+    "alternatives": [
+      "shpirtërore"
+    ],
+    "origin": "english",
+    "word": "spiritual"
+  },
+  "akronim": {
+    "alternatives": [
+      "shkurtesë"
+    ],
+    "origin": "english",
+    "word": "acronym"
+  },
+  "akronimi": {
+    "alternatives": [
+      "shkurtesa"
+    ],
+    "origin": "english",
+    "word": "acronym"
+  },
+  "akronimit": {
+    "alternatives": [
+      "shkurtesës"
+    ],
+    "origin": "english",
+    "word": "acronym"
+  },
+  "akronimin": {
+    "alternatives": [
+      "shkurtesën"
+    ],
+    "origin": "english",
+    "word": "acronym"
+  },
+  "akronime": {
+    "alternatives": [
+      "shkurtesa"
+    ],
+    "origin": "english",
+    "word": "acronym"
+  },
+  "akronimet": {
+    "alternatives": [
+      "shkurtesat"
+    ],
+    "origin": "english",
+    "word": "acronym"
+  },
+  "akronimeve": {
+    "alternatives": [
+      "shkurtesave"
+    ],
+    "origin": "english",
+    "word": "acronym"
+  },
+  "glorifikim": {
+    "alternatives": [
+      "himnizim"
+    ],
+    "origin": "english",
+    "word": "glorification"
+  },
+  "glorifikimi": {
+    "alternatives": [
+      "himnizimi"
+    ],
+    "origin": "english",
+    "word": "glorification"
+  },
+  "glorifikimit": {
+    "alternatives": [
+      "himnizimit"
+    ],
+    "origin": "english",
+    "word": "glorification"
+  },
+  "glorifikimin": {
+    "alternatives": [
+      "himnizimin"
+    ],
+    "origin": "english",
+    "word": "glorification"
+  },
+  "glorifikime": {
+    "alternatives": [
+      "himnizime"
+    ],
+    "origin": "english",
+    "word": "glorification"
+  },
+  "glorifikimet": {
+    "alternatives": [
+      "himnizimet"
+    ],
+    "origin": "english",
+    "word": "glorification"
+  },
+  "glorifikimeve": {
+    "alternatives": [
+      "himnizimeve"
+    ],
+    "origin": "english",
+    "word": "glorification"
   }
 }

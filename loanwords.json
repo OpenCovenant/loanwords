@@ -9560,5 +9560,275 @@
     ],
     "origin": "italian",
     "word": "colore"
-  }
+  },
+  "kredibilitet": {
+    "alternatives": [
+      "besueshmëri"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "kredibiliteti": {
+    "alternatives": [
+      "besueshmëria"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "kredibilitetit": {
+    "alternatives": [
+      "besueshmërisë"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "kredibilitetin": {
+    "alternatives": [
+      "besueshmërinë"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "kredibilitete": {
+    "alternatives": [
+      "besueshmëri"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "kredibilitetet": {
+    "alternatives": [
+      "besueshmëritë"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "superlativë": {
+    "alternatives": [
+      "sipëri"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "superlativa": {
+    "alternatives": [
+      "sipëria"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "superlativës": {
+    "alternatives": [
+      "sipërisë"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "superlativën": {
+    "alternatives": [
+      "sipërinë"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "superlativat": {
+    "alternatives": [
+      "sipëritë"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "superlativave": {
+    "alternatives": [
+      "sipërive"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "kioskë": {
+    "alternatives": [
+      "tregtizë"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "kioska": {
+    "alternatives": [
+      "tregtiza"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "kioskës": {
+    "alternatives": [
+      "tregtizës"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "kioskën": {
+    "alternatives": [
+      "tregtizën"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "kioskat": {
+    "alternatives": [
+      "tregtizat"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "kioskave": {
+    "alternatives": [
+      "tregtizave"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "definoj": {
+    "alternatives": [
+      "përcaktoj",
+      "përkufizoj"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definon": {
+    "alternatives": [
+      "përcakton",
+      "përkufizon"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definojmë": {
+    "alternatives": [
+      "përcaktojmë",
+      "përkufizojmë"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definoni": {
+    "alternatives": [
+      "përcaktoni",
+      "përkufizoni"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definojnë": {
+    "alternatives": [
+      "përcaktojnë",
+      "përkufizojnë"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definoja": {
+    "alternatives": [
+      "përcaktoja",
+      "përkufizoja"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definoje": {
+    "alternatives": [
+      "përcaktoje",
+      "përkufizoje"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definonte": {
+    "alternatives": [
+      "përcaktonte",
+      "përkufizonte"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definonim": {
+    "alternatives": [
+      "përcaktonim",
+      "përkufizonim"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definonit": {
+    "alternatives": [
+      "përcaktonit",
+      "përkufizonit"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definonin": {
+    "alternatives": [
+      "përcaktonin",
+      "përkufizonin"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definova": {
+    "alternatives": [
+      "përcaktova",
+      "përkufizova"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definove": {
+    "alternatives": [
+      "përcaktove",
+      "përkufizove"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definoi": {
+    "alternatives": [
+      "përcaktoi",
+      "përkufizoi"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definuam": {
+    "alternatives": [
+      "përcaktuam",
+      "përkufizuam"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definuat": {
+    "alternatives": [
+      "përcaktuat",
+      "përkufizuat"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definuan": {
+    "alternatives": [
+      "përcaktuan",
+      "përkufizuan"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definuar": {
+    "alternatives": [
+      "përcaktuar",
+      "përkufizuar"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  } 
 }

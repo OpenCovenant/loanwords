@@ -9560,5 +9560,435 @@
     ],
     "origin": "italian",
     "word": "colore"
+  },
+  "kredibilitet": {
+    "alternatives": [
+      "besueshmëri"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "kredibiliteti": {
+    "alternatives": [
+      "besueshmëria"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "kredibilitetit": {
+    "alternatives": [
+      "besueshmërisë"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "kredibilitetin": {
+    "alternatives": [
+      "besueshmërinë"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "kredibilitete": {
+    "alternatives": [
+      "besueshmëri"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "kredibilitetet": {
+    "alternatives": [
+      "besueshmëritë"
+    ],
+    "origin": "italian",
+    "word": "credibilita"
+  },
+  "superlativë": {
+    "alternatives": [
+      "sipëri"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "superlativa": {
+    "alternatives": [
+      "sipëria"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "superlativës": {
+    "alternatives": [
+      "sipërisë"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "superlativën": {
+    "alternatives": [
+      "sipërinë"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "superlativat": {
+    "alternatives": [
+      "sipëritë"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "superlativave": {
+    "alternatives": [
+      "sipërive"
+    ],
+    "origin": "italian",
+    "word": "superlativa"
+  },
+  "kioskë": {
+    "alternatives": [
+      "tregtizë"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "kioska": {
+    "alternatives": [
+      "tregtiza"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "kioskës": {
+    "alternatives": [
+      "tregtizës"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "kioskën": {
+    "alternatives": [
+      "tregtizën"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "kioskat": {
+    "alternatives": [
+      "tregtizat"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "kioskave": {
+    "alternatives": [
+      "tregtizave"
+    ],
+    "origin": "german",
+    "word": "kiosk"
+  },
+  "definoj": {
+    "alternatives": [
+      "përcaktoj",
+      "përkufizoj"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definon": {
+    "alternatives": [
+      "përcakton",
+      "përkufizon"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definojmë": {
+    "alternatives": [
+      "përcaktojmë",
+      "përkufizojmë"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definoni": {
+    "alternatives": [
+      "përcaktoni",
+      "përkufizoni"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definojnë": {
+    "alternatives": [
+      "përcaktojnë",
+      "përkufizojnë"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definoja": {
+    "alternatives": [
+      "përcaktoja",
+      "përkufizoja"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definoje": {
+    "alternatives": [
+      "përcaktoje",
+      "përkufizoje"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definonte": {
+    "alternatives": [
+      "përcaktonte",
+      "përkufizonte"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definonim": {
+    "alternatives": [
+      "përcaktonim",
+      "përkufizonim"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definonit": {
+    "alternatives": [
+      "përcaktonit",
+      "përkufizonit"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definonin": {
+    "alternatives": [
+      "përcaktonin",
+      "përkufizonin"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definova": {
+    "alternatives": [
+      "përcaktova",
+      "përkufizova"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definove": {
+    "alternatives": [
+      "përcaktove",
+      "përkufizove"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definoi": {
+    "alternatives": [
+      "përcaktoi",
+      "përkufizoi"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definuam": {
+    "alternatives": [
+      "përcaktuam",
+      "përkufizuam"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definuat": {
+    "alternatives": [
+      "përcaktuat",
+      "përkufizuat"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definuan": {
+    "alternatives": [
+      "përcaktuan",
+      "përkufizuan"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "definuar": {
+    "alternatives": [
+      "përcaktuar",
+      "përkufizuar"
+    ],
+    "origin": "italian",
+    "word": "definire"
+  },
+  "kompeticion": {
+    "alternatives": [
+      "konkurs",
+      "garë",
+      "konkurrencë"
+    ],
+    "origin": "italian",
+    "word": "competizione"
+  },
+  "kompeticioni": {
+    "alternatives": [
+      "konkursi",
+      "gara",
+      "konkurrenca"
+    ],
+    "origin": "italian",
+    "word": "competizione"
+  },
+  "kompeticionit": {
+    "alternatives": [
+      "konkursit",
+      "garës",
+      "konkurrencës"
+    ],
+    "origin": "italian",
+    "word": "competizione"
+  },
+  "kompeticionin": {
+    "alternatives": [
+      "konkurs",
+      "garën",
+      "konkurrencën"
+    ],
+    "origin": "italian",
+    "word": "competizione"
+  },
+  "kompeticione": {
+    "alternatives": [
+      "konkurse",
+      "gara",
+      "konkurrenca"
+    ],
+    "origin": "italian",
+    "word": "competizione"
+  },
+  "kompeticionet": {
+    "alternatives": [
+      "konkurset",
+      "garat",
+      "konkurrencat"
+    ],
+    "origin": "italian",
+    "word": "competizione"
+  },
+  "kompeticioneve": {
+    "alternatives": [
+      "konkurseve",
+      "garave",
+      "konkurrencave"
+    ],
+    "origin": "italian",
+    "word": "competizione"
+  },
+  "terciar": {
+    "alternatives": [
+      "tretësor"
+    ],
+    "origin": "italian",
+    "word": "terziario"
+  },
+  "terciare": {
+    "alternatives": [
+      "tretësore"
+    ],
+    "origin": "italian",
+    "word": "terziario"
+  },
+  "pexhorativ": {
+    "alternatives": [
+      "përbuzës",
+      "përçmues",
+      "përkeqësues"
+    ],
+    "origin": "italian",
+    "word": "peggiorativo"
+  },
+  "pexhorative": {
+    "alternatives": [
+      "përbuzëse",
+      "përçmuese",
+      "përkeqësuese"
+    ],
+    "origin": "italian",
+    "word": "peggiorativo"
+  },
+  "iksçeinxh": {
+    "alternatives": [
+      "këmbimore"
+    ],
+    "origin": "english",
+    "word": "exchange"
+  },
+  "iksçeinxhi": {
+    "alternatives": [
+      "këmbimorja"
+    ],
+    "origin": "english",
+    "word": "exchange"
+  },
+  "iksçeinxhit": {
+    "alternatives": [
+      "këmbimores"
+    ],
+    "origin": "english",
+    "word": "exchange"
+  },
+  "iksçeinxhin": {
+    "alternatives": [
+      "këmbimoren"
+    ],
+    "origin": "english",
+    "word": "exchange"
+  },
+  "iksçeinxhe": {
+    "alternatives": [
+      "këmbimore"
+    ],
+    "origin": "english",
+    "word": "exchange"
+  },
+  "iksçeinxhet": {
+    "alternatives": [
+      "këmbimoret"
+    ],
+    "origin": "english",
+    "word": "exchange"
+  },
+  "iksçeinxheve": {
+    "alternatives": [
+      "këmbimoreve"
+    ],
+    "origin": "english",
+    "word": "exchange"
+  },
+  "sinjifikativ": {
+    "alternatives": [
+      "domethënës",
+      "kuptimplotë"
+    ],
+    "origin": "italian",
+    "word": "significvativo"
+  },
+  "sinjifikative": {
+    "alternatives": [
+      "domethënëse",
+      "kuptimplotë"
+    ],
+    "origin": "italian",
+    "word": "significvativo"
   }
 }

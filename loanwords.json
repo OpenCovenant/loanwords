@@ -9990,5 +9990,354 @@
     ],
     "origin": "italian",
     "word": "significvativo"
+  },
+  "incenerator": {
+    "alternatives": [
+      "djegtore"
+    ],
+    "origin": "english",
+    "word": "incinerator"
+  },
+  "inceneratori": {
+    "alternatives": [
+      "djegtorja"
+    ],
+    "origin": "english",
+    "word": "incinerator"
+  },
+  "inceneratorit": {
+    "alternatives": [
+      "djegtores"
+    ],
+    "origin": "english",
+    "word": "incinerator"
+  },
+  "inceneratorin": {
+    "alternatives": [
+      "djegtoren"
+    ],
+    "origin": "english",
+    "word": "incinerator"
+  },
+  "inceneratorë": {
+    "alternatives": [
+      "djegtore"
+    ],
+    "origin": "english",
+    "word": "incinerator"
+  },
+  "inceneratorët": {
+    "alternatives": [
+      "djegtoret"
+    ],
+    "origin": "english",
+    "word": "incinerator"
+  },
+  "inceneratorëve": {
+    "alternatives": [
+      "djegtoreve"
+    ],
+    "origin": "english",
+    "word": "incinerator"
+  },
+  "nutricionist": {
+    "alternatives": [
+      "dietolog",
+      "ushqimtar"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricionisti": {
+    "alternatives": [
+      "dietologu",
+      "ushqimtari"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricionistit": {
+    "alternatives": [
+      "dietologut",
+      "ushqimtarit"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricionistin": {
+    "alternatives": [
+      "dietologun",
+      "ushqimtarin"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricionistë": {
+    "alternatives": [
+      "dietologë",
+      "ushqimtarë"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricionistët": {
+    "alternatives": [
+      "dietologët",
+      "ushqimtarët"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricionistëve": {
+    "alternatives": [
+      "dietologëve",
+      "ushqimtarëve"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricioniste": {
+    "alternatives": [
+      "dietologe",
+      "ushqimtare"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricionistja": {
+    "alternatives": [
+      "dietologja",
+      "ushqimtarja"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricionistes": {
+    "alternatives": [
+      "dietologes",
+      "ushqimtares"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricionisten": {
+    "alternatives": [
+      "dietologen",
+      "ushqimtaren"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricionistet": {
+    "alternatives": [
+      "dietologet",
+      "ushqimtaret"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "nutricionisteve": {
+    "alternatives": [
+      "dietologeve",
+      "ushqimtareve"
+    ],
+    "origin": "english",
+    "word": "nutritionist"
+  },
+  "brand": {
+    "alternatives": [
+      "markë"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brandi": {
+    "alternatives": [
+      "marka"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brandit": {
+    "alternatives": [
+      "markës"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brandin": {
+    "alternatives": [
+      "markën"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brande": {
+    "alternatives": [
+      "marka"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brandet": {
+    "alternatives": [
+      "markat"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brandeve": {
+    "alternatives": [
+      "markave"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brend": {
+    "alternatives": [
+      "markë"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brendi": {
+    "alternatives": [
+      "marka"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brendit": {
+    "alternatives": [
+      "markës"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brendin": {
+    "alternatives": [
+      "markën"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brende": {
+    "alternatives": [
+      "marka"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brendet": {
+    "alternatives": [
+      "markat"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "brendeve": {
+    "alternatives": [
+      "markave"
+    ],
+    "origin": "english",
+    "word": "brand"
+  },
+  "uikend": {
+    "alternatives": [
+      "fundjavë"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "uikendi": {
+    "alternatives": [
+      "fundjava"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "uikendit": {
+    "alternatives": [
+      "fundjavës"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "uikendin": {
+    "alternatives": [
+      "fundjavën"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "uikende": {
+    "alternatives": [
+      "fundjava"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "uikendet": {
+    "alternatives": [
+      "fundjavat"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "uikendeve": {
+    "alternatives": [
+      "fundjavave"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "vikend": {
+    "alternatives": [
+      "fundjavë"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "vikendi": {
+    "alternatives": [
+      "fundjava"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "vikendit": {
+    "alternatives": [
+      "fundjavës"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "vikendin": {
+    "alternatives": [
+      "fundjavën"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "vikende": {
+    "alternatives": [
+      "fundjava"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "vikendet": {
+    "alternatives": [
+      "fundjavat"
+    ],
+    "origin": "english",
+    "word": "weekend"
+  },
+  "vikendeve": {
+    "alternatives": [
+      "fundjavave"
+    ],
+    "origin": "english",
+    "word": "weekend"
   }
 }

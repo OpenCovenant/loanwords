@@ -10339,5 +10339,286 @@
     ],
     "origin": "english",
     "word": "weekend"
+  },
+  "landfill": {
+    "alternatives": [
+      "vendgrumbullim",
+      "vendmbulim"
+    ],
+    "origin": "english",
+    "word": "landfill"
+  },
+  "landfilli": {
+    "alternatives": [
+      "vendgrumbullimi",
+      "vendmbulimi"
+    ],
+    "origin": "english",
+    "word": "landfill"
+  },
+  "landfillit": {
+    "alternatives": [
+      "vendgrumbullimit",
+      "vendmbulimit"
+    ],
+    "origin": "english",
+    "word": "landfill"
+  },
+  "landfillin": {
+    "alternatives": [
+      "vendgrumbullimin",
+      "vendmbulimin"
+    ],
+    "origin": "english",
+    "word": "landfill"
+  },
+  "landfille": {
+    "alternatives": [
+      "vendgrumbullime",
+      "vendmbulime"
+    ],
+    "origin": "english",
+    "word": "landfill"
+  },
+  "landfillet": {
+    "alternatives": [
+      "vendgrumbullimet",
+      "vendmbulimet"
+    ],
+    "origin": "english",
+    "word": "landfill"
+  },
+  "landfilleve": {
+    "alternatives": [
+      "vendgrumbullimeve",
+      "vendmbulimeve"
+    ],
+    "origin": "english",
+    "word": "landfill"
+  },
+  "target": {
+    "alternatives": [
+      "shenjë",
+      "objektiv",
+      "synim"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targeti": {
+    "alternatives": [
+      "shenja",
+      "objektivi",
+      "synimi"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetit": {
+    "alternatives": [
+      "shenjës",
+      "objektivit",
+      "synimit"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetin": {
+    "alternatives": [
+      "shenjën",
+      "objektivin",
+      "synimin"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targete": {
+    "alternatives": [
+      "shenja",
+      "objektiva",
+      "synime"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetet": {
+    "alternatives": [
+      "shenjat",
+      "objektivat",
+      "synimet"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targeteve": {
+    "alternatives": [
+      "shenjave",
+      "objektivave",
+      "synimeve"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetoj": {
+    "alternatives": [
+      "shënjoj",
+      "synoj",
+      "piketoj"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targeton": {
+    "alternatives": [
+      "shënjon",
+      "synon",
+      "piketon"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetojmë": {
+    "alternatives": [
+      "shënjojmë",
+      "synojmë",
+      "piketojmë"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetoni": {
+    "alternatives": [
+      "shënjoni",
+      "synoni",
+      "piketoni"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetojnë": {
+    "alternatives": [
+      "shënjojnë",
+      "synojnë",
+      "piketojnë"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetoja": {
+    "alternatives": [
+      "shënjoja",
+      "synoja",
+      "piketoja"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetoje": {
+    "alternatives": [
+      "shënjoje",
+      "synoje",
+      "piketoje"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetonte": {
+    "alternatives": [
+      "shënjonte",
+      "synonte",
+      "piketonte"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetonim": {
+    "alternatives": [
+      "shënjonim",
+      "synonim",
+      "piketonim"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetnit": {
+    "alternatives": [
+      "shënjonit",
+      "synonit",
+      "piketonit"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetonin": {
+    "alternatives": [
+      "shënjonin",
+      "synonin",
+      "piketonin"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetova": {
+    "alternatives": [
+      "shënjova",
+      "synova",
+      "piketova"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetove": {
+    "alternatives": [
+      "shënjove",
+      "synove",
+      "piketove"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetoi": {
+    "alternatives": [
+      "shënjoi",
+      "synoi",
+      "piketoi"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetuam": {
+    "alternatives": [
+      "shënjuam",
+      "synuam",
+      "piketuam"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetuat": {
+    "alternatives": [
+      "shënjuat",
+      "synuat",
+      "piketuat"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetuan": {
+    "alternatives": [
+      "shënjuan",
+      "synuan",
+      "piketuan"
+    ],
+    "origin": "english",
+    "word": "target"
+  },
+  "targetuar": {
+    "alternatives": [
+      "shënjuar",
+      "synuar",
+      "piketuar"
+    ],
+    "origin": "english",
+    "word": "target"
   }
 }
